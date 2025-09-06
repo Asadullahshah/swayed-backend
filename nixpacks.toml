@@ -6,3 +6,4 @@ cmds = ["pip install -r requirements.txt"]
 
 [phases.start]
 cmd = "uvicorn scrape.main:app --host 0.0.0.0 --port $PORT"
+cmd = "uvicorn remix.main:app --host 0.0.0.0 --port $PORT"
