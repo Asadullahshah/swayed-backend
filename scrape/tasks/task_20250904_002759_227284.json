@@ -1,0 +1,297 @@
+{
+  "status": "completed",
+  "started_at": "2025-09-04T00:27:59.229280",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://www.instagram.com/natgeo/",
+      "platform": "instagram",
+      "username": "natgeo",
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "url": "https://x.com/AndrewBolis",
+      "platform": "twitter",
+      "username": "AndrewBolis",
+      "status": "pending"
+    },
+    {
+      "index": 3,
+      "url": "https://www.youtube.com/@NatGeo/",
+      "platform": "youtube",
+      "username": "NatGeo",
+      "status": "pending"
+    },
+    {
+      "index": 4,
+      "url": "https://www.tiktok.com/@natgeo",
+      "platform": "tiktok",
+      "username": "natgeo",
+      "status": "pending"
+    },
+    {
+      "index": 5,
+      "url": "https://www.linkedin.com/in/andrewyng",
+      "platform": "linkedin",
+      "username": "andrewyng",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "youtube",
+    "twitter",
+    "linkedin",
+    "tiktok",
+    "instagram"
+  ],
+  "total_urls": 5,
+  "result_data": [
+    {
+      "platform": "youtube",
+      "content_type": "video",
+      "id": null,
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=HCHJsKnu3Ic",
+      "text": "To Catch a Smuggler: Drugs Across America | Season 5 MEGA EPISODE | National Geographic",
+      "description": "",
+      "video_url": "https://www.youtube.com/watch?v=HCHJsKnu3Ic",
+      "image_urls": [
+        "https://i.ytimg.com/vi/HCHJsKnu3Ic/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCjst5JQXbI9TFATAiATI0QGdr7Eg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 168658,
+        "likes": 0,
+        "comments": 0,
+        "shares": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "National Geographic",
+        "username": null,
+        "profile_url": "https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A",
+        "subscribers_count": 0
+      },
+      "timestamp": null,
+      "duration": "4:24:52",
+      "thumbnail_url": "https://i.ytimg.com/vi/HCHJsKnu3Ic/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCjst5JQXbI9TFATAiATI0QGdr7Eg",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.youtube.com/@NatGeo/",
+      "engagement_score": 16865.8,
+      "post_number": "post_1"
+    },
+    {
+      "platform": "youtube",
+      "content_type": "video",
+      "id": null,
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=tEBnTpVh95g",
+      "text": "Lost in the Jungle | Official Trailer | National Geographic Documentary Films",
+      "description": "",
+      "video_url": "https://www.youtube.com/watch?v=tEBnTpVh95g",
+      "image_urls": [
+        "https://i.ytimg.com/vi/tEBnTpVh95g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCMXMLLz3VSUYMnZzudLxbZVYcQlw"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 151586,
+        "likes": 0,
+        "comments": 0,
+        "shares": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "National Geographic",
+        "username": null,
+        "profile_url": "https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A",
+        "subscribers_count": 0
+      },
+      "timestamp": null,
+      "duration": "2:34",
+      "thumbnail_url": "https://i.ytimg.com/vi/tEBnTpVh95g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCMXMLLz3VSUYMnZzudLxbZVYcQlw",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.youtube.com/@NatGeo/",
+      "engagement_score": 15158.6,
+      "post_number": "post_2"
+    },
+    {
+      "platform": "youtube",
+      "content_type": "video",
+      "id": null,
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=MrShzfw0L40",
+      "text": "Worst Case Scenario (Full Episode) | Hurricane Katrina: Race Against Time | National Geographic",
+      "description": "",
+      "video_url": "https://www.youtube.com/watch?v=MrShzfw0L40",
+      "image_urls": [
+        "https://i.ytimg.com/vi/MrShzfw0L40/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAfVj5u51N8q-9ah8oodKJI43pDLw"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 109022,
+        "likes": 0,
+        "comments": 0,
+        "shares": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "National Geographic",
+        "username": null,
+        "profile_url": "https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A",
+        "subscribers_count": 0
+      },
+      "timestamp": null,
+      "duration": "44:18",
+      "thumbnail_url": "https://i.ytimg.com/vi/MrShzfw0L40/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAfVj5u51N8q-9ah8oodKJI43pDLw",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.youtube.com/@NatGeo/",
+      "engagement_score": 10902.2,
+      "post_number": "post_3"
+    },
+    {
+      "platform": "tiktok",
+      "content_type": "video",
+      "id": "7545109343159520526",
+      "type": "video",
+      "url": "https://www.tiktok.com/@natgeo/video/7545109343159520526",
+      "text": "American pikas are more than just adorable furballs—they're voracious scavengers that make sure to look out for one another. #AmericasNationalParks is now streaming on @Disney+ and @hulu",
+      "video_url": "https://www.tiktok.com/@natgeo/video/7545109343159520526",
+      "image_urls": [],
+      "media_count": 1,
+      "stats": {
+        "views": 50700,
+        "likes": 6510,
+        "comments": 60,
+        "shares": 676,
+        "collects": 268
+      },
+      "hashtags": [
+        "americasnationalparks"
+      ],
+      "author": {
+        "name": "National Geographic",
+        "username": "natgeo",
+        "profile_url": "https://www.tiktok.com/@natgeo",
+        "followers_count": 9200000,
+        "verified": true
+      },
+      "timestamp": "2025-09-01T13:18:36.000Z",
+      "duration": null,
+      "scraped_at": null,
+      "URL_GROUP": "https://www.tiktok.com/@natgeo",
+      "engagement_score": 10140.0,
+      "post_number": "post_4"
+    },
+    {
+      "platform": "tiktok",
+      "content_type": "video",
+      "id": "7544023483819330830",
+      "type": "video",
+      "url": "https://www.tiktok.com/@natgeo/video/7544023483819330830",
+      "text": "Paid content for Blua, digital health by @bupa. Staying calm in high stakes situations is something we all battle with every day. For Dr. Romain Pizzi, a wildlife veterinary surgeon, he spent so much time worrying about all the things that could go wrong as he performed critical surgery in difficult locations with some of the world’s most dangerous and traumatized animals. Visualization and calmly thinking through all the possible outcomes has helped him operate without limits. Learn more about living without limits at the link in bio.",
+      "video_url": "https://www.tiktok.com/@natgeo/video/7544023483819330830",
+      "image_urls": [],
+      "media_count": 1,
+      "stats": {
+        "views": 48900,
+        "likes": 841,
+        "comments": 14,
+        "shares": 8,
+        "collects": 30
+      },
+      "hashtags": [],
+      "author": {
+        "name": "National Geographic",
+        "username": "natgeo",
+        "profile_url": "https://www.tiktok.com/@natgeo",
+        "followers_count": 9200000,
+        "verified": true
+      },
+      "timestamp": "2025-08-29T15:04:21.000Z",
+      "duration": null,
+      "scraped_at": null,
+      "URL_GROUP": "https://www.tiktok.com/@natgeo",
+      "engagement_score": 9780.0,
+      "post_number": "post_5"
+    },
+    {
+      "platform": "linkedin",
+      "content_type": "post",
+      "id": "urn:li:activity:7366883733846548480",
+      "type": "text",
+      "url": "https://www.linkedin.com/posts/andrewyng_ai-powered-phones-get-proactive-robot-antelope-activity-7366883733846548480-p0mp?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAEo3doABn0rI4q-5qRIcd-RIEjmwsAinWRs",
+      "text": "Parallel agents are emerging as an important new direction for scaling up AI. AI capabilities have scaled with more training data, training-time compute, and test-time compute. Having multiple agents run in parallel is growing as a technique to further scale and improve performance.\n\nWe know from work at Baidu by my former team, and later OpenAI, that AI models’ performance scales predictably with the amount of data and training computation. Performance rises further with test-time compute such as in agentic workflows and in reasoning models that think, reflect, and iterate on an answer. But these methods take longer to produce output. Agents working in parallel offer another path to improve results, without making users wait.\n\nReasoning models generate tokens sequentially and can take a long time to run. Similarly, most agentic workflows are initially implemented in a sequential way. But as LLM prices per token continue to fall — thus making these techniques practical — and product teams want to deliver results to users faster, more and more agentic workflows are being parallelized.\n\nSome examples:\n- Many research agents now fetch multiple web pages and examine their texts in parallel to try to synthesize deeply thoughtful research reports more quickly.\n- Some agentic coding frameworks allow users to orchestrate many agents working simultaneously on different parts of a code base. Our short course on Claude Code shows how to do this using git worktrees.\n- A rapidly growing design pattern for agentic workflows is to have a compute-heavy agent work for minutes or longer to accomplish a task, while another agent monitors the first and gives brief updates to the user to keep them informed. From here, it’s a short hop to parallel agents that work in the background while the UI agent keeps users informed and perhaps also routes asynchronous user feedback to the other agents.\n\nIt is difficult for a human manager to take a complex task (like building a complex software application) and break it down into smaller tasks for human engineers to work on in parallel; scaling to huge numbers of engineers is especially challenging. Similarly, it is also challenging to decompose tasks for parallel agents to carry out. But the falling cost of LLM inference makes it worthwhile to use a lot more tokens, and using them in parallel allows this to be done without significantly increasing the user’s waiting time.\n\nI am also encouraged by the growing body of research on parallel agents. For example, I enjoyed reading “CodeMonkeys: Scaling Test-Time Compute for Software Engineering” by Ryan Ehrlich and others, which shows how parallel code generation helps you to explore the solution space. The mixture-of-agents architecture by Junlin Wang is a surprisingly simple way to organize parallel agents.\n\n[Truncated for length. Full text, with links: https://lnkd.in/gQ98HMci ]",
+      "video_url": null,
+      "image_urls": [],
+      "media_count": 0,
+      "stats": {
+        "likes": 1841,
+        "comments": 133,
+        "shares": 137,
+        "views": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "Andrew Ng",
+        "username": "andrewyng",
+        "headline": "Founder of DeepLearning.AI; Managing General Partner of AI Fund; Exec Chairman of LandingAI",
+        "profile_url": "https://www.linkedin.com/in/andrewyng?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAqBL5gBXJ8MGhQh-qHYyxAOW-DYlHM3VLg"
+      },
+      "timestamp": "2025-08-28T17:25:52.230Z",
+      "is_activity": false,
+      "activity_description": null,
+      "scraped_at": null,
+      "URL_GROUP": "https://www.linkedin.com/in/andrewyng",
+      "engagement_score": 2506,
+      "post_number": "post_6"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": null,
+      "type": "text",
+      "url": "",
+      "text": "",
+      "video_url": null,
+      "image_urls": [],
+      "media_count": 0,
+      "stats": {
+        "views": 0,
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "bookmarks": 0
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": null,
+        "username": null,
+        "description": null,
+        "followers_count": 0,
+        "verified": false,
+        "profile_url": null,
+        "location": null,
+        "profile_image_url": null
+      },
+      "timestamp": null,
+      "language": null,
+      "scraped_at": "2025-09-04T00:31:28.688609",
+      "URL_GROUP": "https://x.com/example",
+      "engagement_score": 0.0,
+      "post_number": "post_7"
+    }
+  ],
+  "error": null,
+  "completed_at": "2025-09-04T00:34:15.236058",
+  "successful_scrapers": [
+    "instagram:https://www.instagram.com/natgeo/",
+    "twitter:https://x.com/AndrewBolis",
+    "youtube:https://www.youtube.com/@NatGeo/",
+    "tiktok:https://www.tiktok.com/@natgeo",
+    "linkedin:https://www.linkedin.com/in/andrewyng"
+  ],
+  "failed_scrapers": []
+}

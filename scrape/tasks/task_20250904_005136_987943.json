@@ -1,0 +1,417 @@
+{
+  "status": "completed",
+  "started_at": "2025-09-04T00:51:36.989936",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://www.youtube.com/@garyvee/",
+      "platform": "youtube",
+      "username": "garyvee",
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "url": "https://x.com/heysajib",
+      "platform": "twitter",
+      "username": "heysajib",
+      "status": "pending"
+    },
+    {
+      "index": 3,
+      "url": "https://www.instagram.com/theinsiders_club/",
+      "platform": "instagram",
+      "username": "theinsiders_club",
+      "status": "pending"
+    },
+    {
+      "index": 4,
+      "url": "https://www.linkedin.com/in/shafiqa-iqbal/",
+      "platform": "linkedin",
+      "username": "shafiqa-iqbal",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "linkedin",
+    "youtube",
+    "instagram",
+    "twitter"
+  ],
+  "total_urls": 4,
+  "result_data": [
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1962837586134905036",
+      "type": "image",
+      "url": "https://x.com/heysajib/status/1962837586134905036",
+      "text": "He predicted:\n\n• The Deep Learning revolution (2008)\n• The online education boom (2011)\n• China's massive AI dominance (2014)\n\nNow, Andrew Ng revealed 5 opportunities that will create more millionaires than anything before.\n\nHere's what you should know (&amp; how to prepare): ⤵️ https://t.co/9PaIpUu59V",
+      "video_url": null,
+      "image_urls": [
+        "https://pbs.twimg.com/media/Gz1mYRBaQAAzrgS.jpg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 260417,
+        "likes": 957,
+        "retweets": 104,
+        "replies": 41,
+        "quotes": 3,
+        "bookmarks": 1545
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Mushfiq Sajib",
+        "username": "heysajib",
+        "description": "🤖 AI enthusiast & educator | Talks about AI news, tips, and use cases | 54k+ followers on LinkedIn | DM for Collaboration or Email me: incredibleai.net@gmail",
+        "followers_count": 39331,
+        "verified": true,
+        "profile_url": "https://x.com/heysajib",
+        "location": "Join my Newsletter →",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679577721884770307/2Hd3y-vA_normal.jpg"
+      },
+      "timestamp": "2025-09-02T11:18:42+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-04T00:52:08.398657",
+      "URL_GROUP": "https://x.com/heysajib",
+      "engagement_score": 80412.59999999999,
+      "post_number": "post_1"
+    },
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3709388940110685035",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN6ZZZ9D2Nr/",
+      "text": "F*** paying $125 for VEO3\n\nsomeone just leaked its open-source twin for FREE.\n\n- No restrictions. No filters. No “content police.”\n\n- Run it completely offline, right on your own computer.\n\n- Or test it online, zero cost.\n\nWant in before it disappears? Drop “Wan” below and I’ll hook you up.\n\n#OpenSourceAI #Veo3Hack #AIRevolution #VideoAI #OpenSourceTools #AIVideo #CreatorHacks #UncensoredAI #FreeAIVideo #AIForCreators #AIHack #FilmIndustryAI #NextGenEditing #AIVideoTools #ContentCreationAI #AIShift",
+      "video_url": "https://scontent-lga3-1.cdninstagram.com/o1/v/t16/f2/m86/AQOnvi-uTXxEcxsRXNn2Z2AKixGMsJMR6F1TCcHyRCpp2RmVNgxzmhm2GLHN0u4oVTohvYayo22SU00LlzYEVsIrKpryFoE7M5j_fNM.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=102&vs=2497194987322599_2169989446&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81OTQ4MkIyNTkxMzdFNTgxMUEwRDNBOTZCRDFGRDg4RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ1NfSXlEVGlvVGRwTmdIQURrTTgyc2JENEZYYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJo7K9uSzjNY%2FFQIoAkMzLBdAQ2AAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=c37139ac6e&ccb=9-4&oh=00_AfZ4E_dNECOpkV79Ab0JcfJJV3hznrHTQ8lKHyn9EDj1bQ&oe=68BA9029&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-15/539523376_18029434625707431_3452802669165835297_n.jpg?stp=dst-jpg_e35_p828x828_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QHFggjgNnNFLH811stZHTq-M9mafmVsZ4-jn4XPUG1Jkuh5xhOMPkeYqcMtpyiAZ2U&_nc_ohc=qrK-wSIsnaoQ7kNvwFOU850&_nc_gid=HEZh9duFDT76x5ySfESp5w&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcwOTM4ODk0MDExMDY4NTAzNTE4MDI5NDM0NjIyNzA3NDMx.3-ccb7-5&oh=00_AfYPvxyMQL27FT2bHJi09Qxb3_5qsMUvVNomn5WZjOGKJQ&oe=68BE616E&_nc_sid=c024bc",
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-15/539523376_18029434625707431_3452802669165835297_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QHFggjgNnNFLH811stZHTq-M9mafmVsZ4-jn4XPUG1Jkuh5xhOMPkeYqcMtpyiAZ2U&_nc_ohc=qrK-wSIsnaoQ7kNvwFOU850&_nc_gid=HEZh9duFDT76x5ySfESp5w&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcwOTM4ODk0MDExMDY4NTAzNTE4MDI5NDM0NjIyNzA3NDMx.3-ccb7-5&oh=00_AfaszOI_SY7nafuPxi1dN2E0bKRSppGrPqTdseZ1iHMIUA&oe=68BE616E&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 38189,
+        "likes": 2458,
+        "comments": 8739,
+        "shares": null
+      },
+      "hashtags": [
+        "OpenSourceAI",
+        "Veo3Hack",
+        "AIRevolution",
+        "VideoAI",
+        "OpenSourceTools",
+        "AIVideo",
+        "CreatorHacks",
+        "UncensoredAI",
+        "FreeAIVideo",
+        "AIForCreators",
+        "AIHack",
+        "FilmIndustryAI",
+        "NextGenEditing",
+        "AIVideoTools",
+        "ContentCreationAI",
+        "AIShift"
+      ],
+      "author": {
+        "name": "Andres Franco",
+        "username": "theinsiders_club",
+        "profile_url": "https://instagram.com/theinsiders_club"
+      },
+      "timestamp": "2025-08-28T20:45:25.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/theinsiders_club/",
+      "engagement_score": 19094.5,
+      "post_number": "post_2"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1961749632012488975",
+      "type": "image",
+      "url": "https://x.com/heysajib/status/1961749632012488975",
+      "text": "Six months of work, automated in under an hour.\n\nNo team. No tech debt.\n\nJust describe it and watch the workflow appear.\n\nHere’s how it’s done: ⤵️ https://t.co/ehQdN5UIO3",
+      "video_url": null,
+      "image_urls": [
+        "https://pbs.twimg.com/media/GzmI5Gtb0AIekgu.jpg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 56719,
+        "likes": 67,
+        "retweets": 12,
+        "replies": 37,
+        "quotes": 1,
+        "bookmarks": 44
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Mushfiq Sajib",
+        "username": "heysajib",
+        "description": "🤖 AI enthusiast & educator | Talks about AI news, tips, and use cases | 54k+ followers on LinkedIn | DM for Collaboration or Email me: incredibleai.net@gmail",
+        "followers_count": 39331,
+        "verified": true,
+        "profile_url": "https://x.com/heysajib",
+        "location": "Join my Newsletter →",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679577721884770307/2Hd3y-vA_normal.jpg"
+      },
+      "timestamp": "2025-08-30T11:15:34+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-04T00:52:20.719097",
+      "URL_GROUP": "https://x.com/heysajib",
+      "engagement_score": 17241.2,
+      "post_number": "post_3"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1961876449008500944",
+      "type": "text",
+      "url": "https://x.com/heysajib/status/1961876449008500944",
+      "text": "I'm thinking about lots of things!\n\nBut not sure what it could be.\n\nBut hey, I'm sure it will be something incredible.",
+      "video_url": null,
+      "image_urls": [],
+      "media_count": 0,
+      "stats": {
+        "views": 52553,
+        "likes": 18,
+        "retweets": 0,
+        "replies": 8,
+        "quotes": 0,
+        "bookmarks": 1
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Mushfiq Sajib",
+        "username": "heysajib",
+        "description": "🤖 AI enthusiast & educator | Talks about AI news, tips, and use cases | 54k+ followers on LinkedIn | DM for Collaboration or Email me: incredibleai.net@gmail",
+        "followers_count": 39331,
+        "verified": true,
+        "profile_url": "https://x.com/heysajib",
+        "location": "Join my Newsletter →",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679577721884770307/2Hd3y-vA_normal.jpg"
+      },
+      "timestamp": "2025-08-30T19:39:30+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-04T00:52:20.719097",
+      "URL_GROUP": "https://x.com/heysajib",
+      "engagement_score": 15813.9,
+      "post_number": "post_4"
+    },
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3710122166617856840",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN9AHQWj1tI/",
+      "text": "Does it get better than this? \n\nHiggsfield might have just made the biggest mistake ever…\n\nThey quietly removed the limits on their AI models so you can now\n\n✔ Add insane VFX to your videos\n✔ Turn any image into video in seconds\n✔ Change anything you want inside an image\n✔ Generate full cinematic scenes unlimited for free\n\nI’m not sure how long it will last so take full advantage to it!\n\nDrop “Now” below and I’ll send you the access before they patch it.\n\n#Higgsfield #AItools #VFXAI #AIEditing #AIVideo #VideoMagic #CreatorTools #UnlimitedAI #AIglitch #AIVFX #VideoEditingTools #FutureOfEditing #AIhack #ViralTools #FilmmakingAI #NextGenEditing #AIVideo #AIHack #AIVideoTools",
+      "video_url": "https://scontent-lax3-2.cdninstagram.com/o1/v/t16/f2/m86/AQOrF4trLHDsAb7_XkY-3JauL39ewmhZqCcJvyvXB37v1CskVDl7CzVl1M4NPKaMT5Nsx4FXUhDztLLuQp2MkzravBapB9taYmi4iXg.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=100&vs=854189386931452_760971779&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BMTQ4OEJCRUFCRjVBOUU3MkZERUNERTA3RDQyNTQ4OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS2JQRGlDR0pqWExKXzhHQUl4TkRzNVpRWTg0YnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJo62zZ62k9Y%2FFQIoAkMzLBdAPjU%2FfO2RaBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=2b79d3b47d&ccb=9-4&oh=00_AfaHpXztmMHS8szaiGE8J4WRbrLJXV1t7OWUD4kofoyXxQ&oe=68BA85E0&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-15/541558016_18029541491707431_5094474128688391612_n.jpg?stp=dst-jpg_e35_p828x828_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QHFggjgNnNFLH811stZHTq-M9mafmVsZ4-jn4XPUG1Jkuh5xhOMPkeYqcMtpyiAZ2U&_nc_ohc=Y9n1eg0KbRIQ7kNvwE1RPHi&_nc_gid=HEZh9duFDT76x5ySfESp5w&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDEyMjE2NjYxNzg1Njg0MDE4MDI5NTQxNDg4NzA3NDMx.3-ccb7-5&oh=00_AfZ8GDOCzTRBI1CJJMSgt3hgFdIXjmbtt5CNDKIMqWQ9_g&oe=68BE8811&_nc_sid=c024bc",
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-15/541558016_18029541491707431_5094474128688391612_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QHFggjgNnNFLH811stZHTq-M9mafmVsZ4-jn4XPUG1Jkuh5xhOMPkeYqcMtpyiAZ2U&_nc_ohc=Y9n1eg0KbRIQ7kNvwE1RPHi&_nc_gid=HEZh9duFDT76x5ySfESp5w&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDEyMjE2NjYxNzg1Njg0MDE4MDI5NTQxNDg4NzA3NDMx.3-ccb7-5&oh=00_AfagJSg42z3SRu_jkCmoNopx1-tN0NsDjEMaTlRa-F9meQ&oe=68BE8811&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 18553,
+        "likes": 860,
+        "comments": 1921,
+        "shares": null
+      },
+      "hashtags": [
+        "Higgsfield",
+        "AItools",
+        "VFXAI",
+        "AIEditing",
+        "AIVideo",
+        "VideoMagic",
+        "CreatorTools",
+        "UnlimitedAI",
+        "AIglitch",
+        "AIVFX",
+        "VideoEditingTools",
+        "FutureOfEditing",
+        "AIhack",
+        "ViralTools",
+        "FilmmakingAI",
+        "NextGenEditing",
+        "AIHack",
+        "AIVideoTools"
+      ],
+      "author": {
+        "name": "Andres Franco",
+        "username": "theinsiders_club",
+        "profile_url": "https://instagram.com/theinsiders_club"
+      },
+      "timestamp": "2025-08-29T20:58:05.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/theinsiders_club/",
+      "engagement_score": 9276.5,
+      "post_number": "post_5"
+    },
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3710903172655488294",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN_xsY6AB0m/",
+      "text": "Someone just exposed the $50,000 anime production secret…\n\nand it costs less than a coffee.\n\nHere’s how creators are pulling it off:\n\n✔ Upload just one image\n✔ Nano Banana keeps your characters consistent across angles & scenes\n✔ This video model handles the full animation automatically\n✔ And together\n\nYou’ve got an entire anime scene from a single picture.\n\nThe crazy part? Everything stays perfectly consistent\n\nComment “Anime” and I’ll send you the full setup (but follow since IG sometimes blocks DMs)\n\n#AnimeAI #AIanimation #ViralAnime #AItools #AIvideo #NextGenAnimation #CreatorTools #AIhack #AIVideoTools #AnimeProduction #NanoBanana #Seedance #AIcontent #ViralTools #AnimationHack #FutureOfAnime",
+      "video_url": "https://instagram.fosu3-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQN_waKxyad4N15wcI6E1CnQaE3VrUptadYcEMv-UGRKKO8nM84DBdgUUVBsYPEqw-tU5sfzm3I_XcL4JKdyS7Ic5Zi19CYF-rbIx3E.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=107&vs=718968654465774_701376552&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CQTRFODQ0MEIxMENCNUUwOTJFNURBNUQ0NUIzNEY5NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRHN0RlNCcDNtVzZvc2dDQUpLNWNya0lXMnB0YnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJo7UyuCjm9Y%2FFQIoAkMzLBdARCAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=37a2381207&ccb=9-4&oh=00_AfZgOIQs6Ilxsy1HJ1POPEsimxw0ErndWCfnDISVuZ3xQQ&oe=68BA6F65&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/537549414_18029670749707431_8848469138747542328_n.jpg?stp=dst-jpg_e35_p828x828_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGWORgfr9Hq0aBcgE8BhqHmlRs7JKA2eprV3VZJoOQGlu9xtNhoZ3tFF4XGyDWea_s&_nc_ohc=F9rn7kdNV1AQ7kNvwEkybCT&_nc_gid=6OlNBjO08sc0wBZo2nOgoQ&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDkwMzE3MjY1NTQ4ODI5NDE4MDI5NjcwNzQzNzA3NDMx.3-ccb7-5&oh=00_AfahJX3bmao9u_PB1eVq9-qMwFU6gxgoDKTgoXTW3ow1xA&oe=68BE7205&_nc_sid=c024bc",
+        "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/537549414_18029670749707431_8848469138747542328_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGWORgfr9Hq0aBcgE8BhqHmlRs7JKA2eprV3VZJoOQGlu9xtNhoZ3tFF4XGyDWea_s&_nc_ohc=F9rn7kdNV1AQ7kNvwEkybCT&_nc_gid=6OlNBjO08sc0wBZo2nOgoQ&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDkwMzE3MjY1NTQ4ODI5NDE4MDI5NjcwNzQzNzA3NDMx.3-ccb7-5&oh=00_AfbGBM2bwr4QIOv_zh8iBqKzAo8dSD8vQvmaFC9svDzKug&oe=68BE7205&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 8644,
+        "likes": 557,
+        "comments": 639,
+        "shares": null
+      },
+      "hashtags": [
+        "AnimeAI",
+        "AIanimation",
+        "ViralAnime",
+        "AItools",
+        "AIvideo",
+        "NextGenAnimation",
+        "CreatorTools",
+        "AIhack",
+        "AIVideoTools",
+        "AnimeProduction",
+        "NanoBanana",
+        "Seedance",
+        "AIcontent",
+        "ViralTools",
+        "AnimationHack",
+        "FutureOfAnime"
+      ],
+      "author": {
+        "name": "Andres Franco",
+        "username": "theinsiders_club",
+        "profile_url": "https://instagram.com/theinsiders_club"
+      },
+      "timestamp": "2025-08-30T22:51:22.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/theinsiders_club/",
+      "engagement_score": 4322.0,
+      "post_number": "post_6"
+    },
+    {
+      "platform": "youtube",
+      "content_type": "video",
+      "id": null,
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=SvL1FbDsZM4",
+      "text": "The New Rules of Marketing for Entrepreneurs — LIVE Q&A Show! | Tea with GaryVee #82",
+      "description": "",
+      "video_url": "https://www.youtube.com/watch?v=SvL1FbDsZM4",
+      "image_urls": [
+        "https://i.ytimg.com/vi/SvL1FbDsZM4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAURcBeXXTecpntQ9_N6duW0_or3A"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 35003,
+        "likes": 0,
+        "comments": 0,
+        "shares": null
+      },
+      "hashtags": [
+        "82"
+      ],
+      "author": {
+        "name": "GaryVee",
+        "username": null,
+        "profile_url": "https://www.youtube.com/channel/UCctXZhXmG-kf3tlIXgVZUlw",
+        "subscribers_count": 0
+      },
+      "timestamp": null,
+      "duration": "44:21",
+      "thumbnail_url": "https://i.ytimg.com/vi/SvL1FbDsZM4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAURcBeXXTecpntQ9_N6duW0_or3A",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.youtube.com/@garyvee/",
+      "engagement_score": 3500.3,
+      "post_number": "post_7"
+    },
+    {
+      "platform": "youtube",
+      "content_type": "video",
+      "id": null,
+      "type": "video",
+      "url": "https://www.youtube.com/shorts/TE3HhfLSOrw",
+      "text": "Want to make money? Here's how!",
+      "description": "",
+      "video_url": "https://www.youtube.com/shorts/TE3HhfLSOrw",
+      "image_urls": [
+        "https://i.ytimg.com/vi/TE3HhfLSOrw/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDHRZOpAIQ7etvpJMee26WJ9NND4Q"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 26000,
+        "likes": 0,
+        "comments": 0,
+        "shares": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "GaryVee",
+        "username": null,
+        "profile_url": "https://www.youtube.com/channel/UCctXZhXmG-kf3tlIXgVZUlw",
+        "subscribers_count": 0
+      },
+      "timestamp": null,
+      "duration": null,
+      "thumbnail_url": "https://i.ytimg.com/vi/TE3HhfLSOrw/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDHRZOpAIQ7etvpJMee26WJ9NND4Q",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.youtube.com/@garyvee/",
+      "engagement_score": 2600.0,
+      "post_number": "post_8"
+    },
+    {
+      "platform": "youtube",
+      "content_type": "video",
+      "id": null,
+      "type": "video",
+      "url": "https://www.youtube.com/shorts/NjjsbLtLUuI",
+      "text": "How to flip anything for profit",
+      "description": "",
+      "video_url": "https://www.youtube.com/shorts/NjjsbLtLUuI",
+      "image_urls": [
+        "https://i.ytimg.com/vi/NjjsbLtLUuI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAVE0GRp2eBFN3hgt-Kb6mGIsqU4g"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 23000,
+        "likes": 0,
+        "comments": 0,
+        "shares": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "GaryVee",
+        "username": null,
+        "profile_url": "https://www.youtube.com/channel/UCctXZhXmG-kf3tlIXgVZUlw",
+        "subscribers_count": 0
+      },
+      "timestamp": null,
+      "duration": null,
+      "thumbnail_url": "https://i.ytimg.com/vi/NjjsbLtLUuI/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAVE0GRp2eBFN3hgt-Kb6mGIsqU4g",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.youtube.com/@garyvee/",
+      "engagement_score": 2300.0,
+      "post_number": "post_9"
+    }
+  ],
+  "error": null,
+  "completed_at": "2025-09-04T00:53:46.146648",
+  "successful_scrapers": [
+    "youtube:https://www.youtube.com/@garyvee/",
+    "twitter:https://x.com/heysajib",
+    "instagram:https://www.instagram.com/theinsiders_club/",
+    "linkedin:https://www.linkedin.com/in/shafiqa-iqbal/"
+  ],
+  "failed_scrapers": []
+}

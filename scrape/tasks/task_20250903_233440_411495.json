@@ -1,0 +1,263 @@
+{
+  "status": "completed",
+  "started_at": "2025-09-03T23:34:40.413494",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://www.instagram.com/natgeo/",
+      "platform": "instagram",
+      "username": "natgeo",
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "url": "https://x.com/AndrewBolis",
+      "platform": "twitter",
+      "username": "AndrewBolis",
+      "status": "pending"
+    },
+    {
+      "index": 3,
+      "url": "https://www.youtube.com/@NatGeo/",
+      "platform": "youtube",
+      "username": "NatGeo",
+      "status": "pending"
+    },
+    {
+      "index": 4,
+      "url": "https://www.tiktok.com/@natgeo",
+      "platform": "tiktok",
+      "username": "natgeo",
+      "status": "pending"
+    },
+    {
+      "index": 5,
+      "url": "https://www.linkedin.com/in/andrewyng",
+      "platform": "linkedin",
+      "username": "andrewyng",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "tiktok",
+    "youtube",
+    "instagram",
+    "linkedin",
+    "twitter"
+  ],
+  "total_urls": 5,
+  "result_data": [
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3709338736305202338",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN6N-2BEWSi/",
+      "text": "Facing obstacles, overcoming low points, and choosing to live better has been a journey!! And it reminds me a little of someone else’s journey 🔨 ⚡️ \n\n#limitlesswithchrishemsworth is now streaming on @disneyplus and @hulu",
+      "video_url": "https://scontent-mia3-1.cdninstagram.com/o1/v/t16/f2/m86/AQPIV5YQhYqz92ZFmt3Lou3KhTqOUYjQUQMRMub-WYiqZg5eYbQrU1SP3vZ6n6i0suN573DCgcwEtKsitdB9qXNzKryCkIcd4SDDnuc.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=106&vs=793642626552608_3415855073&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85RDRENjFEODU5MUMwRjdEQjlCRTU5MDVDMkYwMjFCQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS0FsUHlBc0RYTTFDWmdFQUllazJnV2c3SDQyYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJriHhpqgntY%2FFQIoAkMzLBdAVpqfvnbItBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=c42675a84d&ccb=9-4&oh=00_AfZTsm5WCNBczSMNUTlpS96o_0oP_ZAqkmE4WdkAQLcnWg&oe=68BA6654&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/539639570_4021295934754083_5225779204210470148_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QH-j_PnqbTkQHetHed8WY88hWuBzFTzmcjhdT4qrsfyg1OY8dTxIPbWb2UOhFQNQIo&_nc_ohc=S3LHBtp3s6wQ7kNvwHjjp5e&_nc_gid=fI4Ra0k9vp8yjoInj3B1QQ&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcwOTMzODczNjMwNTIwMjMzOA%3D%3D.3-ccb7-5&oh=00_AfZ_86rsY08AYZQ4T1jiLLRTxkOniCzqSZtrhx5g-_GkkQ&oe=68BE4799&_nc_sid=c024bc",
+        "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/539639570_4021295934754083_5225779204210470148_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QH-j_PnqbTkQHetHed8WY88hWuBzFTzmcjhdT4qrsfyg1OY8dTxIPbWb2UOhFQNQIo&_nc_ohc=S3LHBtp3s6wQ7kNvwHjjp5e&_nc_gid=fI4Ra0k9vp8yjoInj3B1QQ&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcwOTMzODczNjMwNTIwMjMzOA%3D%3D.3-ccb7-5&oh=00_AfZfvp6gZwOiIOcnO8TFz9RBCn5kwLPNoBEvWSL24Rwb6g&oe=68BE4799&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 1316131,
+        "likes": 124220,
+        "comments": 807,
+        "shares": null
+      },
+      "hashtags": [
+        "limitlesswithchrishemsworth"
+      ],
+      "author": {
+        "name": "Chris Hemsworth",
+        "username": "chrishemsworth",
+        "profile_url": "https://instagram.com/chrishemsworth"
+      },
+      "timestamp": "2025-08-28T19:00:00.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/natgeo/",
+      "engagement_score": 658065.5,
+      "post_number": "post_1"
+    },
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3710123559831313927",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN9Abh4jZ4H/",
+      "text": "They saved people from their flooded homes, one boatload at a time.\n\nHurricane Katrina: Race Against Time is now streaming on @DisneyPlus and @hulu.",
+      "video_url": "https://scontent-dfw5-1.cdninstagram.com/o1/v/t16/f2/m86/AQNNMan4AQKrXR13lToFp8X9ZrCtyjwjbyjkKaI9rP16EoOPgvqDtDQNltwBEI9Y-Aw8KIczUmXhTIzPggUMHHuvIKjIxEQFHrow-_s.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=101&vs=1117687527226693_1804717600&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83MzRGMzU4QjlBMzVDRkYyRjk3QjRCMTJEQTAyM0RBQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRnExSXlCUXYwZG9DLXhZQUVsYVRzamx1a2hqYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJpbp6%2Bfe6dU%2FFQIoAkMzLBdAWKD1wo9cKRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=263341fd02&ccb=9-4&oh=00_AfZhSZEg2idVzTDyUE869jcRseqrtNlv40hNeuLiC15J0g&oe=68BA7498&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-dfw5-3.cdninstagram.com/v/t51.2885-15/540991586_18593193229019133_1552661749751172533_n.jpg?stp=dst-jpg_e35_p828x828_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-dfw5-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QH-j_PnqbTkQHetHed8WY88hWuBzFTzmcjhdT4qrsfyg1OY8dTxIPbWb2UOhFQNQIo&_nc_ohc=BgJN0k3t1LYQ7kNvwHJg9-H&_nc_gid=fI4Ra0k9vp8yjoInj3B1QQ&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDEyMzU1OTgzMTMxMzkyNzE4NTkzMTkzMjIzMDE5MTMz.3-ccb7-5&oh=00_AfaJEYvchpVJ4yVcKMf73d_obgXlcH4hG2aKhhvIJbltTA&oe=68BE600E&_nc_sid=c024bc",
+        "https://scontent-dfw5-3.cdninstagram.com/v/t51.2885-15/540991586_18593193229019133_1552661749751172533_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-dfw5-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QH-j_PnqbTkQHetHed8WY88hWuBzFTzmcjhdT4qrsfyg1OY8dTxIPbWb2UOhFQNQIo&_nc_ohc=BgJN0k3t1LYQ7kNvwHJg9-H&_nc_gid=fI4Ra0k9vp8yjoInj3B1QQ&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDEyMzU1OTgzMTMxMzkyNzE4NTkzMTkzMjIzMDE5MTMz.3-ccb7-5&oh=00_AfZ9f_qxdJKqezseKxwI--D-FI_JXt9M_CgAcL2DTRZ3Sg&oe=68BE600E&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 683152,
+        "likes": 14190,
+        "comments": 79,
+        "shares": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "National Geographic",
+        "username": "natgeo",
+        "profile_url": "https://instagram.com/natgeo"
+      },
+      "timestamp": "2025-08-29T21:00:47.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/natgeo/",
+      "engagement_score": 341576.0,
+      "post_number": "post_2"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1962164744850407650",
+      "type": "image",
+      "url": "https://x.com/AndrewBolis/status/1962164744850407650",
+      "text": "ChatGPT + laptop + internet connection + 1 hour a day = $359 per day.\n\nUsually, I'd charge $87 for this guide, but today it's yours for FREE\n\nLike and comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. FREE for 24 hours only. https://t.co/Q8Zd3ct1aF",
+      "video_url": null,
+      "image_urls": [
+        "https://pbs.twimg.com/media/GzsCb-SbMAA51XY.png"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 329774,
+        "likes": 2021,
+        "retweets": 169,
+        "replies": 2043,
+        "quotes": 10,
+        "bookmarks": 922
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Andrew Bolis",
+        "username": "AndrewBolis",
+        "description": "AI & Marketing Consultant 📢 Former CMO 📒 Get My Free Guides: https://t.co/UjSQZDlQ3N  📧 biz@abdigital.cc ➡️ Follow for AI & business growth tips",
+        "followers_count": 167784,
+        "verified": true,
+        "profile_url": "https://x.com/AndrewBolis",
+        "location": "Chicago, IL, USA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739105890316206080/zW-KYJML_normal.jpg"
+      },
+      "timestamp": "2025-08-31T14:45:05+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-03T23:35:19.805212",
+      "URL_GROUP": "https://x.com/AndrewBolis",
+      "engagement_score": 106545.7,
+      "post_number": "post_3"
+    },
+    {
+      "platform": "youtube",
+      "content_type": "video",
+      "id": null,
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=HCHJsKnu3Ic",
+      "text": "To Catch a Smuggler: Drugs Across America | Season 5 MEGA EPISODE | National Geographic",
+      "description": "",
+      "video_url": "https://www.youtube.com/watch?v=HCHJsKnu3Ic",
+      "image_urls": [
+        "https://i.ytimg.com/vi/HCHJsKnu3Ic/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCjst5JQXbI9TFATAiATI0QGdr7Eg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 167398,
+        "likes": 0,
+        "comments": 0,
+        "shares": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "National Geographic",
+        "username": null,
+        "profile_url": "https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A",
+        "subscribers_count": 0
+      },
+      "timestamp": null,
+      "duration": "4:24:52",
+      "thumbnail_url": "https://i.ytimg.com/vi/HCHJsKnu3Ic/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCjst5JQXbI9TFATAiATI0QGdr7Eg",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.youtube.com/@NatGeo/",
+      "engagement_score": 16739.8,
+      "post_number": "post_4"
+    },
+    {
+      "platform": "tiktok",
+      "content_type": "video",
+      "id": "7545109343159520526",
+      "type": "video",
+      "url": "https://www.tiktok.com/@natgeo/video/7545109343159520526",
+      "text": "American pikas are more than just adorable furballs—they're voracious scavengers that make sure to look out for one another. #AmericasNationalParks is now streaming on @Disney+ and @hulu",
+      "video_url": "https://www.tiktok.com/@natgeo/video/7545109343159520526",
+      "image_urls": [],
+      "media_count": 1,
+      "stats": {
+        "views": 50600,
+        "likes": 6503,
+        "comments": 60,
+        "shares": 673,
+        "collects": 268
+      },
+      "hashtags": [
+        "americasnationalparks"
+      ],
+      "author": {
+        "name": "National Geographic",
+        "username": "natgeo",
+        "profile_url": "https://www.tiktok.com/@natgeo",
+        "followers_count": 9200000,
+        "verified": true
+      },
+      "timestamp": "2025-09-01T13:18:36.000Z",
+      "duration": null,
+      "scraped_at": null,
+      "URL_GROUP": "https://www.tiktok.com/@natgeo",
+      "engagement_score": 10120.0,
+      "post_number": "post_5"
+    },
+    {
+      "platform": "linkedin",
+      "content_type": "post",
+      "id": "urn:li:activity:7366497684976750592",
+      "type": "video",
+      "url": "https://www.linkedin.com/posts/andrewyng_build-better-rag-by-letting-a-team-of-agents-activity-7366497684976750592-ZEXU?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADutyfIBNJBCHOdkrHWz4jsLK00pw1OjKrE",
+      "text": "Build better RAG by letting a team of agents extract and connect your reference materials into a knowledge graph. Our new short course, “Agentic Knowledge Graph Construction,” taught by Neo4j Innovation Lead Andreas Kollegger, shows you how.\n\nKnowledge graphs are an important way to store information accurately but they are a lot of work to build manually.\n\nIn this course you’ll learn how to build a team of agents that turn data– in this case product reviews and invoices from suppliers–into structured graphs of entities and relationships for RAG.\n\nLearn how agents can automatically handle the time-consuming work of building graphs — extracting entities and relationships (e.g., Product \"contains\" Assembly, Part \"supplied_by\" Supplier, Customer review \"mentions\" Product), deduplicating them, fact-checking them, and committing them to a graph database — so your retrieval system can find right information to generate accurate output. For example, you can use agents to help trace customer complaints directly to specific suppliers, manufacturing processes, and product hierarchies, thus turning fragmented information into queryable business intelligence.\n\nSkills you’ll gain:\n- Build, store, and access knowledge graphs using the Neo4j graph database\n- Build multi-agent systems using Google’s Agent Development Kit (ADK)\n- Set up a loop of agentic workflows to propose and refine a graph schema through fact-checking\n- Connect agent-generated graphs of unstructured and structured data into a unified knowledge graph\n\nThis course gets into the practicum of why knowledge graphs give more accurate information retrieval than vector search alone, especially for high-stakes applications where precision matters more than fuzzy similarity matching.\n\nSign up here: https://lnkd.in/gft8dJaF",
+      "video_url": "https://dms.licdn.com/playlist/vid/v2/D5605AQHBezWiG8xNzw/mp4-720p-30fp-crf28/B56ZjsOe5EHcBw-/0/1756309906911?e=1757530800&v=beta&t=jLXcsdkxl2qUZOxfK69c6Wa5BDNgefQcRPTddUlwuyM",
+      "image_urls": [],
+      "media_count": 1,
+      "stats": {
+        "likes": 5851,
+        "comments": 178,
+        "shares": 396,
+        "views": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "Andrew Ng",
+        "username": "andrewyng",
+        "headline": "Founder of DeepLearning.AI; Managing General Partner of AI Fund; Exec Chairman of LandingAI",
+        "profile_url": "https://www.linkedin.com/in/andrewyng?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAqBL5gBXJ8MGhQh-qHYyxAOW-DYlHM3VLg"
+      },
+      "timestamp": "2025-08-27T15:51:51.007Z",
+      "is_activity": false,
+      "activity_description": null,
+      "scraped_at": null,
+      "URL_GROUP": "https://www.linkedin.com/in/andrewyng",
+      "engagement_score": 6741,
+      "post_number": "post_6"
+    }
+  ],
+  "error": null,
+  "completed_at": "2025-09-03T23:39:24.506077",
+  "successful_scrapers": [
+    "instagram:https://www.instagram.com/natgeo/",
+    "twitter:https://x.com/AndrewBolis",
+    "youtube:https://www.youtube.com/@NatGeo/",
+    "tiktok:https://www.tiktok.com/@natgeo",
+    "linkedin:https://www.linkedin.com/in/andrewyng"
+  ],
+  "failed_scrapers": []
+}

@@ -1,0 +1,331 @@
+{
+  "status": "completed",
+  "started_at": "2025-09-05T21:29:02.434482",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://x.com/elonmusk",
+      "platform": "twitter",
+      "username": "elonmusk",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "twitter"
+  ],
+  "total_urls": 1,
+  "result_data": [
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "text",
+      "url": "https://x.com/elonmusk/status/1963620744770064443",
+      "text": "Please reply to this post with any difficulties you may have had in trying to buy a Tesla.\n\nOur goal is for the purchase and delivery experience to be fast and simple, with accurate answers to your questions. \n\nThe key test is that you would recommend it to a friend.",
+      "media_count": 0,
+      "stats": {
+        "views": 30699846,
+        "likes": 119430,
+        "retweets": 11736,
+        "replies": 57245,
+        "quotes": 1825,
+        "bookmarks": 6059
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225244689,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1963620744770064443",
+      "timestamp": "2025-09-04T15:10:42+00:00",
+      "language": "en",
+      "engagement_score": 9569889.299999999,
+      "post_number": "post_1"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "text",
+      "url": "https://x.com/elonmusk/status/1963635102379884609",
+      "text": "🇮🇪 🇮🇪",
+      "media_count": 0,
+      "stats": {
+        "views": 23600386,
+        "likes": 204606,
+        "retweets": 27390,
+        "replies": 5434,
+        "quotes": 737,
+        "bookmarks": 5362
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225244689,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1963635102379884609",
+      "timestamp": "2025-09-04T16:07:45+00:00",
+      "language": "art",
+      "engagement_score": 7579648.8,
+      "post_number": "post_2"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "text",
+      "url": "https://x.com/elonmusk/status/1963733394086654152",
+      "text": "!!",
+      "media_count": 0,
+      "stats": {
+        "views": 19567572,
+        "likes": 148381,
+        "retweets": 28866,
+        "replies": 6602,
+        "quotes": 983,
+        "bookmarks": 5271
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225244689,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1963733394086654152",
+      "timestamp": "2025-09-04T22:38:20+00:00",
+      "language": "qst",
+      "engagement_score": 6263534.6,
+      "post_number": "post_3"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "text",
+      "url": "https://x.com/elonmusk/status/1963715282591273251",
+      "text": "Indeed",
+      "media_count": 0,
+      "stats": {
+        "views": 11324470,
+        "likes": 65241,
+        "retweets": 9398,
+        "replies": 1893,
+        "quotes": 119,
+        "bookmarks": 770
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225244689,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1963715282591273251",
+      "timestamp": "2025-09-04T21:26:22+00:00",
+      "language": "en",
+      "engagement_score": 3558856.5,
+      "post_number": "post_4"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "text",
+      "url": "https://x.com/elonmusk/status/1963648385380159630",
+      "text": "!!",
+      "media_count": 0,
+      "stats": {
+        "views": 9660989,
+        "likes": 68065,
+        "retweets": 19024,
+        "replies": 10840,
+        "quotes": 1339,
+        "bookmarks": 2962
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225244689,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1963648385380159630",
+      "timestamp": "2025-09-04T17:00:32+00:00",
+      "language": "qst",
+      "engagement_score": 3107758.6999999997,
+      "post_number": "post_5"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "video",
+      "url": "https://x.com/elonmusk/status/1963628738173620444",
+      "text": "https://t.co/1ffeQGMiaN",
+      "video_url": "https://video.twimg.com/amplify_video/1963125679962103808/vid/avc1/842x474/3F_GUFhcfSdFqkgh.mp4?tag=21",
+      "media_count": 1,
+      "stats": {
+        "views": 8502846,
+        "likes": 100995,
+        "retweets": 18989,
+        "replies": 4138,
+        "quotes": 895,
+        "bookmarks": 12737
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225244689,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1963628738173620444",
+      "timestamp": "2025-09-04T15:42:28+00:00",
+      "language": "zxx",
+      "engagement_score": 2816017.8,
+      "post_number": "post_6"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "thread",
+      "type": "thread",
+      "url": "https://x.com/elonmusk/status/1963615541970759709",
+      "thread_length": 2,
+      "tweets": [
+        {
+          "tweet_number": 1,
+          "text": "According to a Philips, some members of the police in the UK participated in the gang rapes of children.\n\nHave they been prosecuted?",
+          "type": "text",
+          "url": "https://x.com/elonmusk/status/1963615541970759709",
+          "media_count": 0,
+          "stats": {
+            "views": 7058268,
+            "likes": 92913,
+            "retweets": 26996,
+            "replies": 4830,
+            "quotes": 806,
+            "bookmarks": 3798
+          },
+          "id": "1963615541970759709",
+          "timestamp": "2025-09-04T14:50:02+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 2,
+          "text": "And why did Jess Philips try to block this official inquiry. She should resign in shame!",
+          "type": "text",
+          "url": "https://x.com/elonmusk/status/1963617862586908779",
+          "media_count": 0,
+          "stats": {
+            "views": 667904,
+            "likes": 9084,
+            "retweets": 1404,
+            "replies": 519,
+            "quotes": 25,
+            "bookmarks": 137
+          },
+          "id": "1963617862586908779",
+          "timestamp": "2025-09-04T14:59:15+00:00",
+          "language": "en"
+        }
+      ],
+      "combined_text": "According to a Philips, some members of the police in the UK participated in the gang rapes of children.\n\nHave they been prosecuted? And why did Jess Philips try to block this official inquiry. She should resign in shame!",
+      "combined_stats": {
+        "views": 7726172,
+        "likes": 101997,
+        "retweets": 28400,
+        "replies": 5349,
+        "quotes": 831,
+        "bookmarks": 3935
+      },
+      "all_media": {
+        "total_count": 0
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225244689,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1963615541970759709",
+      "timestamp": "2025-09-04T14:50:02+00:00",
+      "language": "en",
+      "engagement_score": 2615069.1,
+      "post_number": "post_7"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "image",
+      "url": "https://x.com/elonmusk/status/1963714914536874414",
+      "text": "https://t.co/wGX16OYYcr",
+      "image_urls": [
+        "https://pbs.twimg.com/media/G0CEToYbgAAd7C6.jpg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 6933649,
+        "likes": 45362,
+        "retweets": 4718,
+        "replies": 3327,
+        "quotes": 326,
+        "bookmarks": 1579
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225244689,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1963714914536874414",
+      "timestamp": "2025-09-04T21:24:54+00:00",
+      "language": "zxx",
+      "engagement_score": 2189963.2,
+      "post_number": "post_8"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "text",
+      "url": "https://x.com/elonmusk/status/1963647241719353752",
+      "text": "Congrats Tesla Powerwall team!",
+      "media_count": 0,
+      "stats": {
+        "views": 6547398,
+        "likes": 34001,
+        "retweets": 5123,
+        "replies": 2293,
+        "quotes": 147,
+        "bookmarks": 781
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225244689,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1963647241719353752",
+      "timestamp": "2025-09-04T16:55:59+00:00",
+      "language": "en",
+      "engagement_score": 2051029.9,
+      "post_number": "post_9"
+    }
+  ],
+  "error": null,
+  "completed_at": "2025-09-05T21:29:57.722903",
+  "successful_scrapers": [
+    "twitter:https://x.com/elonmusk"
+  ],
+  "failed_scrapers": []
+}

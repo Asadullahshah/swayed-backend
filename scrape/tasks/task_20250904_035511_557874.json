@@ -1,0 +1,575 @@
+{
+  "status": "completed",
+  "started_at": "2025-09-04T03:55:11.560878",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://www.youtube.com/@garyvee/",
+      "platform": "youtube",
+      "username": "garyvee",
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "url": "https://x.com/theinsiderzclub",
+      "platform": "twitter",
+      "username": "theinsiderzclub",
+      "status": "pending"
+    },
+    {
+      "index": 3,
+      "url": "https://www.instagram.com/theinsiders_club/",
+      "platform": "instagram",
+      "username": "theinsiders_club",
+      "status": "pending"
+    },
+    {
+      "index": 4,
+      "url": "https://www.linkedin.com/in/williamhgates/",
+      "platform": "linkedin",
+      "username": "williamhgates",
+      "status": "pending"
+    },
+    {
+      "index": 5,
+      "url": "https://www.tiktok.com/@jennaezarik",
+      "platform": "tiktok",
+      "username": "jennaezarik",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "twitter",
+    "tiktok",
+    "youtube",
+    "instagram",
+    "linkedin"
+  ],
+  "total_urls": 5,
+  "result_data": [
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3709388940110685035",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN6ZZZ9D2Nr/",
+      "text": "F*** paying $125 for VEO3\n\nsomeone just leaked its open-source twin for FREE.\n\n- No restrictions. No filters. No “content police.”\n\n- Run it completely offline, right on your own computer.\n\n- Or test it online, zero cost.\n\nWant in before it disappears? Drop “Wan” below and I’ll hook you up.\n\n#OpenSourceAI #Veo3Hack #AIRevolution #VideoAI #OpenSourceTools #AIVideo #CreatorHacks #UncensoredAI #FreeAIVideo #AIForCreators #AIHack #FilmIndustryAI #NextGenEditing #AIVideoTools #ContentCreationAI #AIShift",
+      "video_url": "https://scontent-msp1-1.cdninstagram.com/o1/v/t16/f2/m86/AQOnvi-uTXxEcxsRXNn2Z2AKixGMsJMR6F1TCcHyRCpp2RmVNgxzmhm2GLHN0u4oVTohvYayo22SU00LlzYEVsIrKpryFoE7M5j_fNM.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=102&vs=2497194987322599_2169989446&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81OTQ4MkIyNTkxMzdFNTgxMUEwRDNBOTZCRDFGRDg4RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ1NfSXlEVGlvVGRwTmdIQURrTTgyc2JENEZYYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJo7K9uSzjNY%2FFQIoAkMzLBdAQ2AAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=172f6a95fa&ccb=9-4&oh=00_AfZ4E_dNECOpkV79Ab0JcfJJV3hznrHTQ8lKHyn9EDj1bQ&oe=68BA9029&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/539523376_18029434625707431_3452802669165835297_n.jpg?stp=dst-jpg_e35_p828x828_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGr_LQD7c8ZJ-PH9fJOgNYiDGbbQEP_bvDwtt92HsorxQAyBg1hkTVDcp9MqRLds5g&_nc_ohc=qrK-wSIsnaoQ7kNvwFv5Vo7&_nc_gid=FyWaI82VWxH2PU98cZ_Bvw&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcwOTM4ODk0MDExMDY4NTAzNTE4MDI5NDM0NjIyNzA3NDMx.3-ccb7-5&oh=00_AfZoOz9oZd8kNBWtGxlGGT2_hZKivderP7bofxa-bcnTsg&oe=68BE99AE&_nc_sid=c024bc",
+        "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/539523376_18029434625707431_3452802669165835297_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGr_LQD7c8ZJ-PH9fJOgNYiDGbbQEP_bvDwtt92HsorxQAyBg1hkTVDcp9MqRLds5g&_nc_ohc=qrK-wSIsnaoQ7kNvwFv5Vo7&_nc_gid=FyWaI82VWxH2PU98cZ_Bvw&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcwOTM4ODk0MDExMDY4NTAzNTE4MDI5NDM0NjIyNzA3NDMx.3-ccb7-5&oh=00_AfZyquNIK0V_ERycDs_ZMGdhl0VOCVmpbgG2j3a2uqd70A&oe=68BE99AE&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 38708,
+        "likes": 2484,
+        "comments": 8810,
+        "shares": null
+      },
+      "hashtags": [
+        "OpenSourceAI",
+        "Veo3Hack",
+        "AIRevolution",
+        "VideoAI",
+        "OpenSourceTools",
+        "AIVideo",
+        "CreatorHacks",
+        "UncensoredAI",
+        "FreeAIVideo",
+        "AIForCreators",
+        "AIHack",
+        "FilmIndustryAI",
+        "NextGenEditing",
+        "AIVideoTools",
+        "ContentCreationAI",
+        "AIShift"
+      ],
+      "author": {
+        "name": "Andres Franco",
+        "username": "theinsiders_club",
+        "profile_url": "https://instagram.com/theinsiders_club"
+      },
+      "timestamp": "2025-08-28T20:45:25.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/theinsiders_club/",
+      "engagement_score": 19354.0,
+      "post_number": "post_1"
+    },
+    {
+      "platform": "linkedin",
+      "content_type": "post",
+      "id": "urn:li:activity:7367638919565242368",
+      "type": "video",
+      "url": "https://www.linkedin.com/posts/williamhgates_some-people-think-wisdom-only-comes-with-activity-7367638919565242368-gzTA?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADIH0wkBRL2K1g3VG7YO32sknMUIuLvalNI",
+      "text": "Some people think wisdom only comes with age, but Warren Buffett had more of it than the rest of us decades ago. Happy 95th birthday to a friend for the ages.",
+      "video_url": "https://dms.licdn.com/playlist/vid/v2/D5605AQHvar3xOSCT7A/mp4-720p-30fp-crf28/B56Zj8cXCuG4B4-/0/1756581997727?e=1757545200&v=beta&t=yGbuCiJRIxlC23IVnbyHf9JtEME3Zy2Qe8YIyU8M9LM",
+      "image_urls": [],
+      "media_count": 1,
+      "stats": {
+        "likes": 14746,
+        "comments": 916,
+        "shares": 575,
+        "views": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "Bill Gates",
+        "username": "williamhgates",
+        "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+        "profile_url": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+      },
+      "timestamp": "2025-08-30T19:26:42.536Z",
+      "is_activity": false,
+      "activity_description": null,
+      "scraped_at": null,
+      "URL_GROUP": "https://www.linkedin.com/in/williamhgates/",
+      "engagement_score": 19326,
+      "post_number": "post_2"
+    },
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3710122166617856840",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN9AHQWj1tI/",
+      "text": "Does it get better than this? \n\nHiggsfield might have just made the biggest mistake ever…\n\nThey quietly removed the limits on their AI models so you can now\n\n✔ Add insane VFX to your videos\n✔ Turn any image into video in seconds\n✔ Change anything you want inside an image\n✔ Generate full cinematic scenes unlimited for free\n\nI’m not sure how long it will last so take full advantage to it!\n\nDrop “Now” below and I’ll send you the access before they patch it.\n\n#Higgsfield #AItools #VFXAI #AIEditing #AIVideo #VideoMagic #CreatorTools #UnlimitedAI #AIglitch #AIVFX #VideoEditingTools #FutureOfEditing #AIhack #ViralTools #FilmmakingAI #NextGenEditing #AIVideo #AIHack #AIVideoTools",
+      "video_url": "https://scontent-ord5-3.cdninstagram.com/o1/v/t16/f2/m86/AQOrF4trLHDsAb7_XkY-3JauL39ewmhZqCcJvyvXB37v1CskVDl7CzVl1M4NPKaMT5Nsx4FXUhDztLLuQp2MkzravBapB9taYmi4iXg.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=100&vs=854189386931452_760971779&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BMTQ4OEJCRUFCRjVBOUU3MkZERUNERTA3RDQyNTQ4OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS2JQRGlDR0pqWExKXzhHQUl4TkRzNVpRWTg0YnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJo62zZ62k9Y%2FFQIoAkMzLBdAPjU%2FfO2RaBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=e9367494ef&ccb=9-4&oh=00_Afb9Or_HcA9b7V4YKLnyCFCODFBqUxVWKnX3aGjaka1kYw&oe=68BABE20&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/541558016_18029541491707431_5094474128688391612_n.jpg?stp=dst-jpg_e35_p828x828_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGr_LQD7c8ZJ-PH9fJOgNYiDGbbQEP_bvDwtt92HsorxQAyBg1hkTVDcp9MqRLds5g&_nc_ohc=Y9n1eg0KbRIQ7kNvwHquvL0&_nc_gid=FyWaI82VWxH2PU98cZ_Bvw&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDEyMjE2NjYxNzg1Njg0MDE4MDI5NTQxNDg4NzA3NDMx.3-ccb7-5&oh=00_AfZ6jSKngKMmAiCCAUN4biJ_iIyHMwb9sdo4ROuzD378ig&oe=68BE8811&_nc_sid=c024bc",
+        "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/541558016_18029541491707431_5094474128688391612_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QGr_LQD7c8ZJ-PH9fJOgNYiDGbbQEP_bvDwtt92HsorxQAyBg1hkTVDcp9MqRLds5g&_nc_ohc=Y9n1eg0KbRIQ7kNvwHquvL0&_nc_gid=FyWaI82VWxH2PU98cZ_Bvw&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDEyMjE2NjYxNzg1Njg0MDE4MDI5NTQxNDg4NzA3NDMx.3-ccb7-5&oh=00_AfbyVpiLv34m11rYwlSSC2tWf9yZ-UFPqc5A_qaaYH59oA&oe=68BE8811&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 18594,
+        "likes": 860,
+        "comments": 1923,
+        "shares": null
+      },
+      "hashtags": [
+        "Higgsfield",
+        "AItools",
+        "VFXAI",
+        "AIEditing",
+        "AIVideo",
+        "VideoMagic",
+        "CreatorTools",
+        "UnlimitedAI",
+        "AIglitch",
+        "AIVFX",
+        "VideoEditingTools",
+        "FutureOfEditing",
+        "AIhack",
+        "ViralTools",
+        "FilmmakingAI",
+        "NextGenEditing",
+        "AIHack",
+        "AIVideoTools"
+      ],
+      "author": {
+        "name": "Andres Franco",
+        "username": "theinsiders_club",
+        "profile_url": "https://instagram.com/theinsiders_club"
+      },
+      "timestamp": "2025-08-29T20:58:05.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/theinsiders_club/",
+      "engagement_score": 9297.0,
+      "post_number": "post_3"
+    },
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3710903172655488294",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN_xsY6AB0m/",
+      "text": "Someone just exposed the $50,000 anime production secret…\n\nand it costs less than a coffee.\n\nHere’s how creators are pulling it off:\n\n✔ Upload just one image\n✔ Nano Banana keeps your characters consistent across angles & scenes\n✔ This video model handles the full animation automatically\n✔ And together\n\nYou’ve got an entire anime scene from a single picture.\n\nThe crazy part? Everything stays perfectly consistent\n\nComment “Anime” and I’ll send you the full setup (but follow since IG sometimes blocks DMs)\n\n#AnimeAI #AIanimation #ViralAnime #AItools #AIvideo #NextGenAnimation #CreatorTools #AIhack #AIVideoTools #AnimeProduction #NanoBanana #Seedance #AIcontent #ViralTools #AnimationHack #FutureOfAnime",
+      "video_url": "https://scontent-lga3-2.cdninstagram.com/o1/v/t16/f2/m86/AQN_waKxyad4N15wcI6E1CnQaE3VrUptadYcEMv-UGRKKO8nM84DBdgUUVBsYPEqw-tU5sfzm3I_XcL4JKdyS7Ic5Zi19CYF-rbIx3E.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=107&vs=718968654465774_701376552&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CQTRFODQ0MEIxMENCNUUwOTJFNURBNUQ0NUIzNEY5NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRHN0RlNCcDNtVzZvc2dDQUpLNWNya0lXMnB0YnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJo7UyuCjm9Y%2FFQIoAkMzLBdARCAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=7b3ef26109&ccb=9-4&oh=00_AfZlv8A4nIDgi0HdwhaT_Y4ol3KdeqKDSV4Ppl-5vKKDTg&oe=68BAA7A5&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/537549414_18029670749707431_8848469138747542328_n.jpg?stp=dst-jpg_e35_p828x828_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QHv3M2lLjUWqqngFlHQAQSmKZ9cT_Zi8vwmHcKE6-HxcSVCHRW1YdqSxYLhfllOqFY&_nc_ohc=F9rn7kdNV1AQ7kNvwHf8fjL&_nc_gid=pBUX3oH5ScDe8HMOTokXug&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDkwMzE3MjY1NTQ4ODI5NDE4MDI5NjcwNzQzNzA3NDMx.3-ccb7-5&oh=00_Afb1uhR6CiFtaOoEl21gIouwvVCyHzWwfCGUjd21kY4vcg&oe=68BEAA45&_nc_sid=c024bc",
+        "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/537549414_18029670749707431_8848469138747542328_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QHv3M2lLjUWqqngFlHQAQSmKZ9cT_Zi8vwmHcKE6-HxcSVCHRW1YdqSxYLhfllOqFY&_nc_ohc=F9rn7kdNV1AQ7kNvwHf8fjL&_nc_gid=pBUX3oH5ScDe8HMOTokXug&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDkwMzE3MjY1NTQ4ODI5NDE4MDI5NjcwNzQzNzA3NDMx.3-ccb7-5&oh=00_Afa9IQN1DEwEix_IFQnUAW3P3y8PLn6bZTnI1ZJADmLpSA&oe=68BEAA45&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 8782,
+        "likes": 574,
+        "comments": 653,
+        "shares": null
+      },
+      "hashtags": [
+        "AnimeAI",
+        "AIanimation",
+        "ViralAnime",
+        "AItools",
+        "AIvideo",
+        "NextGenAnimation",
+        "CreatorTools",
+        "AIhack",
+        "AIVideoTools",
+        "AnimeProduction",
+        "NanoBanana",
+        "Seedance",
+        "AIcontent",
+        "ViralTools",
+        "AnimationHack",
+        "FutureOfAnime"
+      ],
+      "author": {
+        "name": "Andres Franco",
+        "username": "theinsiders_club",
+        "profile_url": "https://instagram.com/theinsiders_club"
+      },
+      "timestamp": "2025-08-30T22:51:22.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/theinsiders_club/",
+      "engagement_score": 4391.0,
+      "post_number": "post_4"
+    },
+    {
+      "platform": "linkedin",
+      "content_type": "post",
+      "id": "urn:li:activity:7368836501415067648",
+      "type": "image",
+      "url": "https://www.linkedin.com/posts/williamhgates_bloodthirsty-annshort-for-the-anopheles-activity-7368836501415067648-LGsQ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADIH0wkBRL2K1g3VG7YO32sknMUIuLvalNI",
+      "text": "Bloodthirsty Ann—short for the Anopheles mosquito that carries malaria—would like to meet you! One of Dr. Seuss’ earliest illustrations was an informational U.S. Army cartoon that warned troops about the dangers of contracting the disease during wartime: http://gatesnot.es/4g8w5kU",
+      "video_url": null,
+      "image_urls": [
+        "https://media.licdn.com/dms/image/v2/D5622AQE4DBiKsG9gmw/feedshare-shrink_800/B56ZkNdwHeHIAo-/0/1756867527610?e=1759968000&v=beta&t=438_q7Yh-d7qGZKIo-vqFNRgZ4UveWz_n1hCA_If-84"
+      ],
+      "media_count": 1,
+      "stats": {
+        "likes": 2486,
+        "comments": 239,
+        "shares": 94,
+        "views": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "Bill Gates",
+        "username": "williamhgates",
+        "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+        "profile_url": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+      },
+      "timestamp": "2025-09-03T02:45:28.299Z",
+      "is_activity": false,
+      "activity_description": null,
+      "scraped_at": null,
+      "URL_GROUP": "https://www.linkedin.com/in/williamhgates/",
+      "engagement_score": 3681,
+      "post_number": "post_5"
+    },
+    {
+      "platform": "linkedin",
+      "content_type": "post",
+      "id": "urn:li:activity:7367310533005336577",
+      "type": "text",
+      "url": "https://www.linkedin.com/posts/williamhgates_a-new-wave-of-clean-energy-innovation-is-activity-7367310533005336577-rd-S?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADIH0wkBRL2K1g3VG7YO32sknMUIuLvalNI",
+      "text": "As global energy demand increases, innovative energy tech will be critical to ensuring affordable and reliable access for everyone.",
+      "video_url": null,
+      "image_urls": [],
+      "media_count": 0,
+      "stats": {
+        "likes": 2035,
+        "comments": 325,
+        "shares": 109,
+        "views": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "Bill Gates",
+        "username": "williamhgates",
+        "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+        "profile_url": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+      },
+      "timestamp": "2025-08-29T21:41:49.079Z",
+      "is_activity": false,
+      "activity_description": null,
+      "scraped_at": null,
+      "URL_GROUP": "https://www.linkedin.com/in/williamhgates/",
+      "engagement_score": 3660,
+      "post_number": "post_6"
+    },
+    {
+      "platform": "youtube",
+      "content_type": "video",
+      "id": null,
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=SvL1FbDsZM4",
+      "text": "The New Rules of Marketing for Entrepreneurs — LIVE Q&A Show! | Tea with GaryVee #82",
+      "description": "",
+      "video_url": "https://www.youtube.com/watch?v=SvL1FbDsZM4",
+      "image_urls": [
+        "https://i.ytimg.com/vi/SvL1FbDsZM4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAURcBeXXTecpntQ9_N6duW0_or3A"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 35593,
+        "likes": 0,
+        "comments": 0,
+        "shares": null
+      },
+      "hashtags": [
+        "82"
+      ],
+      "author": {
+        "name": "GaryVee",
+        "username": null,
+        "profile_url": "https://www.youtube.com/channel/UCctXZhXmG-kf3tlIXgVZUlw",
+        "subscribers_count": 0
+      },
+      "timestamp": null,
+      "duration": "44:21",
+      "thumbnail_url": "https://i.ytimg.com/vi/SvL1FbDsZM4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAURcBeXXTecpntQ9_N6duW0_or3A",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.youtube.com/@garyvee/",
+      "engagement_score": 3559.3,
+      "post_number": "post_7"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "thread",
+      "id": "1962578581407604827",
+      "type": "thread_with_videos",
+      "url": "https://x.com/theinsiderzclub/status/1962578581407604827",
+      "thread_length": 6,
+      "tweets": [
+        {
+          "tweet_number": 1,
+          "id": "1962578581407604827",
+          "text": "Every influencer telling you it takes seconds to do \"this\"... Is lying to you.\n\nSo instead of trying to figure it out on your own and wasting money/credits\n\nLet me cut the B.S 👇 https://t.co/aNAH1D5XSv",
+          "type": "video",
+          "url": "https://x.com/theinsiderzclub/status/1962578581407604827",
+          "video_url": "https://video.twimg.com/amplify_video/1962577358663172096/vid/avc1/1890x1080/ntr1wKdpFCC4wIsP.mp4?tag=21",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 183,
+            "likes": 3,
+            "retweets": 0,
+            "replies": 5,
+            "quotes": 1,
+            "bookmarks": 1
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T18:09:31+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 2,
+          "id": "1962578584901427298",
+          "text": "1- Open Higgsfield camera effects.\n\nCombine them with the first + last frame to get natural motion.\n\nMy top picks:\n\n-FPV Drone\n-Aerial Pullback\n-Rapid Zoom Out https://t.co/lh0iQvHwq0",
+          "type": "video",
+          "url": "https://x.com/theinsiderzclub/status/1962578584901427298",
+          "video_url": "https://video.twimg.com/amplify_video/1962577628461727744/vid/avc1/1904x1088/xC-w_gX9Vfc6z9MT.mp4?tag=21",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 50,
+            "likes": 2,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T18:09:32+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 3,
+          "id": "1962578587871035585",
+          "text": "2- The trick? Prompting the camera movement itself.\n\nInstead of just describing the scene… tell the AI HOW to move.\n\nEx:\n[Crash zoom-in] The camera suddenly rushes into XYZ https://t.co/j28rwn17q3",
+          "type": "video",
+          "url": "https://x.com/theinsiderzclub/status/1962578587871035585",
+          "video_url": "https://video.twimg.com/amplify_video/1962578095036149760/vid/avc1/1890x1080/ZYXq8AqxpBhf9uAV.mp4?tag=21",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 24,
+            "likes": 2,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T18:09:32+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 4,
+          "id": "1962578591205458292",
+          "text": "3- Once you have your clips:\n\n-Reverse them\n-Speed them up\n-Add cuts in your video editor\n\nThat’s how you get those insane smooth transitions. https://t.co/rVz1zPDbtZ",
+          "type": "video",
+          "url": "https://x.com/theinsiderzclub/status/1962578591205458292",
+          "video_url": "https://video.twimg.com/amplify_video/1962578240473530368/vid/avc1/1924x1076/_hbwgGF6bsTsakZj.mp4?tag=21",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 73,
+            "likes": 2,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T18:09:33+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 5,
+          "id": "1962148005957517423",
+          "text": "Holy sh*t… Nanobanana's accuracy is insane!\n\nIt can merge a dozen images into one, using roughly 100% accuracy (this needs more hype)\n\nIt’s like replacing an entire marketing team with one prompt.\n\nAnd here’s how it looks:\n\n(Press \"ALT\" to access prompt) https://t.co/wiIjW5qrKi",
+          "type": "image",
+          "url": "https://x.com/theinsiderzclub/status/1962148005957517423",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/GzrynLjXEAAJty4.jpg"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 1017,
+            "likes": 11,
+            "retweets": 1,
+            "replies": 4,
+            "quotes": 1,
+            "bookmarks": 2
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-08-31T13:38:34+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 6,
+          "id": "1962578594628084167",
+          "text": "This breakdown will save you HOURS (and credits).\n\nFollow @theinsiderzclub for real-time drops and insights.\nQuestions? Drop them below 👇\n\nhttps://t.co/GQdH6edNFz",
+          "type": "text",
+          "url": "https://x.com/theinsiderzclub/status/1962578594628084167",
+          "video_url": null,
+          "image_urls": [],
+          "media_count": 0,
+          "stats": {
+            "views": 79,
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [
+            "https://x.com/theinsiderzclub/status/1962148005957517423"
+          ],
+          "timestamp": "2025-09-01T18:09:34+00:00",
+          "language": "en"
+        }
+      ],
+      "combined_text": "Every influencer telling you it takes seconds to do \"this\"... Is lying to you.\n\nSo instead of trying to figure it out on your own and wasting money/credits\n\nLet me cut the B.S 👇 https://t.co/aNAH1D5XSv 1- Open Higgsfield camera effects.\n\nCombine them with the first + last frame to get natural motion.\n\nMy top picks:\n\n-FPV Drone\n-Aerial Pullback\n-Rapid Zoom Out https://t.co/lh0iQvHwq0 2- The trick? Prompting the camera movement itself.\n\nInstead of just describing the scene… tell the AI HOW to move.\n\nEx:\n[Crash zoom-in] The camera suddenly rushes into XYZ https://t.co/j28rwn17q3 3- Once you have your clips:\n\n-Reverse them\n-Speed them up\n-Add cuts in your video editor\n\nThat’s how you get those insane smooth transitions. https://t.co/rVz1zPDbtZ Holy sh*t… Nanobanana's accuracy is insane!\n\nIt can merge a dozen images into one, using roughly 100% accuracy (this needs more hype)\n\nIt’s like replacing an entire marketing team with one prompt.\n\nAnd here’s how it looks:\n\n(Press \"ALT\" to access prompt) https://t.co/wiIjW5qrKi This breakdown will save you HOURS (and credits).\n\nFollow @theinsiderzclub for real-time drops and insights.\nQuestions? Drop them below 👇\n\nhttps://t.co/GQdH6edNFz",
+      "combined_stats": {
+        "views": 1426,
+        "likes": 21,
+        "retweets": 1,
+        "replies": 12,
+        "quotes": 2,
+        "bookmarks": 3
+      },
+      "all_media": {
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/1962577358663172096/vid/avc1/1890x1080/ntr1wKdpFCC4wIsP.mp4?tag=21",
+            "tweet_number": 1,
+            "tweet_id": "1962578581407604827"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962577628461727744/vid/avc1/1904x1088/xC-w_gX9Vfc6z9MT.mp4?tag=21",
+            "tweet_number": 2,
+            "tweet_id": "1962578584901427298"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962578095036149760/vid/avc1/1890x1080/ZYXq8AqxpBhf9uAV.mp4?tag=21",
+            "tweet_number": 3,
+            "tweet_id": "1962578587871035585"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962578240473530368/vid/avc1/1924x1076/_hbwgGF6bsTsakZj.mp4?tag=21",
+            "tweet_number": 4,
+            "tweet_id": "1962578591205458292"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://pbs.twimg.com/media/GzrynLjXEAAJty4.jpg",
+            "tweet_number": 5,
+            "tweet_id": "1962148005957517423"
+          }
+        ],
+        "total_count": 5
+      },
+      "author": {
+        "name": "Andres Franco",
+        "username": "theinsiderzclub",
+        "description": "Entrepreneur | AI Educator (100k+) | Curiosity Seeker | Here you get: • Tools to boost your business • Ideas w/o the b.s • Latest breakthroughs",
+        "followers_count": 1098,
+        "verified": true,
+        "profile_url": "https://x.com/theinsiderzclub",
+        "location": "Your Unfair Advantage 👉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951272936213454850/FKrfmp5r_normal.jpg"
+      },
+      "timestamp": "2025-09-01T18:09:31+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-04T03:56:15.894986",
+      "URL_GROUP": "https://x.com/theinsiderzclub",
+      "engagement_score": 490.8,
+      "post_number": "post_8"
+    },
+    {
+      "platform": "tiktok",
+      "content_type": "video",
+      "id": "7544916745769815309",
+      "type": "video",
+      "url": "https://www.tiktok.com/@jennaezarik/video/7544916745769815309",
+      "text": "The big trees are at the top.. 👀😆 #sequioa ",
+      "video_url": "https://www.tiktok.com/@jennaezarik/video/7544916745769815309",
+      "image_urls": [],
+      "media_count": 1,
+      "stats": {
+        "views": 2399,
+        "likes": 157,
+        "comments": 4,
+        "shares": 2,
+        "collects": 6
+      },
+      "hashtags": [
+        "sequioa"
+      ],
+      "author": {
+        "name": "Jenna",
+        "username": "jennaezarik",
+        "profile_url": "https://www.tiktok.com/@jennaezarik",
+        "followers_count": 144200,
+        "verified": true
+      },
+      "timestamp": "2025-09-01T00:50:56.000Z",
+      "duration": null,
+      "scraped_at": null,
+      "URL_GROUP": "https://www.tiktok.com/@jennaezarik",
+      "engagement_score": 479.8,
+      "post_number": "post_9"
+    }
+  ],
+  "error": null,
+  "completed_at": "2025-09-04T03:58:00.328546",
+  "successful_scrapers": [
+    "youtube:https://www.youtube.com/@garyvee/",
+    "twitter:https://x.com/theinsiderzclub",
+    "instagram:https://www.instagram.com/theinsiders_club/",
+    "linkedin:https://www.linkedin.com/in/williamhgates/",
+    "tiktok:https://www.tiktok.com/@jennaezarik"
+  ],
+  "failed_scrapers": []
+}

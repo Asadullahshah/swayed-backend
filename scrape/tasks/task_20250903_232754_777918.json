@@ -1,0 +1,620 @@
+{
+  "status": "completed",
+  "started_at": "2025-09-03T23:27:54.778917",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://www.instagram.com/natgeo/",
+      "platform": "instagram",
+      "username": "natgeo",
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "url": "https://x.com/heysajib",
+      "platform": "twitter",
+      "username": "heysajib",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "twitter",
+    "instagram"
+  ],
+  "total_urls": 2,
+  "result_data": [
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3709338736305202338",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN6N-2BEWSi/",
+      "text": "Facing obstacles, overcoming low points, and choosing to live better has been a journey!! And it reminds me a little of someone else’s journey 🔨 ⚡️ \n\n#limitlesswithchrishemsworth is now streaming on @disneyplus and @hulu",
+      "video_url": "https://scontent-dfw5-2.cdninstagram.com/o1/v/t16/f2/m86/AQPIV5YQhYqz92ZFmt3Lou3KhTqOUYjQUQMRMub-WYiqZg5eYbQrU1SP3vZ6n6i0suN573DCgcwEtKsitdB9qXNzKryCkIcd4SDDnuc.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=106&vs=793642626552608_3415855073&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85RDRENjFEODU5MUMwRjdEQjlCRTU5MDVDMkYwMjFCQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS0FsUHlBc0RYTTFDWmdFQUllazJnV2c3SDQyYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJriHhpqgntY%2FFQIoAkMzLBdAVpqfvnbItBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=7ef1194975&ccb=9-4&oh=00_AfZTsm5WCNBczSMNUTlpS96o_0oP_ZAqkmE4WdkAQLcnWg&oe=68BA6654&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/539639570_4021295934754083_5225779204210470148_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QEzL0ROVsrei3efBlqEwHlosntLs4J82qa1AQFvuzObSzlKsjk2e_uKk-dkHWR570Y&_nc_ohc=S3LHBtp3s6wQ7kNvwHXrZuP&_nc_gid=Mt4gNAuJk2skgmc1WaB2UA&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcwOTMzODczNjMwNTIwMjMzOA%3D%3D.3-ccb7-5&oh=00_AfbloaCl-_oqHAXdIjeW9Sk5E857mkUbm3SWvjezlp9E_w&oe=68BE4799&_nc_sid=c024bc",
+        "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/539639570_4021295934754083_5225779204210470148_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QEzL0ROVsrei3efBlqEwHlosntLs4J82qa1AQFvuzObSzlKsjk2e_uKk-dkHWR570Y&_nc_ohc=S3LHBtp3s6wQ7kNvwHXrZuP&_nc_gid=Mt4gNAuJk2skgmc1WaB2UA&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcwOTMzODczNjMwNTIwMjMzOA%3D%3D.3-ccb7-5&oh=00_Afa-gQi1pPdFYYavWKyolXHBJdL8ve5OUMibOWlNnxr-UA&oe=68BE4799&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 1315945,
+        "likes": 124203,
+        "comments": 806,
+        "shares": null
+      },
+      "hashtags": [
+        "limitlesswithchrishemsworth"
+      ],
+      "author": {
+        "name": "Chris Hemsworth",
+        "username": "chrishemsworth",
+        "profile_url": "https://instagram.com/chrishemsworth"
+      },
+      "timestamp": "2025-08-28T19:00:00.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/natgeo/",
+      "engagement_score": 657972.5,
+      "post_number": "post_1"
+    },
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3710123559831313927",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN9Abh4jZ4H/",
+      "text": "They saved people from their flooded homes, one boatload at a time.\n\nHurricane Katrina: Race Against Time is now streaming on @DisneyPlus and @hulu.",
+      "video_url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t16/f2/m86/AQNNMan4AQKrXR13lToFp8X9ZrCtyjwjbyjkKaI9rP16EoOPgvqDtDQNltwBEI9Y-Aw8KIczUmXhTIzPggUMHHuvIKjIxEQFHrow-_s.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=101&vs=1117687527226693_1804717600&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83MzRGMzU4QjlBMzVDRkYyRjk3QjRCMTJEQTAyM0RBQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRnExSXlCUXYwZG9DLXhZQUVsYVRzamx1a2hqYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJpbp6%2Bfe6dU%2FFQIoAkMzLBdAWKD1wo9cKRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=2809a0d529&ccb=9-4&oh=00_AfZhSZEg2idVzTDyUE869jcRseqrtNlv40hNeuLiC15J0g&oe=68BA7498&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/540991586_18593193229019133_1552661749751172533_n.jpg?stp=dst-jpg_e35_p828x828_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QEzL0ROVsrei3efBlqEwHlosntLs4J82qa1AQFvuzObSzlKsjk2e_uKk-dkHWR570Y&_nc_ohc=BgJN0k3t1LYQ7kNvwGJC3XK&_nc_gid=Mt4gNAuJk2skgmc1WaB2UA&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDEyMzU1OTgzMTMxMzkyNzE4NTkzMTkzMjIzMDE5MTMz.3-ccb7-5&oh=00_AfYiBcWsqNxx0cjeQ8yO2kKwfUaiCrpE9wgl7cVpnG0TJA&oe=68BE600E&_nc_sid=c024bc",
+        "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/540991586_18593193229019133_1552661749751172533_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QEzL0ROVsrei3efBlqEwHlosntLs4J82qa1AQFvuzObSzlKsjk2e_uKk-dkHWR570Y&_nc_ohc=BgJN0k3t1LYQ7kNvwGJC3XK&_nc_gid=Mt4gNAuJk2skgmc1WaB2UA&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDEyMzU1OTgzMTMxMzkyNzE4NTkzMTkzMjIzMDE5MTMz.3-ccb7-5&oh=00_AfbFHozhfCXVwpjl2gURgiiCnAJ6uypf73EWvRn7phjGAw&oe=68BE600E&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 683071,
+        "likes": 14190,
+        "comments": 79,
+        "shares": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "National Geographic",
+        "username": "natgeo",
+        "profile_url": "https://instagram.com/natgeo"
+      },
+      "timestamp": "2025-08-29T21:00:47.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/natgeo/",
+      "engagement_score": 341535.5,
+      "post_number": "post_2"
+    },
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3711580376431390061",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DOCLrAEgO1t/",
+      "text": "Sometimes the best families are the ones you make for yourself—this elephant has formed a herd of her own with a group of buffalo who have learned to understand her. 🐘\n\n#SecretsOfTheElephants is now streaming on @DisneyPlus and @hulu.",
+      "video_url": "https://scontent-lga3-1.cdninstagram.com/o1/v/t16/f2/m86/AQPY_0KxrCMWb8J7uqccIuc9FbDzlm2kD1h6UsrtHwzoGLPEVJPOnDscC3KWAEtOpxRWTCY3xDWQxqGcUdAjmjxTKRrVewSFWfeRiVs.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=102&vs=24278284061843353_2733028144&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wMDRDOEVCOTg5MUUxQjQ3Mjk4QTQ5NjExM0VCQkM4QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQkNVUnlBZDNQUzlwSFlDQUE1aHhhUDUzMXNtYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJpaNjKL%2B99U%2FFQIoAkMzLBdAO3wo9cKPXBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=1f3f5d41df&ccb=9-4&oh=00_AfYsNMKIKIEAUMhPg7EccI8yNBEUtTK_dHFDe06H2NFyWg&oe=68BA564E&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/539774118_18593573572019133_5672923132715601094_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjgyNzg3LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QEzL0ROVsrei3efBlqEwHlosntLs4J82qa1AQFvuzObSzlKsjk2e_uKk-dkHWR570Y&_nc_ohc=QWJVZ02X6-gQ7kNvwGES7N8&_nc_gid=Mt4gNAuJk2skgmc1WaB2UA&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMTU4MDM3NjQzMTM5MDA2MQ%3D%3D.3-ccb7-5&oh=00_AfZ9u7q3kb0s3hla-EL34lm4YbMWLamxwbWYVy5yyJ0aRA&oe=68BE52A9&_nc_sid=c024bc",
+        "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/539774118_18593573572019133_5672923132715601094_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjgyNzg3LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QEzL0ROVsrei3efBlqEwHlosntLs4J82qa1AQFvuzObSzlKsjk2e_uKk-dkHWR570Y&_nc_ohc=QWJVZ02X6-gQ7kNvwGES7N8&_nc_gid=Mt4gNAuJk2skgmc1WaB2UA&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMTU4MDM3NjQzMTM5MDA2MQ%3D%3D.3-ccb7-5&oh=00_AfZh8c9hQgEC5U2eNl_k5I97CtTK9YcqCwDZ2-b04FqwUg&oe=68BE52A9&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 635587,
+        "likes": 102601,
+        "comments": 503,
+        "shares": null
+      },
+      "hashtags": [
+        "SecretsOfTheElephants"
+      ],
+      "author": {
+        "name": "National Geographic",
+        "username": "natgeo",
+        "profile_url": "https://instagram.com/natgeo"
+      },
+      "timestamp": "2025-08-31T21:15:02.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/natgeo/",
+      "engagement_score": 317793.5,
+      "post_number": "post_3"
+    },
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3709943052245717503",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN8XYzGCNH_/",
+      "text": "Staying calm in high stakes situations is something we all battle with every day. For Dr. Romain Pizzi, a wildlife veterinary surgeon, he spent so much time worrying about all the things that could go wrong as he performed critical surgery in difficult locations with some of the world’s most dangerous and traumatized animals. Visualization and calmly thinking through all the possible outcomes has helped him operate without limits.\n\nLearn more about living without limits at the link in bio. | This is paid content for Blua, digital health by @Bupa. With virtual doctor’s appointments, health programs & healthcare delivered to you, Blua helps you look after your health on your terms.",
+      "video_url": "https://scontent-lga3-3.cdninstagram.com/o1/v/t16/f2/m86/AQNtRNAkdWSOHGKOz21myQ5BmTLpC99SGyn6SO-2Sn9iBt5wsY27HuuNWrhqsbjGRhyUd3G30RzRmfiYIvYuBoH2d5EgqLhUi6SbO7g.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=108&vs=1235177718360124_2816911174&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNzRDNUE0RjFBNEVDQ0E5Njk0MDlFQUVFQzRFMTI4NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSmFsUnlBcDhsMG01NXdFQU1xX25YbXZYcElJYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJpas8bvr59U%2FFQIoAkMzLBdAVoKPXCj1wxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=8948b5998d&ccb=9-4&oh=00_AfaNrih9s-rdm8grCffEUkE12GfNS4CRyybvVXnTTtEQdg&oe=68BA5DF1&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/541222922_18593143624019133_2451592083935565180_n.jpg?stp=dst-jpg_e35_p828x828_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QEzL0ROVsrei3efBlqEwHlosntLs4J82qa1AQFvuzObSzlKsjk2e_uKk-dkHWR570Y&_nc_ohc=lsn9o67GZaIQ7kNvwEWyDuk&_nc_gid=Mt4gNAuJk2skgmc1WaB2UA&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcwOTk0MzA1MjI0NTcxNzUwMzE4NTkzMTQzNjE4MDE5MTMz.3-ccb7-5&oh=00_AfZvaG20pfJqgxeIdHe1KCj4MCECbYoCZI2c0LGhc5Xt2Q&oe=68BE5175&_nc_sid=c024bc",
+        "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/541222922_18593143624019133_2451592083935565180_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QEzL0ROVsrei3efBlqEwHlosntLs4J82qa1AQFvuzObSzlKsjk2e_uKk-dkHWR570Y&_nc_ohc=lsn9o67GZaIQ7kNvwEWyDuk&_nc_gid=Mt4gNAuJk2skgmc1WaB2UA&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcwOTk0MzA1MjI0NTcxNzUwMzE4NTkzMTQzNjE4MDE5MTMz.3-ccb7-5&oh=00_AfafwyPfOPPiTA_0FrCJSw3Lrlmcthsq-mbP7lq7rGLYbA&oe=68BE5175&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 445063,
+        "likes": 17355,
+        "comments": 56,
+        "shares": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "National Geographic",
+        "username": "natgeo",
+        "profile_url": "https://instagram.com/natgeo"
+      },
+      "timestamp": "2025-08-29T15:02:21.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/natgeo/",
+      "engagement_score": 222531.5,
+      "post_number": "post_4"
+    },
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3710040315629947484",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN8tgKrgEpc/",
+      "text": "The Cerrado of Brazil is the most biodiverse savannah on Earth and is home to three of South America’s largest aquifers. The Catarata dos Couros waterfalls, near Alto Paraíso de Goiás, are only one part of the crucial Cerrado ecosystem that's also known as the “cradle of waters.”\n\nVideo by @katieorlinsky",
+      "video_url": "https://scontent-ord5-2.cdninstagram.com/o1/v/t16/f2/m86/AQNt0A5JuIPP5GkfYBoTHEvYIzvOBH8SQQym6HcIx7bK-dpSalZ3dfvgYBVM1Ev_loEUXdSDQIVFZ4TXOBK-HgDWpqxFS9X574bB9_U.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=102&vs=2028428324359701_2890075016&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82QjQ1ODQ5QUZGMEQzOUYzNzI5MzU5OUIxMzdEMzhBQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTng0QmlDUnU1a1hoOHdEQUQtZ2ppVWVKQWRnYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJpahqaWB6dU%2FFQIoAkMzLBdAHFwo9cKPXBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=69236427a7&ccb=9-4&oh=00_AfZYTRvlPBJ0f3O-6P88TDrCgUHLgv3q5M9o_hdvrbj-tw&oe=68BA5E53&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/541145916_18593173264019133_2630255412882606984_n.jpg?stp=dst-jpg_e35_p828x828_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QEzL0ROVsrei3efBlqEwHlosntLs4J82qa1AQFvuzObSzlKsjk2e_uKk-dkHWR570Y&_nc_ohc=e-Yj6jovMkoQ7kNvwF8Tsoz&_nc_gid=Mt4gNAuJk2skgmc1WaB2UA&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDA0MDMxNTYyOTk0NzQ4NA%3D%3D.3-ccb7-5&oh=00_AfZptBsC5uH4Waoke86GQQmg09ItNjddkkVvloDTGyeMOw&oe=68BE7768&_nc_sid=c024bc",
+        "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-15/541145916_18593173264019133_2630255412882606984_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QEzL0ROVsrei3efBlqEwHlosntLs4J82qa1AQFvuzObSzlKsjk2e_uKk-dkHWR570Y&_nc_ohc=e-Yj6jovMkoQ7kNvwF8Tsoz&_nc_gid=Mt4gNAuJk2skgmc1WaB2UA&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDA0MDMxNTYyOTk0NzQ4NA%3D%3D.3-ccb7-5&oh=00_AfZt2xIlAZxnT5OaSQbdI_B1Y63V-5FxCNAzF2csSXLnOA&oe=68BE7768&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 255990,
+        "likes": 57601,
+        "comments": 314,
+        "shares": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "National Geographic",
+        "username": "natgeo",
+        "profile_url": "https://instagram.com/natgeo"
+      },
+      "timestamp": "2025-08-29T18:15:01.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/natgeo/",
+      "engagement_score": 127995.0,
+      "post_number": "post_5"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1962837586134905036",
+      "type": "image",
+      "url": "https://x.com/heysajib/status/1962837586134905036",
+      "text": "He predicted:\n\n• The Deep Learning revolution (2008)\n• The online education boom (2011)\n• China's massive AI dominance (2014)\n\nNow, Andrew Ng revealed 5 opportunities that will create more millionaires than anything before.\n\nHere's what you should know (&amp; how to prepare): ⤵️ https://t.co/9PaIpUu59V",
+      "video_url": null,
+      "image_urls": [
+        "https://pbs.twimg.com/media/Gz1mYRBaQAAzrgS.jpg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 259147,
+        "likes": 950,
+        "retweets": 103,
+        "replies": 41,
+        "quotes": 3,
+        "bookmarks": 1534
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Mushfiq Sajib",
+        "username": "heysajib",
+        "description": "🤖 AI enthusiast & educator | Talks about AI news, tips, and use cases | 54k+ followers on LinkedIn | DM for Collaboration or Email me: incredibleai.net@gmail",
+        "followers_count": 39382,
+        "verified": true,
+        "profile_url": "https://x.com/heysajib",
+        "location": "Join my Newsletter →",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679577721884770307/2Hd3y-vA_normal.jpg"
+      },
+      "timestamp": "2025-09-02T11:18:42+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-03T23:28:39.182037",
+      "URL_GROUP": "https://x.com/heysajib",
+      "engagement_score": 80014.59999999999,
+      "post_number": "post_6"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "thread",
+      "id": "1961072061876756644",
+      "type": "thread_with_videos",
+      "url": "https://x.com/heysajib/status/1961072061876756644",
+      "thread_length": 10,
+      "tweets": [
+        {
+          "tweet_number": 1,
+          "id": "1961072061876756644",
+          "text": "🚨BREAKING: GPT-5 just dropped…\n\nBut I’m not paying $200 to use it.\n\nI just found a secret website giving it for free (for now).\n\nHere’s how: 👇 https://t.co/BUBTZnKwLv",
+          "type": "video",
+          "url": "https://x.com/heysajib/status/1961072061876756644",
+          "video_url": "https://video.twimg.com/amplify_video/1961072007933726720/vid/avc1/1280x720/ye1TI3iaHVpF2meu.mp4?tag=14",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 63715,
+            "likes": 68,
+            "retweets": 17,
+            "replies": 36,
+            "quotes": 1,
+            "bookmarks": 43
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-08-28T14:23:09+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 2,
+          "id": "1961072127416873110",
+          "text": "Meet GlobalGPT @GlbGPT - Your All-In-One AI Assistant 🤖\n\nAccess GPT-5, Midjourney V7, Claude 4.1, Kling, Google Veo 3, and 100+ models—all on one platform.\n\nStep 1 💡\n• Visit https://t.co/Czz4wzh4TW\n• Log in via Google, Apple, Metamask, or email https://t.co/IKm5LrsXWw",
+          "type": "video",
+          "url": "https://x.com/heysajib/status/1961072127416873110",
+          "video_url": "https://video.twimg.com/amplify_video/1961072075134955520/vid/avc1/1280x720/OjZjH4rzWR9z3Vdy.mp4?tag=14",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 436,
+            "likes": 2,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 3
+          },
+          "hashtags": [],
+          "urls": [
+            "https://www.glbgpt.com/home"
+          ],
+          "timestamp": "2025-08-28T14:23:24+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 3,
+          "id": "1961072192780968127",
+          "text": "Step-2 💬 Chat with the best AI Models\n\nChat with top models like GPT-5 🔥, Claude 4.1🔥, Gemini 2.5 Pro &amp; more.\n\nWith GPT-5, any of your questions will receive a PhD-level answer.\n\nTry it now 👉  https://t.co/vafNvvqllb https://t.co/D2F80XCzkr",
+          "type": "video",
+          "url": "https://x.com/heysajib/status/1961072192780968127",
+          "video_url": "https://video.twimg.com/amplify_video/1961072141543288832/vid/avc1/1276x720/ypqUby1phXwjTaAr.mp4?tag=14",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 400,
+            "likes": 2,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 1
+          },
+          "hashtags": [],
+          "urls": [
+            "https://glbgpt.com/chatgpt/gpt-5"
+          ],
+          "timestamp": "2025-08-28T14:23:40+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 4,
+          "id": "1961072257465458714",
+          "text": "Step-3 ⛓ Coding with Claude 4.1\n\nClaude 4.1 is an incredibly good coding model.\n\nAmazing at single-shot understanding of complex prompts and writing code that just works.\n\nBuild your website now 👉 https://t.co/Y50VK0CgS5 https://t.co/dWag8SklHg",
+          "type": "video",
+          "url": "https://x.com/heysajib/status/1961072257465458714",
+          "video_url": "https://video.twimg.com/amplify_video/1961072206206914560/vid/avc1/1280x720/DsDujtkjtwa2Cjst.mp4?tag=14",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 277,
+            "likes": 2,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [
+            "https://glbgpt.com/chatgpt/claude-opus-4-1"
+          ],
+          "timestamp": "2025-08-28T14:23:55+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 5,
+          "id": "1961072324427624475",
+          "text": "Step-4 🎨 Craft epic visuals\n\n→ Midjourney V7,  Ideogram, Flux\n→ GPT-4o Image, Sora Image..\n\nCreate artworks, posters, and logos 👉 https://t.co/hQPvVuLBHg https://t.co/kM6Crvspsm",
+          "type": "video",
+          "url": "https://x.com/heysajib/status/1961072324427624475",
+          "video_url": "https://video.twimg.com/amplify_video/1961072271168253952/vid/avc1/1280x720/UXO8g-kg1FIiW2ZI.mp4?tag=14",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 261,
+            "likes": 1,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [
+            "https://glbgpt.com/image"
+          ],
+          "timestamp": "2025-08-28T14:24:11+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 6,
+          "id": "1961072390806659498",
+          "text": "Step-5 🎥 Make viral Videos\n\n→ Google Veo 3: Best video model so far. Generate 1080p video with synced audio — perfect for films &amp; ads.\n→ Kling 2.1, Runway, Luma...\n\nCreate short videos, films, and ads 👉 https://t.co/XFHNvAel9T https://t.co/14rDtCYlRz",
+          "type": "video",
+          "url": "https://x.com/heysajib/status/1961072390806659498",
+          "video_url": "https://video.twimg.com/amplify_video/1961072337614434304/vid/avc1/1276x720/BsS1m4iRg4PMUCmz.mp4?tag=14",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 193,
+            "likes": 1,
+            "retweets": 1,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [
+            "https://glbgpt.com/video-generator"
+          ],
+          "timestamp": "2025-08-28T14:24:27+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 7,
+          "id": "1961072455487000927",
+          "text": "Step-6👨‍💻 Advanced AI agents\n\n→ Perplexity, Deep Research, AI Detector\n→ Proofreading AI, OpenManus\n\n👉 https://t.co/95Ha1hTyJd https://t.co/nU7EgHLmdt",
+          "type": "video",
+          "url": "https://x.com/heysajib/status/1961072455487000927",
+          "video_url": "https://video.twimg.com/amplify_video/1961072404341673984/vid/avc1/1280x720/gs5DSY6J-LEQoOCV.mp4?tag=14",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 137,
+            "likes": 1,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [
+            "https://glbgpt.com/models"
+          ],
+          "timestamp": "2025-08-28T14:24:43+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 8,
+          "id": "1961072467814097003",
+          "text": "More Reasons to Join @GlbGPT\n\n🔹Earn credits by sharing\n🔹No regional restrictions\n🔹Always updated with the latest AI models\n🔹Prompt Manager – save and reuse your favorite prompts with one click\n🔹Model Explorer – multi-dimensional profiles that reveal each model’s capabilities",
+          "type": "text",
+          "url": "https://x.com/heysajib/status/1961072467814097003",
+          "video_url": null,
+          "image_urls": [],
+          "media_count": 0,
+          "stats": {
+            "views": 119,
+            "likes": 1,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [
+            "https://www.glbgpt.com/home"
+          ],
+          "timestamp": "2025-08-28T14:24:45+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 9,
+          "id": "1961072479721734468",
+          "text": "🤖 The AI Boom is real. 🚨\n\nYou must learn AI to stay ahead.\n\nI'm giving away $3,000 worth of AI guides:\n\n👉 ChatGPT Power Course\n👉 4,000+ Prompts\n👉 And much more\n\nJust join my FREE Newsletter and get all of them for FREE.\n\nJoin NOW 👇 https://t.co/tPW8n08bWb",
+          "type": "text",
+          "url": "https://x.com/heysajib/status/1961072479721734468",
+          "video_url": null,
+          "image_urls": [],
+          "media_count": 0,
+          "stats": {
+            "views": 321,
+            "likes": 1,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [
+            "https://incredibleai.net/subscribe"
+          ],
+          "timestamp": "2025-08-28T14:24:48+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 10,
+          "id": "1961072491755143549",
+          "text": "That's a wrap!\n\nI hope you've found this thread helpful.\n\nStay connected with @heysajib for more helpful content.",
+          "type": "text",
+          "url": "https://x.com/heysajib/status/1961072491755143549",
+          "video_url": null,
+          "image_urls": [],
+          "media_count": 0,
+          "stats": {
+            "views": 351,
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-08-28T14:24:51+00:00",
+          "language": "en"
+        }
+      ],
+      "combined_text": "🚨BREAKING: GPT-5 just dropped…\n\nBut I’m not paying $200 to use it.\n\nI just found a secret website giving it for free (for now).\n\nHere’s how: 👇 https://t.co/BUBTZnKwLv Meet GlobalGPT @GlbGPT - Your All-In-One AI Assistant 🤖\n\nAccess GPT-5, Midjourney V7, Claude 4.1, Kling, Google Veo 3, and 100+ models—all on one platform.\n\nStep 1 💡\n• Visit https://t.co/Czz4wzh4TW\n• Log in via Google, Apple, Metamask, or email https://t.co/IKm5LrsXWw Step-2 💬 Chat with the best AI Models\n\nChat with top models like GPT-5 🔥, Claude 4.1🔥, Gemini 2.5 Pro &amp; more.\n\nWith GPT-5, any of your questions will receive a PhD-level answer.\n\nTry it now 👉  https://t.co/vafNvvqllb https://t.co/D2F80XCzkr Step-3 ⛓ Coding with Claude 4.1\n\nClaude 4.1 is an incredibly good coding model.\n\nAmazing at single-shot understanding of complex prompts and writing code that just works.\n\nBuild your website now 👉 https://t.co/Y50VK0CgS5 https://t.co/dWag8SklHg Step-4 🎨 Craft epic visuals\n\n→ Midjourney V7,  Ideogram, Flux\n→ GPT-4o Image, Sora Image..\n\nCreate artworks, posters, and logos 👉 https://t.co/hQPvVuLBHg https://t.co/kM6Crvspsm Step-5 🎥 Make viral Videos\n\n→ Google Veo 3: Best video model so far. Generate 1080p video with synced audio — perfect for films &amp; ads.\n→ Kling 2.1, Runway, Luma...\n\nCreate short videos, films, and ads 👉 https://t.co/XFHNvAel9T https://t.co/14rDtCYlRz Step-6👨‍💻 Advanced AI agents\n\n→ Perplexity, Deep Research, AI Detector\n→ Proofreading AI, OpenManus\n\n👉 https://t.co/95Ha1hTyJd https://t.co/nU7EgHLmdt More Reasons to Join @GlbGPT\n\n🔹Earn credits by sharing\n🔹No regional restrictions\n🔹Always updated with the latest AI models\n🔹Prompt Manager – save and reuse your favorite prompts with one click\n🔹Model Explorer – multi-dimensional profiles that reveal each model’s capabilities 🤖 The AI Boom is real. 🚨\n\nYou must learn AI to stay ahead.\n\nI'm giving away $3,000 worth of AI guides:\n\n👉 ChatGPT Power Course\n👉 4,000+ Prompts\n👉 And much more\n\nJust join my FREE Newsletter and get all of them for FREE.\n\nJoin NOW 👇 https://t.co/tPW8n08bWb That's a wrap!\n\nI hope you've found this thread helpful.\n\nStay connected with @heysajib for more helpful content.",
+      "combined_stats": {
+        "views": 66210,
+        "likes": 80,
+        "retweets": 18,
+        "replies": 46,
+        "quotes": 1,
+        "bookmarks": 47
+      },
+      "all_media": {
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/1961072007933726720/vid/avc1/1280x720/ye1TI3iaHVpF2meu.mp4?tag=14",
+            "tweet_number": 1,
+            "tweet_id": "1961072061876756644"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1961072075134955520/vid/avc1/1280x720/OjZjH4rzWR9z3Vdy.mp4?tag=14",
+            "tweet_number": 2,
+            "tweet_id": "1961072127416873110"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1961072141543288832/vid/avc1/1276x720/ypqUby1phXwjTaAr.mp4?tag=14",
+            "tweet_number": 3,
+            "tweet_id": "1961072192780968127"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1961072206206914560/vid/avc1/1280x720/DsDujtkjtwa2Cjst.mp4?tag=14",
+            "tweet_number": 4,
+            "tweet_id": "1961072257465458714"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1961072271168253952/vid/avc1/1280x720/UXO8g-kg1FIiW2ZI.mp4?tag=14",
+            "tweet_number": 5,
+            "tweet_id": "1961072324427624475"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1961072337614434304/vid/avc1/1276x720/BsS1m4iRg4PMUCmz.mp4?tag=14",
+            "tweet_number": 6,
+            "tweet_id": "1961072390806659498"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1961072404341673984/vid/avc1/1280x720/gs5DSY6J-LEQoOCV.mp4?tag=14",
+            "tweet_number": 7,
+            "tweet_id": "1961072455487000927"
+          }
+        ],
+        "images": [],
+        "total_count": 7
+      },
+      "author": {
+        "name": "Mushfiq Sajib",
+        "username": "heysajib",
+        "description": "🤖 AI enthusiast & educator | Talks about AI news, tips, and use cases | 54k+ followers on LinkedIn | DM for Collaboration or Email me: incredibleai.net@gmail",
+        "followers_count": 39381,
+        "verified": true,
+        "profile_url": "https://x.com/heysajib",
+        "location": "Join my Newsletter →",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679577721884770307/2Hd3y-vA_normal.jpg"
+      },
+      "timestamp": "2025-08-28T14:23:09+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-03T23:29:07.501273",
+      "URL_GROUP": "https://x.com/heysajib",
+      "engagement_score": 20146.0,
+      "post_number": "post_7"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1961749632012488975",
+      "type": "image",
+      "url": "https://x.com/heysajib/status/1961749632012488975",
+      "text": "Six months of work, automated in under an hour.\n\nNo team. No tech debt.\n\nJust describe it and watch the workflow appear.\n\nHere’s how it’s done: ⤵️ https://t.co/ehQdN5UIO3",
+      "video_url": null,
+      "image_urls": [
+        "https://pbs.twimg.com/media/GzmI5Gtb0AIekgu.jpg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 56717,
+        "likes": 67,
+        "retweets": 12,
+        "replies": 37,
+        "quotes": 1,
+        "bookmarks": 44
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Mushfiq Sajib",
+        "username": "heysajib",
+        "description": "🤖 AI enthusiast & educator | Talks about AI news, tips, and use cases | 54k+ followers on LinkedIn | DM for Collaboration or Email me: incredibleai.net@gmail",
+        "followers_count": 39382,
+        "verified": true,
+        "profile_url": "https://x.com/heysajib",
+        "location": "Join my Newsletter →",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679577721884770307/2Hd3y-vA_normal.jpg"
+      },
+      "timestamp": "2025-08-30T11:15:34+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-03T23:28:48.867147",
+      "URL_GROUP": "https://x.com/heysajib",
+      "engagement_score": 17240.6,
+      "post_number": "post_8"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1961876449008500944",
+      "type": "text",
+      "url": "https://x.com/heysajib/status/1961876449008500944",
+      "text": "I'm thinking about lots of things!\n\nBut not sure what it could be.\n\nBut hey, I'm sure it will be something incredible.",
+      "video_url": null,
+      "image_urls": [],
+      "media_count": 0,
+      "stats": {
+        "views": 52539,
+        "likes": 18,
+        "retweets": 0,
+        "replies": 8,
+        "quotes": 0,
+        "bookmarks": 1
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Mushfiq Sajib",
+        "username": "heysajib",
+        "description": "🤖 AI enthusiast & educator | Talks about AI news, tips, and use cases | 54k+ followers on LinkedIn | DM for Collaboration or Email me: incredibleai.net@gmail",
+        "followers_count": 39382,
+        "verified": true,
+        "profile_url": "https://x.com/heysajib",
+        "location": "Join my Newsletter →",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679577721884770307/2Hd3y-vA_normal.jpg"
+      },
+      "timestamp": "2025-08-30T19:39:30+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-03T23:28:48.867147",
+      "URL_GROUP": "https://x.com/heysajib",
+      "engagement_score": 15809.699999999999,
+      "post_number": "post_9"
+    }
+  ],
+  "error": null,
+  "completed_at": "2025-09-03T23:29:07.875659",
+  "successful_scrapers": [
+    "instagram:https://www.instagram.com/natgeo/",
+    "twitter:https://x.com/heysajib"
+  ],
+  "failed_scrapers": []
+}

@@ -1,0 +1,616 @@
+{
+  "status": "completed",
+  "started_at": "2025-09-04T00:40:27.482653",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://x.com/heysajib",
+      "platform": "twitter",
+      "username": "heysajib",
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "url": "https://www.linkedin.com/in/andrewyng",
+      "platform": "linkedin",
+      "username": "andrewyng",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "linkedin",
+    "twitter"
+  ],
+  "total_urls": 2,
+  "result_data": [
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1962837586134905036",
+      "type": "image",
+      "url": "https://x.com/heysajib/status/1962837586134905036",
+      "text": "He predicted:\n\n• The Deep Learning revolution (2008)\n• The online education boom (2011)\n• China's massive AI dominance (2014)\n\nNow, Andrew Ng revealed 5 opportunities that will create more millionaires than anything before.\n\nHere's what you should know (&amp; how to prepare): ⤵️ https://t.co/9PaIpUu59V",
+      "video_url": null,
+      "image_urls": [
+        "https://pbs.twimg.com/media/Gz1mYRBaQAAzrgS.jpg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 260250,
+        "likes": 957,
+        "retweets": 104,
+        "replies": 41,
+        "quotes": 3,
+        "bookmarks": 1544
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Mushfiq Sajib",
+        "username": "heysajib",
+        "description": "🤖 AI enthusiast & educator | Talks about AI news, tips, and use cases | 54k+ followers on LinkedIn | DM for Collaboration or Email me: incredibleai.net@gmail",
+        "followers_count": 39331,
+        "verified": true,
+        "profile_url": "https://x.com/heysajib",
+        "location": "Join my Newsletter →",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679577721884770307/2Hd3y-vA_normal.jpg"
+      },
+      "timestamp": "2025-09-02T11:18:42+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-04T00:41:52.113598",
+      "URL_GROUP": "https://x.com/heysajib",
+      "engagement_score": 80362.5,
+      "post_number": "post_1"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1961749632012488975",
+      "type": "image",
+      "url": "https://x.com/heysajib/status/1961749632012488975",
+      "text": "Six months of work, automated in under an hour.\n\nNo team. No tech debt.\n\nJust describe it and watch the workflow appear.\n\nHere’s how it’s done: ⤵️ https://t.co/ehQdN5UIO3",
+      "video_url": null,
+      "image_urls": [
+        "https://pbs.twimg.com/media/GzmI5Gtb0AIekgu.jpg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 56718,
+        "likes": 67,
+        "retweets": 12,
+        "replies": 37,
+        "quotes": 1,
+        "bookmarks": 44
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Mushfiq Sajib",
+        "username": "heysajib",
+        "description": "🤖 AI enthusiast & educator | Talks about AI news, tips, and use cases | 54k+ followers on LinkedIn | DM for Collaboration or Email me: incredibleai.net@gmail",
+        "followers_count": 39331,
+        "verified": true,
+        "profile_url": "https://x.com/heysajib",
+        "location": "Join my Newsletter →",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679577721884770307/2Hd3y-vA_normal.jpg"
+      },
+      "timestamp": "2025-08-30T11:15:34+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-04T00:42:10.194824",
+      "URL_GROUP": "https://x.com/heysajib",
+      "engagement_score": 17240.899999999998,
+      "post_number": "post_2"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1961876449008500944",
+      "type": "text",
+      "url": "https://x.com/heysajib/status/1961876449008500944",
+      "text": "I'm thinking about lots of things!\n\nBut not sure what it could be.\n\nBut hey, I'm sure it will be something incredible.",
+      "video_url": null,
+      "image_urls": [],
+      "media_count": 0,
+      "stats": {
+        "views": 52552,
+        "likes": 18,
+        "retweets": 0,
+        "replies": 8,
+        "quotes": 0,
+        "bookmarks": 1
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Mushfiq Sajib",
+        "username": "heysajib",
+        "description": "🤖 AI enthusiast & educator | Talks about AI news, tips, and use cases | 54k+ followers on LinkedIn | DM for Collaboration or Email me: incredibleai.net@gmail",
+        "followers_count": 39331,
+        "verified": true,
+        "profile_url": "https://x.com/heysajib",
+        "location": "Join my Newsletter →",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679577721884770307/2Hd3y-vA_normal.jpg"
+      },
+      "timestamp": "2025-08-30T19:39:30+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-04T00:42:10.194824",
+      "URL_GROUP": "https://x.com/heysajib",
+      "engagement_score": 15813.599999999999,
+      "post_number": "post_3"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "thread",
+      "id": "1962490638936719384",
+      "type": "thread_with_videos",
+      "url": "https://x.com/heysajib/status/1962490638936719384",
+      "thread_length": 13,
+      "tweets": [
+        {
+          "tweet_number": 1,
+          "id": "1962490638936719384",
+          "text": "Google recently launched the all-new Pixel 10 series.\n\nExperts believe the Pixel 10 will compete with the iPhone neck-and-neck.\n\nHere’s the simplest review of the Pixel 10 series: 👇\n\n[Don’t waste your time watching a video review] https://t.co/Wc2M67U07a",
+          "type": "image",
+          "url": "https://x.com/heysajib/status/1962490638936719384",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/Gzwq1dpaIAAZZTc.jpg"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 38469,
+            "likes": 53,
+            "retweets": 6,
+            "replies": 35,
+            "quotes": 1,
+            "bookmarks": 7
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T12:20:04+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 2,
+          "id": "1962490660608708930",
+          "text": "Google dropped 3 new devices in the Pixel 10 series.\n\nPixel 10, 10 Pro, 10 Pro XL.\n\n→ New design with Material 3 Expressive UI\n→ Pixel Snap with Qi2 magnetic accessories\n→ 7 years of OS + Pixel Drops https://t.co/khPqaolFUA",
+          "type": "video",
+          "url": "https://x.com/heysajib/status/1962490660608708930",
+          "video_url": "https://video.twimg.com/amplify_video/1962490652601847808/vid/avc1/720x720/aqv1Nm8i8X9aazpB.mp4?tag=14",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 588,
+            "likes": 5,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T12:20:09+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 3,
+          "id": "1962490723506540585",
+          "text": "Pro Res Zoom → 100x with generative AI\n\nThe Pixel 10 Pro and Pro XL take zoom to a new level. This isn't just cropping, it's an on-device generative imaging model that intelligently refines details at extreme distances.\n\nDelivering stunning clarity even at 100x magnification. https://t.co/IdYq8JHGKx",
+          "type": "video",
+          "url": "https://x.com/heysajib/status/1962490723506540585",
+          "video_url": "https://video.twimg.com/amplify_video/1962490673296515072/vid/avc1/1280x720/xJuk6TaEz4Ds9ugd.mp4?tag=14",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 481,
+            "likes": 4,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 1
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T12:20:24+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 4,
+          "id": "1962490741953081372",
+          "text": "Tensor G5 (3nm) → fastest Pixel chip ever.\n\nIt delivers snappy performance while bringing deeply helpful experiences to Pixel users first. https://t.co/LxRsosEtCR",
+          "type": "image",
+          "url": "https://x.com/heysajib/status/1962490741953081372",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/Gzwq7YobMAAK_Hy.jpg",
+            "https://pbs.twimg.com/media/Gzwq7h-bsAAlhgc.jpg"
+          ],
+          "media_count": 2,
+          "stats": {
+            "views": 354,
+            "likes": 4,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T12:20:28+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 5,
+          "id": "1962490810701894059",
+          "text": "Magic Cue → auto-suggests info from Gmail, Calendar, Messages.\n\nMagic Cue isn’t just a single app or feature; it’s proactive support, tightly woven across your phone to offer relevant info and helpful actions, saving you time and effort. https://t.co/7MO5fTRJB7",
+          "type": "video",
+          "url": "https://x.com/heysajib/status/1962490810701894059",
+          "video_url": "https://video.twimg.com/amplify_video/1962490755358052352/vid/avc1/720x576/5x4VM4wMZqXMOKe6.mp4?tag=14",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 333,
+            "likes": 3,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 1
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T12:20:45+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 6,
+          "id": "1962490876980261083",
+          "text": "Google's Pixel 10 Pro Fold is the most durable foldable yet.\n\nNot just a big-screen phone—this foldable is built to last. Here's why it's a game-changer:\n\na) IP68 Rating\n\nThe Pixel 10 Pro Fold is the first foldable with full IP68 dust and water resistance. Spills and dust? No https://t.co/vd1orxXpQo",
+          "type": "video",
+          "url": "https://x.com/heysajib/status/1962490876980261083",
+          "video_url": "https://video.twimg.com/amplify_video/1962490823968501760/vid/avc1/1280x720/lSFX5pyH8uwbA1A5.mp4?tag=14",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 571,
+            "likes": 3,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T12:21:01+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 7,
+          "id": "1962490998522777646",
+          "text": "Gemini Live:\n\nIt isn’t just an AI, it’s an AI that sees the world with you. https://t.co/nzX9K9eVVG",
+          "type": "video",
+          "url": "https://x.com/heysajib/status/1962490998522777646",
+          "video_url": "https://video.twimg.com/amplify_video/1962490890506911744/vid/avc1/1280x720/P3lgzHmkxmO3kcLd.mp4?tag=14",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 282,
+            "likes": 3,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T12:21:30+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 8,
+          "id": "1962491065124192743",
+          "text": "Real-time Voice Translate:\n\nYour Pixel 10 can now translate your phone calls in real time, in your own voice, across 11 different languages.\n\nIt's like having a personal interpreter built into your phone. https://t.co/RZrhcmQdMh",
+          "type": "video",
+          "url": "https://x.com/heysajib/status/1962491065124192743",
+          "video_url": "https://video.twimg.com/amplify_video/1962491011739058176/vid/avc1/1280x720/qVal2zgb3RW-FOh8.mp4?tag=14",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 297,
+            "likes": 3,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T12:21:45+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 9,
+          "id": "1962491129355792635",
+          "text": "Pixel Watch 4:\n\nGemini now powers the Pixel Watch 4 on your wrist with a new \"Raise to Talk\" feature.\n\nIt also includes an AI health coach and can detect a loss of pulse. https://t.co/TBxSO6t0V1",
+          "type": "video",
+          "url": "https://x.com/heysajib/status/1962491129355792635",
+          "video_url": "https://video.twimg.com/amplify_video/1962491078281773057/vid/avc1/1280x720/rPehtF6z62_xhHlo.mp4?tag=14",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 309,
+            "likes": 2,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T12:22:01+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 10,
+          "id": "1962491144908193933",
+          "text": "Pixel Camera (AI Supercharged):\n\n5x telephoto on all models.\n\nAuto Best Take → blends 150 frames for perfect group shots\n\nCamera Coach → AI guides you on framing, lighting, and skills\n\nInstant View (Fold) → preview shots beside live viewfinder\n\nContent Credentials (C2PA) → https://t.co/1irWTIxZbI",
+          "type": "image",
+          "url": "https://x.com/heysajib/status/1962491144908193933",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/GzwrS_qbkAANQuD.jpg"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 262,
+            "likes": 1,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T12:22:04+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 11,
+          "id": "1962491160548843540",
+          "text": "Capture the perfect group shot with Auto Best Take.\n\nYour Pixel 10 analyzes up to 150 frames fast, blending the best moments for a flawless photo. No more retakes! https://t.co/X9hKT5L606",
+          "type": "image",
+          "url": "https://x.com/heysajib/status/1962491160548843540",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/GzwrT4QaAAAOeQn.jpg"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 214,
+            "likes": 0,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T12:22:08+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 12,
+          "id": "1962491172825481640",
+          "text": "🤖 The AI Boom is real. 🚨\n\nYou must learn AI to stay ahead.\n\nI'm giving away $3,000 worth of AI guides:\n\n👉 ChatGPT Power Course\n👉 4,000+ Prompts\n👉 And much more\n\nJust join my FREE Newsletter and get all of them for FREE.\n\nJoin NOW 👇 https://t.co/tPW8n08bWb",
+          "type": "text",
+          "url": "https://x.com/heysajib/status/1962491172825481640",
+          "video_url": null,
+          "image_urls": [],
+          "media_count": 0,
+          "stats": {
+            "views": 414,
+            "likes": 0,
+            "retweets": 0,
+            "replies": 2,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [
+            "https://incredibleai.net/subscribe"
+          ],
+          "timestamp": "2025-09-01T12:22:11+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 13,
+          "id": "1962491184905150568",
+          "text": "That's a wrap!\n\nI hope you've found this thread helpful.\n\nStay connected with @heysajib for more helpful content.",
+          "type": "text",
+          "url": "https://x.com/heysajib/status/1962491184905150568",
+          "video_url": null,
+          "image_urls": [],
+          "media_count": 0,
+          "stats": {
+            "views": 475,
+            "likes": 0,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T12:22:14+00:00",
+          "language": "en"
+        }
+      ],
+      "combined_text": "Google recently launched the all-new Pixel 10 series.\n\nExperts believe the Pixel 10 will compete with the iPhone neck-and-neck.\n\nHere’s the simplest review of the Pixel 10 series: 👇\n\n[Don’t waste your time watching a video review] https://t.co/Wc2M67U07a Google dropped 3 new devices in the Pixel 10 series.\n\nPixel 10, 10 Pro, 10 Pro XL.\n\n→ New design with Material 3 Expressive UI\n→ Pixel Snap with Qi2 magnetic accessories\n→ 7 years of OS + Pixel Drops https://t.co/khPqaolFUA Pro Res Zoom → 100x with generative AI\n\nThe Pixel 10 Pro and Pro XL take zoom to a new level. This isn't just cropping, it's an on-device generative imaging model that intelligently refines details at extreme distances.\n\nDelivering stunning clarity even at 100x magnification. https://t.co/IdYq8JHGKx Tensor G5 (3nm) → fastest Pixel chip ever.\n\nIt delivers snappy performance while bringing deeply helpful experiences to Pixel users first. https://t.co/LxRsosEtCR Magic Cue → auto-suggests info from Gmail, Calendar, Messages.\n\nMagic Cue isn’t just a single app or feature; it’s proactive support, tightly woven across your phone to offer relevant info and helpful actions, saving you time and effort. https://t.co/7MO5fTRJB7 Google's Pixel 10 Pro Fold is the most durable foldable yet.\n\nNot just a big-screen phone—this foldable is built to last. Here's why it's a game-changer:\n\na) IP68 Rating\n\nThe Pixel 10 Pro Fold is the first foldable with full IP68 dust and water resistance. Spills and dust? No https://t.co/vd1orxXpQo Gemini Live:\n\nIt isn’t just an AI, it’s an AI that sees the world with you. https://t.co/nzX9K9eVVG Real-time Voice Translate:\n\nYour Pixel 10 can now translate your phone calls in real time, in your own voice, across 11 different languages.\n\nIt's like having a personal interpreter built into your phone. https://t.co/RZrhcmQdMh Pixel Watch 4:\n\nGemini now powers the Pixel Watch 4 on your wrist with a new \"Raise to Talk\" feature.\n\nIt also includes an AI health coach and can detect a loss of pulse. https://t.co/TBxSO6t0V1 Pixel Camera (AI Supercharged):\n\n5x telephoto on all models.\n\nAuto Best Take → blends 150 frames for perfect group shots\n\nCamera Coach → AI guides you on framing, lighting, and skills\n\nInstant View (Fold) → preview shots beside live viewfinder\n\nContent Credentials (C2PA) → https://t.co/1irWTIxZbI Capture the perfect group shot with Auto Best Take.\n\nYour Pixel 10 analyzes up to 150 frames fast, blending the best moments for a flawless photo. No more retakes! https://t.co/X9hKT5L606 🤖 The AI Boom is real. 🚨\n\nYou must learn AI to stay ahead.\n\nI'm giving away $3,000 worth of AI guides:\n\n👉 ChatGPT Power Course\n👉 4,000+ Prompts\n👉 And much more\n\nJust join my FREE Newsletter and get all of them for FREE.\n\nJoin NOW 👇 https://t.co/tPW8n08bWb That's a wrap!\n\nI hope you've found this thread helpful.\n\nStay connected with @heysajib for more helpful content.",
+      "combined_stats": {
+        "views": 43049,
+        "likes": 81,
+        "retweets": 6,
+        "replies": 48,
+        "quotes": 1,
+        "bookmarks": 9
+      },
+      "all_media": {
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/1962490652601847808/vid/avc1/720x720/aqv1Nm8i8X9aazpB.mp4?tag=14",
+            "tweet_number": 2,
+            "tweet_id": "1962490660608708930"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962490673296515072/vid/avc1/1280x720/xJuk6TaEz4Ds9ugd.mp4?tag=14",
+            "tweet_number": 3,
+            "tweet_id": "1962490723506540585"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962490755358052352/vid/avc1/720x576/5x4VM4wMZqXMOKe6.mp4?tag=14",
+            "tweet_number": 5,
+            "tweet_id": "1962490810701894059"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962490823968501760/vid/avc1/1280x720/lSFX5pyH8uwbA1A5.mp4?tag=14",
+            "tweet_number": 6,
+            "tweet_id": "1962490876980261083"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962490890506911744/vid/avc1/1280x720/P3lgzHmkxmO3kcLd.mp4?tag=14",
+            "tweet_number": 7,
+            "tweet_id": "1962490998522777646"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962491011739058176/vid/avc1/1280x720/qVal2zgb3RW-FOh8.mp4?tag=14",
+            "tweet_number": 8,
+            "tweet_id": "1962491065124192743"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962491078281773057/vid/avc1/1280x720/rPehtF6z62_xhHlo.mp4?tag=14",
+            "tweet_number": 9,
+            "tweet_id": "1962491129355792635"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://pbs.twimg.com/media/Gzwq1dpaIAAZZTc.jpg",
+            "tweet_number": 1,
+            "tweet_id": "1962490638936719384"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/Gzwq7YobMAAK_Hy.jpg",
+            "tweet_number": 4,
+            "tweet_id": "1962490741953081372"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/Gzwq7h-bsAAlhgc.jpg",
+            "tweet_number": 4,
+            "tweet_id": "1962490741953081372"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/GzwrS_qbkAANQuD.jpg",
+            "tweet_number": 10,
+            "tweet_id": "1962491144908193933"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/GzwrT4QaAAAOeQn.jpg",
+            "tweet_number": 11,
+            "tweet_id": "1962491160548843540"
+          }
+        ],
+        "total_count": 12
+      },
+      "author": {
+        "name": "Mushfiq Sajib",
+        "username": "heysajib",
+        "description": "🤖 AI enthusiast & educator | Talks about AI news, tips, and use cases | 54k+ followers on LinkedIn | DM for Collaboration or Email me: incredibleai.net@gmail",
+        "followers_count": 39331,
+        "verified": true,
+        "profile_url": "https://x.com/heysajib",
+        "location": "Join my Newsletter →",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679577721884770307/2Hd3y-vA_normal.jpg"
+      },
+      "timestamp": "2025-09-01T12:20:04+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-04T00:42:10.194824",
+      "URL_GROUP": "https://x.com/heysajib",
+      "engagement_score": 13166.699999999999,
+      "post_number": "post_4"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1961816923085455630",
+      "type": "text",
+      "url": "https://x.com/heysajib/status/1961816923085455630",
+      "text": "With Grok Code hitting #1, Kilo Code's data shows the incredible developer engagement it's driving. @elonmusk, this is real-world impact from open tech.",
+      "video_url": null,
+      "image_urls": [],
+      "media_count": 0,
+      "stats": {
+        "views": 28692,
+        "likes": 25,
+        "retweets": 0,
+        "replies": 15,
+        "quotes": 0,
+        "bookmarks": 2
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Mushfiq Sajib",
+        "username": "heysajib",
+        "description": "🤖 AI enthusiast & educator | Talks about AI news, tips, and use cases | 54k+ followers on LinkedIn | DM for Collaboration or Email me: incredibleai.net@gmail",
+        "followers_count": 39331,
+        "verified": true,
+        "profile_url": "https://x.com/heysajib",
+        "location": "Join my Newsletter →",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679577721884770307/2Hd3y-vA_normal.jpg"
+      },
+      "timestamp": "2025-08-30T15:42:57+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-04T00:42:10.194824",
+      "URL_GROUP": "https://x.com/heysajib",
+      "engagement_score": 8680.1,
+      "post_number": "post_5"
+    },
+    {
+      "platform": "linkedin",
+      "content_type": "post",
+      "id": "urn:li:activity:7366883733846548480",
+      "type": "text",
+      "url": "https://www.linkedin.com/posts/andrewyng_ai-powered-phones-get-proactive-robot-antelope-activity-7366883733846548480-p0mp?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAACO_n4IBwdKgvYdL00IM4rPjejd0LgQ3rsY",
+      "text": "Parallel agents are emerging as an important new direction for scaling up AI. AI capabilities have scaled with more training data, training-time compute, and test-time compute. Having multiple agents run in parallel is growing as a technique to further scale and improve performance.\n\nWe know from work at Baidu by my former team, and later OpenAI, that AI models’ performance scales predictably with the amount of data and training computation. Performance rises further with test-time compute such as in agentic workflows and in reasoning models that think, reflect, and iterate on an answer. But these methods take longer to produce output. Agents working in parallel offer another path to improve results, without making users wait.\n\nReasoning models generate tokens sequentially and can take a long time to run. Similarly, most agentic workflows are initially implemented in a sequential way. But as LLM prices per token continue to fall — thus making these techniques practical — and product teams want to deliver results to users faster, more and more agentic workflows are being parallelized.\n\nSome examples:\n- Many research agents now fetch multiple web pages and examine their texts in parallel to try to synthesize deeply thoughtful research reports more quickly.\n- Some agentic coding frameworks allow users to orchestrate many agents working simultaneously on different parts of a code base. Our short course on Claude Code shows how to do this using git worktrees.\n- A rapidly growing design pattern for agentic workflows is to have a compute-heavy agent work for minutes or longer to accomplish a task, while another agent monitors the first and gives brief updates to the user to keep them informed. From here, it’s a short hop to parallel agents that work in the background while the UI agent keeps users informed and perhaps also routes asynchronous user feedback to the other agents.\n\nIt is difficult for a human manager to take a complex task (like building a complex software application) and break it down into smaller tasks for human engineers to work on in parallel; scaling to huge numbers of engineers is especially challenging. Similarly, it is also challenging to decompose tasks for parallel agents to carry out. But the falling cost of LLM inference makes it worthwhile to use a lot more tokens, and using them in parallel allows this to be done without significantly increasing the user’s waiting time.\n\nI am also encouraged by the growing body of research on parallel agents. For example, I enjoyed reading “CodeMonkeys: Scaling Test-Time Compute for Software Engineering” by Ryan Ehrlich and others, which shows how parallel code generation helps you to explore the solution space. The mixture-of-agents architecture by Junlin Wang is a surprisingly simple way to organize parallel agents.\n\n[Truncated for length. Full text, with links: https://lnkd.in/gQ98HMci ]",
+      "video_url": null,
+      "image_urls": [],
+      "media_count": 0,
+      "stats": {
+        "likes": 1841,
+        "comments": 133,
+        "shares": 137,
+        "views": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "Andrew Ng",
+        "username": "andrewyng",
+        "headline": "Founder of DeepLearning.AI; Managing General Partner of AI Fund; Exec Chairman of LandingAI",
+        "profile_url": "https://www.linkedin.com/in/andrewyng?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAqBL5gBXJ8MGhQh-qHYyxAOW-DYlHM3VLg"
+      },
+      "timestamp": "2025-08-28T17:25:52.230Z",
+      "is_activity": false,
+      "activity_description": null,
+      "scraped_at": null,
+      "URL_GROUP": "https://www.linkedin.com/in/andrewyng",
+      "engagement_score": 2506,
+      "post_number": "post_6"
+    }
+  ],
+  "error": null,
+  "completed_at": "2025-09-04T00:42:25.095728",
+  "successful_scrapers": [
+    "twitter:https://x.com/heysajib",
+    "linkedin:https://www.linkedin.com/in/andrewyng"
+  ],
+  "failed_scrapers": []
+}

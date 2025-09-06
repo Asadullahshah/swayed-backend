@@ -1,0 +1,79 @@
+{
+  "status": "completed",
+  "started_at": "2025-09-05T23:43:24.255146",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://www.instagram.com/willsmith/",
+      "platform": "instagram",
+      "username": "willsmith",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "instagram"
+  ],
+  "total_urls": 1,
+  "result_data": [
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN9VQNxgbfw/",
+      "text": "Crowd was poppin’ tonite!!",
+      "video_url": "https://scontent-lax3-2.cdninstagram.com/o1/v/t16/f2/m86/AQNmpQT5nh9ZvVuxT8rrnJJy7JrhtNMOLRMntetK18dlcGcC18q8312-Bdfr0_vlqBiysCIr9eu9JQo3Xb0aEh3zCqu0rzreMLBoNT8.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=106&vs=799573139273194_76256364&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wQjQ1QTQzRkYwQTNGRjk2RkFERkVGRDhDRDkzOUU4MF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HR28tS3lBMDdlemw5R3NPQUI3bDFBYXVhaWdRYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJriGhpjlvNY%2FFQIoAkMzLBdAM0zMzMzMzRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=f5df0227e6&ccb=9-4&oh=00_AfYZV1RapypsWSC2wDMN5D_EVQ4JbUqS5ArwcBDugHBe2Q&oe=68BD00D2&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-atl3-3.cdninstagram.com/v/t51.2885-15/540383952_1486520732380125_9082912501880725485_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4Lm5mcmFtZV9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFF0qfqn8yjOHSohLkHYb4Gjx4laMqkZD5R5xq_EMjcd_yMIKE5liXrrw5woUJGpak&_nc_ohc=57mGYVDoHRMQ7kNvwH3Eox4&_nc_gid=7pr-EuI32G6CYt1iKuCH-A&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDIxNTE0MTMwMDc0NjIyNA%3D%3D.3-ccb7-5&oh=00_AfYty4eEyu7xiSVKpQKQwczdv2QXAAa4ZkVGPPEUokUmRw&oe=68C0FC0F&_nc_sid=c024bc",
+        "https://scontent-atl3-3.cdninstagram.com/v/t51.2885-15/540383952_1486520732380125_9082912501880725485_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4Lm5mcmFtZV9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QFF0qfqn8yjOHSohLkHYb4Gjx4laMqkZD5R5xq_EMjcd_yMIKE5liXrrw5woUJGpak&_nc_ohc=57mGYVDoHRMQ7kNvwH3Eox4&_nc_gid=7pr-EuI32G6CYt1iKuCH-A&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDIxNTE0MTMwMDc0NjIyNA%3D%3D.3-ccb7-5&oh=00_AfaydEeEeVim14zr15JKc6Vw2H7mMmDnsVD7fbG6mclmhQ&oe=68C0FC0F&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 754528,
+        "likes": 36020,
+        "comments": 1847
+      },
+      "author": {
+        "username": "willsmith",
+        "name": "Will Smith",
+        "profile_url": "https://instagram.com/willsmith"
+      },
+      "URL_GROUP": "https://www.instagram.com/willsmith/",
+      "id": "3710215141300746224",
+      "engagement_score": 377264.0,
+      "post_number": "post_1"
+    },
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DOJfGbTkaBB/",
+      "text": "Ball is in your court @kevinhart4real @iamjamiefoxx",
+      "video_url": "https://scontent-atl3-2.cdninstagram.com/o1/v/t16/f2/m86/AQNEaCTQDPSsnjGRoeThFGICVDGxzC49uHceza8OeYBJoZr5mWkQVeFpM36LcTieLpxaS6BuG_4IqOXawpxIxIPzVpiBdYSH-eeAWVU.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=101&vs=812339001453500_259200394&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FRDRDQjMxQ0MzRDFBMDc4NUM3REY1QkI1NEE4NzNCRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQkRKVWlDcEtkd3c4UllNQUdMTEZxejJab1lOYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJrisvaOw3tY%2FFQIoAkMzLBdASKIMSbpeNRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=05a62a22c7&ccb=9-4&oh=00_AfaiTkSoabf_pSY6pGmAYlsQ98S6wc9LM41BeKrHluyk_w&oe=68BD11D0&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-atl3-3.cdninstagram.com/v/t51.2885-15/541268425_1461387185111263_5350773352784876989_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4Lm5mcmFtZV9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QFF0qfqn8yjOHSohLkHYb4Gjx4laMqkZD5R5xq_EMjcd_yMIKE5liXrrw5woUJGpak&_nc_ohc=G_RXwW8lCmcQ7kNvwHAoJ72&_nc_gid=7pr-EuI32G6CYt1iKuCH-A&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMzYzNjE0ODgyMTcyOTM0NQ%3D%3D.3-ccb7-5&oh=00_AfbC6eZKimmdpF092HzpCRwNqcfV9NqpQStstd26-ihHRQ&oe=68C0F89B&_nc_sid=c024bc",
+        "https://scontent-atl3-3.cdninstagram.com/v/t51.2885-15/541268425_1461387185111263_5350773352784876989_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4Lm5mcmFtZV9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QFF0qfqn8yjOHSohLkHYb4Gjx4laMqkZD5R5xq_EMjcd_yMIKE5liXrrw5woUJGpak&_nc_ohc=G_RXwW8lCmcQ7kNvwHAoJ72&_nc_gid=7pr-EuI32G6CYt1iKuCH-A&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMzYzNjE0ODgyMTcyOTM0NQ%3D%3D.3-ccb7-5&oh=00_AfbVSti6Q-xhrRT_mMh7Zfb_9ZOrv0OpRaKxc5fC7UMg0A&oe=68C0F89B&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 591918,
+        "likes": 93052,
+        "comments": 4534
+      },
+      "author": {
+        "username": "willsmith",
+        "name": "Will Smith",
+        "profile_url": "https://instagram.com/willsmith"
+      },
+      "URL_GROUP": "https://www.instagram.com/willsmith/",
+      "id": "3713636148821729345",
+      "engagement_score": 295959.0,
+      "post_number": "post_2"
+    }
+  ],
+  "error": null,
+  "completed_at": "2025-09-05T23:43:48.845119",
+  "successful_scrapers": [
+    "instagram:https://www.instagram.com/willsmith/"
+  ],
+  "failed_scrapers": []
+}

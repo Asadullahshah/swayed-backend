@@ -1,0 +1,52 @@
+{
+  "status": "error",
+  "started_at": "2025-09-04T19:49:28.303232",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://www.youtube.com/@motiversity/",
+      "platform": "youtube",
+      "username": "motiversity",
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "url": "https://x.com/AndrewYNg",
+      "platform": "twitter",
+      "username": "AndrewYNg",
+      "status": "pending"
+    },
+    {
+      "index": 3,
+      "url": "https://www.instagram.com/cristiano/",
+      "platform": "instagram",
+      "username": "cristiano",
+      "status": "pending"
+    },
+    {
+      "index": 4,
+      "url": "https://www.linkedin.com/in/williamhgates/",
+      "platform": "linkedin",
+      "username": "williamhgates",
+      "status": "pending"
+    },
+    {
+      "index": 5,
+      "url": "https://www.tiktok.com/@jennaezarik",
+      "platform": "tiktok",
+      "username": "jennaezarik",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "youtube",
+    "tiktok",
+    "linkedin",
+    "twitter",
+    "instagram"
+  ],
+  "total_urls": 5,
+  "result_data": null,
+  "error": "Failed to run retrieve.py data processing",
+  "completed_at": "2025-09-04T19:51:34.902567"
+}

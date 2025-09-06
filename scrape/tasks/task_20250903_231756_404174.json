@@ -1,0 +1,394 @@
+{
+  "status": "completed",
+  "started_at": "2025-09-03T23:17:56.405174",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://x.com/AndrewBolis",
+      "platform": "twitter",
+      "username": "AndrewBolis",
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "url": "https://x.com/codewithimanshu",
+      "platform": "twitter",
+      "username": "codewithimanshu",
+      "status": "pending"
+    },
+    {
+      "index": 3,
+      "url": "https://x.com/heysajib",
+      "platform": "twitter",
+      "username": "heysajib",
+      "status": "pending"
+    },
+    {
+      "index": 4,
+      "url": "https://x.com/Drew_code0",
+      "platform": "twitter",
+      "username": "Drew_code0",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "twitter"
+  ],
+  "total_urls": 4,
+  "result_data": [
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1962164744850407650",
+      "type": "image",
+      "url": "https://x.com/AndrewBolis/status/1962164744850407650",
+      "text": "ChatGPT + laptop + internet connection + 1 hour a day = $359 per day.\n\nUsually, I'd charge $87 for this guide, but today it's yours for FREE\n\nLike and comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. FREE for 24 hours only. https://t.co/Q8Zd3ct1aF",
+      "video_url": null,
+      "image_urls": [
+        "https://pbs.twimg.com/media/GzsCb-SbMAA51XY.png"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 329755,
+        "likes": 2021,
+        "retweets": 169,
+        "replies": 2043,
+        "quotes": 10,
+        "bookmarks": 922
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Andrew Bolis",
+        "username": "AndrewBolis",
+        "description": "AI & Marketing Consultant 📢 Former CMO 📒 Get My Free Guides: https://t.co/UjSQZDlQ3N  📧 biz@abdigital.cc ➡️ Follow for AI & business growth tips",
+        "followers_count": 167780,
+        "verified": true,
+        "profile_url": "https://x.com/AndrewBolis",
+        "location": "Chicago, IL, USA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739105890316206080/zW-KYJML_normal.jpg"
+      },
+      "timestamp": "2025-08-31T14:45:05+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-03T23:18:27.437315",
+      "URL_GROUP": "https://x.com/AndrewBolis",
+      "engagement_score": 106540.0,
+      "post_number": "post_1"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1962837586134905036",
+      "type": "image",
+      "url": "https://x.com/heysajib/status/1962837586134905036",
+      "text": "He predicted:\n\n• The Deep Learning revolution (2008)\n• The online education boom (2011)\n• China's massive AI dominance (2014)\n\nNow, Andrew Ng revealed 5 opportunities that will create more millionaires than anything before.\n\nHere's what you should know (&amp; how to prepare): ⤵️ https://t.co/9PaIpUu59V",
+      "video_url": null,
+      "image_urls": [
+        "https://pbs.twimg.com/media/Gz1mYRBaQAAzrgS.jpg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 259003,
+        "likes": 947,
+        "retweets": 103,
+        "replies": 41,
+        "quotes": 3,
+        "bookmarks": 1532
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Mushfiq Sajib",
+        "username": "heysajib",
+        "description": "🤖 AI enthusiast & educator | Talks about AI news, tips, and use cases | 54k+ followers on LinkedIn | DM for Collaboration or Email me: incredibleai.net@gmail",
+        "followers_count": 39382,
+        "verified": true,
+        "profile_url": "https://x.com/heysajib",
+        "location": "Join my Newsletter →",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679577721884770307/2Hd3y-vA_normal.jpg"
+      },
+      "timestamp": "2025-09-02T11:18:42+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-03T23:20:27.169392",
+      "URL_GROUP": "https://x.com/heysajib",
+      "engagement_score": 79965.4,
+      "post_number": "post_2"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1961802356133335301",
+      "type": "image",
+      "url": "https://x.com/AndrewBolis/status/1961802356133335301",
+      "text": "Faceless YouTube channel + laptop + internet connection = $8500 every month\n\nUsually, I charge $97 for this guide, but today I'm giving it away for FREE.\n\nLike + Comment 'YouTube' now &amp; I'll send you the full guide for FREE.\n\nFollow me to get it in DM. FREE for 24 hours only. https://t.co/EXkORkWDF1",
+      "video_url": null,
+      "image_urls": [
+        "https://pbs.twimg.com/media/Gzm42GbbUAA9Yc_.jpg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 158859,
+        "likes": 816,
+        "retweets": 115,
+        "replies": 457,
+        "quotes": 2,
+        "bookmarks": 1141
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Andrew Bolis",
+        "username": "AndrewBolis",
+        "description": "AI & Marketing Consultant 📢 Former CMO 📒 Get My Free Guides: https://t.co/UjSQZDlQ3N  📧 biz@abdigital.cc ➡️ Follow for AI & business growth tips",
+        "followers_count": 167780,
+        "verified": true,
+        "profile_url": "https://x.com/AndrewBolis",
+        "location": "Chicago, IL, USA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739105890316206080/zW-KYJML_normal.jpg"
+      },
+      "timestamp": "2025-08-30T14:45:04+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-03T23:18:27.437315",
+      "URL_GROUP": "https://x.com/AndrewBolis",
+      "engagement_score": 50320.2,
+      "post_number": "post_3"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1961077590858563879",
+      "type": "image",
+      "url": "https://x.com/AndrewBolis/status/1961077590858563879",
+      "text": "You can earn $8000/month if you have ChatGPT, a laptop, and 60 mins a day.\n\nUsually, I'd charge $79 for this killer guide, but today I'm giving it away 100% FREE.\n\nLike &amp; reply 'Money' and I'll send you my in-depth guide for FREE.\n\nMust follow me to get DM. FREE for next 24 hrs https://t.co/y1yeKAkrNf",
+      "video_url": null,
+      "image_urls": [
+        "https://pbs.twimg.com/media/GzclrKYbwAATPCl.png"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 92781,
+        "likes": 384,
+        "retweets": 43,
+        "replies": 413,
+        "quotes": 3,
+        "bookmarks": 122
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Andrew Bolis",
+        "username": "AndrewBolis",
+        "description": "AI & Marketing Consultant 📢 Former CMO 📒 Get My Free Guides: https://t.co/UjSQZDlQ3N  📧 biz@abdigital.cc ➡️ Follow for AI & business growth tips",
+        "followers_count": 167780,
+        "verified": true,
+        "profile_url": "https://x.com/AndrewBolis",
+        "location": "Chicago, IL, USA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739105890316206080/zW-KYJML_normal.jpg"
+      },
+      "timestamp": "2025-08-28T14:45:07+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-03T23:18:42.339184",
+      "URL_GROUP": "https://x.com/AndrewBolis",
+      "engagement_score": 29350.8,
+      "post_number": "post_4"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1962763464021274992",
+      "type": "video",
+      "url": "https://x.com/codewithimanshu/status/1962763464021274992",
+      "text": "Higgsfield Dropped the New Wave of Viral Nano Banana Apps!\n\nOver 2000 Apps:  GTAI, Yes Kiss, Latex, Roller Coaster, and Billboard\n\nFull control over Nano Banana. Best in Higgsfield. Unlimited for one year\n\nSeamlessly Integrated into the Higgsfield Ecosystem\n\nHere are 5 Examples: https://t.co/lWuSgMXrY7",
+      "video_url": "https://video.twimg.com/amplify_video/1962763410871037952/vid/avc1/900x720/wvOs2kUSo82PoWAK.mp4?tag=14",
+      "image_urls": [],
+      "media_count": 1,
+      "stats": {
+        "views": 84857,
+        "likes": 288,
+        "retweets": 27,
+        "replies": 64,
+        "quotes": 1,
+        "bookmarks": 8
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Himanshu Kumar",
+        "username": "codewithimanshu",
+        "description": "I help you use AI to get job and achieve career success | Posts  on Ai Innovation, Tools, Tech, Career and Jobs | 500k+ Followers Across All Platforms",
+        "followers_count": 22279,
+        "verified": true,
+        "profile_url": "https://x.com/codewithimanshu",
+        "location": "Check Me Here👉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736815259951017986/Hyit0PGJ_normal.jpg"
+      },
+      "timestamp": "2025-09-02T06:24:10+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-03T23:19:56.493026",
+      "URL_GROUP": "https://x.com/codewithimanshu",
+      "engagement_score": 26210.1,
+      "post_number": "post_5"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1961749632012488975",
+      "type": "image",
+      "url": "https://x.com/heysajib/status/1961749632012488975",
+      "text": "Six months of work, automated in under an hour.\n\nNo team. No tech debt.\n\nJust describe it and watch the workflow appear.\n\nHere’s how it’s done: ⤵️ https://t.co/ehQdN5UIO3",
+      "video_url": null,
+      "image_urls": [
+        "https://pbs.twimg.com/media/GzmI5Gtb0AIekgu.jpg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 56717,
+        "likes": 67,
+        "retweets": 12,
+        "replies": 37,
+        "quotes": 1,
+        "bookmarks": 44
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Mushfiq Sajib",
+        "username": "heysajib",
+        "description": "🤖 AI enthusiast & educator | Talks about AI news, tips, and use cases | 54k+ followers on LinkedIn | DM for Collaboration or Email me: incredibleai.net@gmail",
+        "followers_count": 39382,
+        "verified": true,
+        "profile_url": "https://x.com/heysajib",
+        "location": "Join my Newsletter →",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679577721884770307/2Hd3y-vA_normal.jpg"
+      },
+      "timestamp": "2025-08-30T11:15:34+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-03T23:20:35.044305",
+      "URL_GROUP": "https://x.com/heysajib",
+      "engagement_score": 17240.6,
+      "post_number": "post_6"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1961681818887098733",
+      "type": "text",
+      "url": "https://x.com/codewithimanshu/status/1961681818887098733",
+      "text": "Boost your productivity with 23 ChatGPT prompts.\n\nMore powerful than a team of 14 employees. 🚀\n\nHere they are:",
+      "video_url": null,
+      "image_urls": [],
+      "media_count": 0,
+      "stats": {
+        "views": 9431,
+        "likes": 67,
+        "retweets": 16,
+        "replies": 36,
+        "quotes": 1,
+        "bookmarks": 29
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "Himanshu Kumar",
+        "username": "codewithimanshu",
+        "description": "I help you use AI to get job and achieve career success | Posts  on Ai Innovation, Tools, Tech, Career and Jobs | 500k+ Followers Across All Platforms",
+        "followers_count": 22279,
+        "verified": true,
+        "profile_url": "https://x.com/codewithimanshu",
+        "location": "Check Me Here👉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736815259951017986/Hyit0PGJ_normal.jpg"
+      },
+      "timestamp": "2025-08-30T06:46:06+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-03T23:20:15.496065",
+      "URL_GROUP": "https://x.com/codewithimanshu",
+      "engagement_score": 3065.2999999999997,
+      "post_number": "post_7"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1962870801150984520",
+      "type": "image",
+      "url": "https://x.com/Drew_code0/status/1962870801150984520",
+      "text": "I tried the nano banana on its own and thought, “Nice picture, but I can’t buy it.” \n\nThen I used it in Gensmo and was amazed:\n\n “Wow, that’s the outfit in my cart!” Gensmo is the first app to make nano banana into real fashion shopping. \n\nThis is definitely something more than https://t.co/UuBcDQTan1",
+      "video_url": null,
+      "image_urls": [
+        "https://pbs.twimg.com/media/Gz2EhbzWEAAFnZz.jpg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 4872,
+        "likes": 114,
+        "retweets": 58,
+        "replies": 78,
+        "quotes": 0,
+        "bookmarks": 23
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "kieran Drew",
+        "username": "Drew_code0",
+        "description": "Helping ambitious founders and CEOs build strong personal brands on LinkedIn and Twitter | Al & Tech enthusiast | Contact me for paid promotions.📩",
+        "followers_count": 10317,
+        "verified": true,
+        "profile_url": "https://x.com/Drew_code0",
+        "location": "Australia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910026067542433797/8ICFvR9Y_normal.jpg"
+      },
+      "timestamp": "2025-09-02T13:30:42+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-03T23:20:57.882569",
+      "URL_GROUP": "https://x.com/Drew_code0",
+      "engagement_score": 1980.6,
+      "post_number": "post_8"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "id": "1962770456811012475",
+      "type": "video",
+      "url": "https://x.com/Drew_code0/status/1962770456811012475",
+      "text": "This AI started a trend.\n\nHiggsfield just dropped a new set of their viral Nano Banana Apps.\n\nThe control they give you is insane, and it's unlimited for a whole year.\n\nLet's break it down. https://t.co/uyWUN90xmq",
+      "video_url": "https://video.twimg.com/amplify_video/1962767964601720832/vid/avc1/1000x800/ixtPgqNExPDAIdgJ.mp4?tag=21",
+      "image_urls": [],
+      "media_count": 1,
+      "stats": {
+        "views": 4134,
+        "likes": 97,
+        "retweets": 46,
+        "replies": 72,
+        "quotes": 0,
+        "bookmarks": 15
+      },
+      "hashtags": [],
+      "urls": [],
+      "author": {
+        "name": "kieran Drew",
+        "username": "Drew_code0",
+        "description": "Helping ambitious founders and CEOs build strong personal brands on LinkedIn and Twitter | Al & Tech enthusiast | Contact me for paid promotions.📩",
+        "followers_count": 10317,
+        "verified": true,
+        "profile_url": "https://x.com/Drew_code0",
+        "location": "Australia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910026067542433797/8ICFvR9Y_normal.jpg"
+      },
+      "timestamp": "2025-09-02T06:51:58+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-03T23:20:57.882569",
+      "URL_GROUP": "https://x.com/Drew_code0",
+      "engagement_score": 1680.2,
+      "post_number": "post_9"
+    }
+  ],
+  "error": null,
+  "completed_at": "2025-09-03T23:21:32.544117",
+  "successful_scrapers": [
+    "twitter:https://x.com/AndrewBolis",
+    "twitter:https://x.com/codewithimanshu",
+    "twitter:https://x.com/heysajib",
+    "twitter:https://x.com/Drew_code0"
+  ],
+  "failed_scrapers": []
+}

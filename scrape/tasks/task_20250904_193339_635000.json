@@ -1,0 +1,52 @@
+{
+  "status": "error",
+  "started_at": "2025-09-04T19:33:39.638001",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://www.youtube.com/@garyvee/",
+      "platform": "youtube",
+      "username": "garyvee",
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "url": "https://x.com/theinsiderzclub",
+      "platform": "twitter",
+      "username": "theinsiderzclub",
+      "status": "pending"
+    },
+    {
+      "index": 3,
+      "url": "https://www.instagram.com/theinsiders_club/",
+      "platform": "instagram",
+      "username": "theinsiders_club",
+      "status": "pending"
+    },
+    {
+      "index": 4,
+      "url": "https://www.linkedin.com/in/williamhgates/",
+      "platform": "linkedin",
+      "username": "williamhgates",
+      "status": "pending"
+    },
+    {
+      "index": 5,
+      "url": "https://www.tiktok.com/@jennaezarik",
+      "platform": "tiktok",
+      "username": "jennaezarik",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "twitter",
+    "linkedin",
+    "youtube",
+    "instagram",
+    "tiktok"
+  ],
+  "total_urls": 5,
+  "result_data": null,
+  "error": "Failed to run retrieve.py data processing",
+  "completed_at": "2025-09-04T19:37:31.403950"
+}

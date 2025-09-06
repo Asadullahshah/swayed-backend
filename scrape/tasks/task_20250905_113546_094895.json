@@ -1,0 +1,269 @@
+{
+  "status": "completed",
+  "started_at": "2025-09-05T11:35:46.095411",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://www.instagram.com/nerdypaperco/p/B9IdEmlpQbG/",
+      "platform": "instagram",
+      "username": "nerdypaperco",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "instagram"
+  ],
+  "total_urls": 1,
+  "result_data": [
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DOEMHa6iPoz/",
+      "text": "I came here to do what I love, but I #StayedForMore. The people, the energy, and the world-class events that surprise me everyday. Check out the Saudi Unreal Calendar here\n@visitsaudi\n \nhttps://www.visitsaudi.com/Calendar",
+      "video_url": "https://scontent-hou1-1.cdninstagram.com/o1/v/t16/f2/m86/AQN4j-akK4-Os09NAZiDyP8kREEdtLp_4RyaSUGcJGGNUejuP40yed_i8N4rqnNINjplOX1czII0eUauENgyf-muktnwkKC2qMvE5r8.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=103&vs=1323721726131320_2047495416&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83RjRBOUY3QTQ3QTQxMzNDN0EzOUExMDQ3MEMzMDQ5MF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ0s4U3lEOEZIbkM2ODhIQUJQVXk3WGxncDRwYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJuSH0eWf27g%2FFQIoAkMzLBdATxR64UeuFBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=6a2b11abac&ccb=9-4&oh=00_AfaH0IM4rcwN2IUTt60AAGpjLRMso4MQml35wQdsJ7wX0g&oe=68BB8B9C&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-sea5-1.cdninstagram.com/v/t51.2885-15/539543640_1700695623972704_941739585801353974_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4Lm5mcmFtZV9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QEyNhqsO2xb4V0Y8OGgE709xcPv6tXhwZcTHYaTxsYaRdTdHXyThnNOVVma9sf7ZzQ&_nc_ohc=D-aqQS8ujfIQ7kNvwHRWf6t&_nc_gid=QCSle3Syb1VkwnLvCCKOjQ&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMjE0NTI3OTM1Mzk0NDYyNw%3D%3D.3-ccb7-5&oh=00_AfYB7vMxZVms9vdFx9dSHlrGfyAXOyKB3Fgnh-OFEfHNTw&oe=68BF99D2&_nc_sid=c024bc",
+        "https://scontent-sea5-1.cdninstagram.com/v/t51.2885-15/539543640_1700695623972704_941739585801353974_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4Lm5mcmFtZV9jb3Zlcl9mcmFtZS5jMiJ9&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QEyNhqsO2xb4V0Y8OGgE709xcPv6tXhwZcTHYaTxsYaRdTdHXyThnNOVVma9sf7ZzQ&_nc_ohc=D-aqQS8ujfIQ7kNvwHRWf6t&_nc_gid=QCSle3Syb1VkwnLvCCKOjQ&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMjE0NTI3OTM1Mzk0NDYyNw%3D%3D.3-ccb7-5&oh=00_AfbZcXoF2P-G4Z0R7AOhxaaB53jRDAe-cqjeo2-T3X08ng&oe=68BF99D2&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 4431900,
+        "likes": 1108701,
+        "comments": 14850
+      },
+      "hashtags": [
+        "StayedForMore."
+      ],
+      "author": {
+        "username": "cristiano",
+        "name": "Cristiano Ronaldo",
+        "profile_url": "https://instagram.com/cristiano"
+      },
+      "URL_GROUP": "https://www.instagram.com/cristiano/",
+      "id": "3712145279353944627",
+      "engagement_score": 2215950.0,
+      "post_number": "post_1"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "text",
+      "url": "https://x.com/AndrewYNg/status/1961118026398617648",
+      "text": "Parallel agents are emerging as an important new direction for scaling up AI. AI capabilities have scaled with more training data, training-time compute, and test-time compute. Having multiple agents run in parallel is growing as a technique to further scale and improve",
+      "media_count": 0,
+      "stats": {
+        "views": 306286,
+        "likes": 1843,
+        "retweets": 364,
+        "replies": 114,
+        "quotes": 36,
+        "bookmarks": 1084
+      },
+      "urls": [
+        "https://www.deeplearning.ai/the-batch/issue-316/"
+      ],
+      "author": {
+        "username": "AndrewYNg",
+        "name": "Andrew Ng",
+        "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
+        "followers_count": 1257174,
+        "profile_url": "https://x.com/AndrewYNg",
+        "location": "Palo Alto, CA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/AndrewYNg",
+      "id": "1961118026398617648",
+      "timestamp": "2025-08-28T17:25:47+00:00",
+      "language": "en",
+      "engagement_score": 96834.8,
+      "post_number": "post_2"
+    },
+    {
+      "platform": "linkedin",
+      "content_type": "post",
+      "type": "video",
+      "url": "https://www.linkedin.com/posts/williamhgates_some-people-think-wisdom-only-comes-with-activity-7367638919565242368-gzTA?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB0q1vsBp4hULNTjGJX-vWVJ4DU-a38UXeY",
+      "text": "Some people think wisdom only comes with age, but Warren Buffett had more of it than the rest of us decades ago. Happy 95th birthday to a friend for the ages.",
+      "video_url": "https://dms.licdn.com/playlist/vid/v2/D5605AQHvar3xOSCT7A/mp4-720p-30fp-crf28/B56Zj8cXCuG4B4-/0/1756581997727?e=1757606400&v=beta&t=YnbX6-B__0YqAvKf79L8UrWTHAiqkaa16--ELHbh234",
+      "media_count": 1,
+      "stats": {
+        "likes": 15054,
+        "comments": 939,
+        "shares": 588
+      },
+      "author": {
+        "name": "Bill Gates",
+        "username": "williamhgates",
+        "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+        "profile_url": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+      },
+      "URL_GROUP": "https://www.linkedin.com/in/williamhgates/",
+      "id": "urn:li:activity:7367638919565242368",
+      "engagement_score": 19749,
+      "post_number": "post_3"
+    },
+    {
+      "platform": "youtube",
+      "content_type": "video",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=2gvYaLE0CPQ",
+      "text": "IT’S SUPPOSED TO BE HARD 2.0 - Powerful Motivational Speech Video",
+      "video_url": "https://www.youtube.com/watch?v=2gvYaLE0CPQ",
+      "image_urls": [
+        "https://i.ytimg.com/vi/2gvYaLE0CPQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCpCBqfNYI9DOQBuQSo81CG4gQ11w"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 57741,
+        "likes": 0,
+        "comments": 0
+      },
+      "author": {
+        "name": "Motiversity",
+        "subscribers_count": 0,
+        "profile_url": "https://www.youtube.com/channel/UCAPByrKU5-R1emswVlyH_-g"
+      },
+      "URL_GROUP": "https://www.youtube.com/@motiversity/",
+      "duration": "17:47",
+      "thumbnail_url": "https://i.ytimg.com/vi/2gvYaLE0CPQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCpCBqfNYI9DOQBuQSo81CG4gQ11w",
+      "engagement_score": 5774.1,
+      "post_number": "post_4"
+    },
+    {
+      "platform": "linkedin",
+      "content_type": "post",
+      "type": "image",
+      "url": "https://www.linkedin.com/posts/williamhgates_bloodthirsty-annshort-for-the-anopheles-activity-7368836501415067648-LGsQ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB0q1vsBp4hULNTjGJX-vWVJ4DU-a38UXeY",
+      "text": "Bloodthirsty Ann—short for the Anopheles mosquito that carries malaria—would like to meet you! One of Dr. Seuss’ earliest illustrations was an informational U.S. Army cartoon that warned troops about the dangers of contracting the disease during wartime: http://gatesnot.es/4g8w5kU",
+      "image_urls": [
+        "https://media.licdn.com/dms/image/v2/D5622AQE4DBiKsG9gmw/feedshare-shrink_800/B56ZkNdwHeHIAo-/0/1756867527610?e=1759968000&v=beta&t=438_q7Yh-d7qGZKIo-vqFNRgZ4UveWz_n1hCA_If-84"
+      ],
+      "media_count": 1,
+      "stats": {
+        "likes": 2767,
+        "comments": 289,
+        "shares": 114
+      },
+      "author": {
+        "name": "Bill Gates",
+        "username": "williamhgates",
+        "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+        "profile_url": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+      },
+      "URL_GROUP": "https://www.linkedin.com/in/williamhgates/",
+      "id": "urn:li:activity:7368836501415067648",
+      "engagement_score": 4212,
+      "post_number": "post_5"
+    },
+    {
+      "platform": "youtube",
+      "content_type": "video",
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=LoMz1amxJ2M",
+      "text": "FOCUS ON YOURSELF & STAY SILENT - Watch How Life Changes! Powerful Motivational Speech Compilation",
+      "video_url": "https://www.youtube.com/watch?v=LoMz1amxJ2M",
+      "image_urls": [
+        "https://i.ytimg.com/vi/LoMz1amxJ2M/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBSQiO-QulPG0OsKMdborcNZlSNqA"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 41614,
+        "likes": 0,
+        "comments": 0
+      },
+      "author": {
+        "name": "Motiversity",
+        "subscribers_count": 0,
+        "profile_url": "https://www.youtube.com/channel/UCAPByrKU5-R1emswVlyH_-g"
+      },
+      "URL_GROUP": "https://www.youtube.com/@motiversity/",
+      "duration": "43:07",
+      "thumbnail_url": "https://i.ytimg.com/vi/LoMz1amxJ2M/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBSQiO-QulPG0OsKMdborcNZlSNqA",
+      "engagement_score": 4161.400000000001,
+      "post_number": "post_6"
+    },
+    {
+      "platform": "linkedin",
+      "content_type": "post",
+      "type": "text",
+      "url": "https://www.linkedin.com/posts/williamhgates_a-new-wave-of-clean-energy-innovation-is-activity-7367310533005336577-rd-S?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB0q1vsBp4hULNTjGJX-vWVJ4DU-a38UXeY",
+      "text": "As global energy demand increases, innovative energy tech will be critical to ensuring affordable and reliable access for everyone.",
+      "media_count": 0,
+      "stats": {
+        "likes": 2079,
+        "comments": 333,
+        "shares": 112
+      },
+      "author": {
+        "name": "Bill Gates",
+        "username": "williamhgates",
+        "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+        "profile_url": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+      },
+      "URL_GROUP": "https://www.linkedin.com/in/williamhgates/",
+      "id": "urn:li:activity:7367310533005336577",
+      "engagement_score": 3744,
+      "post_number": "post_7"
+    },
+    {
+      "platform": "linkedin",
+      "content_type": "post",
+      "type": "video",
+      "url": "https://www.linkedin.com/posts/williamhgates_kim-broomer-washington-states-teacher-of-activity-7369156749393657857-NsOZ?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAB0q1vsBp4hULNTjGJX-vWVJ4DU-a38UXeY",
+      "text": "Kim Broomer, Washington State’s Teacher of the Year, is redefining what truly supportive learning looks like: https://lnkd.in/gJK9GR9A",
+      "video_url": "https://dms.licdn.com/playlist/vid/v2/D5605AQFmRqhIKF7Jow/mp4-720p-30fp-crf28/B56ZkSAXZOG0B0-/0/1756943867514?e=1757606400&v=beta&t=IHNF3n0rTsC4cMX2tsYUyVELemjgFDADu78ya8tDI2w",
+      "media_count": 1,
+      "stats": {
+        "likes": 1346,
+        "comments": 162,
+        "shares": 114
+      },
+      "author": {
+        "name": "Bill Gates",
+        "username": "williamhgates",
+        "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+        "profile_url": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+      },
+      "URL_GROUP": "https://www.linkedin.com/in/williamhgates/",
+      "id": "urn:li:activity:7369156749393657857",
+      "engagement_score": 2156,
+      "post_number": "post_8"
+    },
+    {
+      "platform": "tiktok",
+      "content_type": "video",
+      "type": "video",
+      "url": "https://www.tiktok.com/@jennaezarik/video/7544916745769815309",
+      "text": "The big trees are at the top.. 👀😆 #sequioa ",
+      "video_url": "https://www.tiktok.com/@jennaezarik/video/7544916745769815309",
+      "media_count": 1,
+      "stats": {
+        "views": 2459,
+        "likes": 160,
+        "comments": 4,
+        "shares": 2,
+        "collects": 6
+      },
+      "hashtags": [
+        "sequioa"
+      ],
+      "author": {
+        "name": "Jenna",
+        "username": "jennaezarik",
+        "profile_url": "https://www.tiktok.com/@jennaezarik",
+        "followers_count": 144200
+      },
+      "URL_GROUP": "https://www.tiktok.com/@jennaezarik",
+      "id": "7544916745769815309",
+      "engagement_score": 491.8,
+      "post_number": "post_9"
+    }
+  ],
+  "error": null,
+  "completed_at": "2025-09-05T11:36:00.965813",
+  "successful_scrapers": [
+    "instagram:https://www.instagram.com/nerdypaperco/p/B9IdEmlpQbG/"
+  ],
+  "failed_scrapers": []
+}

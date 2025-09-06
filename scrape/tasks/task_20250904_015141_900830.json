@@ -1,0 +1,1073 @@
+{
+  "status": "completed",
+  "started_at": "2025-09-04T01:51:41.902839",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://www.youtube.com/@garyvee/",
+      "platform": "youtube",
+      "username": "garyvee",
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "url": "https://x.com/theinsiderzclub",
+      "platform": "twitter",
+      "username": "theinsiderzclub",
+      "status": "pending"
+    },
+    {
+      "index": 3,
+      "url": "https://www.instagram.com/theinsiders_club/",
+      "platform": "instagram",
+      "username": "theinsiders_club",
+      "status": "pending"
+    },
+    {
+      "index": 4,
+      "url": "https://www.linkedin.com/in/williamhgates/",
+      "platform": "linkedin",
+      "username": "williamhgates",
+      "status": "pending"
+    },
+    {
+      "index": 5,
+      "url": "https://www.tiktok.com/@jennaezarik",
+      "platform": "tiktok",
+      "username": "jennaezarik",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "instagram",
+    "linkedin",
+    "twitter",
+    "youtube",
+    "tiktok"
+  ],
+  "total_urls": 5,
+  "result_data": [
+    {
+      "platform": "twitter",
+      "content_type": "thread",
+      "id": "1962578581407604827",
+      "type": "thread_with_videos",
+      "url": "https://x.com/theinsiderzclub/status/1962578581407604827",
+      "thread_length": 10,
+      "tweets": [
+        {
+          "tweet_number": 1,
+          "id": "1962578581407604827",
+          "text": "Every influencer telling you it takes seconds to do \"this\"... Is lying to you.\n\nSo instead of trying to figure it out on your own and wasting money/credits\n\nLet me cut the B.S 👇 https://t.co/aNAH1D5XSv",
+          "type": "video",
+          "url": "https://x.com/theinsiderzclub/status/1962578581407604827",
+          "video_url": "https://video.twimg.com/amplify_video/1962577358663172096/vid/avc1/1890x1080/ntr1wKdpFCC4wIsP.mp4?tag=21",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 168,
+            "likes": 3,
+            "retweets": 0,
+            "replies": 5,
+            "quotes": 1,
+            "bookmarks": 1
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T18:09:31+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 2,
+          "id": "1962578584901427298",
+          "text": "1- Open Higgsfield camera effects.\n\nCombine them with the first + last frame to get natural motion.\n\nMy top picks:\n\n-FPV Drone\n-Aerial Pullback\n-Rapid Zoom Out https://t.co/lh0iQvHwq0",
+          "type": "video",
+          "url": "https://x.com/theinsiderzclub/status/1962578584901427298",
+          "video_url": "https://video.twimg.com/amplify_video/1962577628461727744/vid/avc1/1904x1088/xC-w_gX9Vfc6z9MT.mp4?tag=21",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 41,
+            "likes": 2,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T18:09:32+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 3,
+          "id": "1962578587871035585",
+          "text": "2- The trick? Prompting the camera movement itself.\n\nInstead of just describing the scene… tell the AI HOW to move.\n\nEx:\n[Crash zoom-in] The camera suddenly rushes into XYZ https://t.co/j28rwn17q3",
+          "type": "video",
+          "url": "https://x.com/theinsiderzclub/status/1962578587871035585",
+          "video_url": "https://video.twimg.com/amplify_video/1962578095036149760/vid/avc1/1890x1080/ZYXq8AqxpBhf9uAV.mp4?tag=21",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 17,
+            "likes": 2,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T18:09:32+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 4,
+          "id": "1962578591205458292",
+          "text": "3- Once you have your clips:\n\n-Reverse them\n-Speed them up\n-Add cuts in your video editor\n\nThat’s how you get those insane smooth transitions. https://t.co/rVz1zPDbtZ",
+          "type": "video",
+          "url": "https://x.com/theinsiderzclub/status/1962578591205458292",
+          "video_url": "https://video.twimg.com/amplify_video/1962578240473530368/vid/avc1/1924x1076/_hbwgGF6bsTsakZj.mp4?tag=21",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 66,
+            "likes": 2,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-01T18:09:33+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 5,
+          "id": "1962578594628084167",
+          "text": "This breakdown will save you HOURS (and credits).\n\nFollow @theinsiderzclub for real-time drops and insights.\nQuestions? Drop them below 👇\n\nhttps://t.co/GQdH6edNFz",
+          "type": "text",
+          "url": "https://x.com/theinsiderzclub/status/1962578594628084167",
+          "video_url": null,
+          "image_urls": [],
+          "media_count": 0,
+          "stats": {
+            "views": 73,
+            "likes": 1,
+            "retweets": 0,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [
+            "https://x.com/theinsiderzclub/status/1962148005957517423"
+          ],
+          "timestamp": "2025-09-01T18:09:34+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 6,
+          "id": "1939502585557192970",
+          "text": "The biggest secret to crack competitive exams...\n\nIn this thread we will know how even today Bhagwan Hayagreev helps Millions of aspirants! https://t.co/1mcoJ3kWGV",
+          "type": "image",
+          "url": "https://x.com/ranvijayT90/status/1939502585557192970",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/Gup_Uo6WYAApk-o.jpg"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 777903,
+            "likes": 15875,
+            "retweets": 1823,
+            "replies": 112,
+            "quotes": 23,
+            "bookmarks": 6241
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-06-30T01:53:45+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 7,
+          "id": "1662057932429856768",
+          "text": "—filo #jikookau  𝑅𝑒𝑑 𝑙𝑖𝑔ℎ𝑡 / 𝐺𝑟𝑒𝑒𝑛 𝑙𝑖𝑔ℎ𝑡\n\nwhere JIAN (jm) and CHRIS (jk) are bestfriends since elementary , Jian being a rich spoiled brat and Chris na nag iisang taong kayang makapag patahimik sakanya\n\n\"𝑗𝑖\"  𝑐ℎ𝑟𝑖𝑠 𝑐𝑎𝑙𝑙𝑒𝑑 \n\"𝑓𝑖𝑛𝑒,𝑖𝑙𝑙 𝑠𝑡𝑜𝑝\" https://t.co/8d15hgPU9f",
+          "type": "image",
+          "url": "https://x.com/helikapen/status/1662057932429856768",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/FxDQ4PTaAAAgJ2G.jpg",
+            "https://pbs.twimg.com/media/FxDQ4PIagAEjHYa.jpg",
+            "https://pbs.twimg.com/media/FxDQ4PIakAEWIjT.jpg",
+            "https://pbs.twimg.com/media/FxDQ4PSaYAEuo4u.jpg"
+          ],
+          "media_count": 4,
+          "stats": {
+            "views": 128835,
+            "likes": 479,
+            "retweets": 122,
+            "replies": 3,
+            "quotes": 76,
+            "bookmarks": 472
+          },
+          "hashtags": [
+            "jikookau"
+          ],
+          "urls": [],
+          "timestamp": "2023-05-26T11:27:45+00:00",
+          "language": "tl"
+        },
+        {
+          "tweet_number": 8,
+          "id": "1588127059930677248",
+          "text": "SOLDA TÜRK KOMPLEKSİ!\nMerdan Yanardağ \n\nTürkiye solunun açıkça tartışılmayan, daha doğrusu tartışmaktan kaçınılan ciddi bir sorun var; Türk ya da Türklük kompleksi.. Bu kompleks, esas olarak “Türk solu” diyebileceğimiz siyasal ve entelektüel alanda, yakıcı bir sorun haline geldi https://t.co/4shulTIvpy",
+          "type": "image",
+          "url": "https://x.com/Saka_larr/status/1588127059930677248",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/FgopJOPXwAAZe8S.jpg"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 0,
+            "likes": 1279,
+            "retweets": 505,
+            "replies": 70,
+            "quotes": 44,
+            "bookmarks": 143
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2022-11-03T11:12:51+00:00",
+          "language": "tr"
+        },
+        {
+          "tweet_number": 9,
+          "id": "1936050896141795685",
+          "text": "In April 2025, China implemented strict export rules for rare earth elements (REEs) and magnets\n\nIt wasn’t a ban, but it led to substantial delays in global shipments, impacting India’s Auto industry\n\nWhat are rare earth elements, and why are they so important for our future? https://t.co/RvV0n8v8ks",
+          "type": "image",
+          "url": "https://x.com/aditya_kondawar/status/1936050896141795685",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/Gt4eW7RWoAAUzUs.png"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 7868,
+            "likes": 35,
+            "retweets": 7,
+            "replies": 11,
+            "quotes": 1,
+            "bookmarks": 20
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-06-20T13:17:58+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 10,
+          "id": "1937781297793106135",
+          "text": "در این مینی رشتو دوباره از سناریو تکرار برای #حسین_رونقی و خانواده اش مینویسم\n\nسناریویی که اینقدر رژیم تکرارش کرده که به راحتی میتونیم مراحل بعدی اون رو حدس بزنیم\n\nلطفا برای جلوگیری از ریپورت کوت و کامنت کنید\n\n#KingRezaPahlavi‌\n#MIGA\n\n1 https://t.co/QCsuD5GJ92",
+          "type": "image",
+          "url": "https://x.com/navidii49/status/1937781297793106135",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/GuRh0KEWAAAxl6e.jpg"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 450180,
+            "likes": 3978,
+            "retweets": 451,
+            "replies": 184,
+            "quotes": 24,
+            "bookmarks": 673
+          },
+          "hashtags": [
+            "حسین_رونقی",
+            "KingRezaPahlavi‌",
+            "MIGA"
+          ],
+          "urls": [],
+          "timestamp": "2025-06-25T07:53:58+00:00",
+          "language": "fa"
+        }
+      ],
+      "combined_text": "Every influencer telling you it takes seconds to do \"this\"... Is lying to you.\n\nSo instead of trying to figure it out on your own and wasting money/credits\n\nLet me cut the B.S 👇 https://t.co/aNAH1D5XSv 1- Open Higgsfield camera effects.\n\nCombine them with the first + last frame to get natural motion.\n\nMy top picks:\n\n-FPV Drone\n-Aerial Pullback\n-Rapid Zoom Out https://t.co/lh0iQvHwq0 2- The trick? Prompting the camera movement itself.\n\nInstead of just describing the scene… tell the AI HOW to move.\n\nEx:\n[Crash zoom-in] The camera suddenly rushes into XYZ https://t.co/j28rwn17q3 3- Once you have your clips:\n\n-Reverse them\n-Speed them up\n-Add cuts in your video editor\n\nThat’s how you get those insane smooth transitions. https://t.co/rVz1zPDbtZ This breakdown will save you HOURS (and credits).\n\nFollow @theinsiderzclub for real-time drops and insights.\nQuestions? Drop them below 👇\n\nhttps://t.co/GQdH6edNFz The biggest secret to crack competitive exams...\n\nIn this thread we will know how even today Bhagwan Hayagreev helps Millions of aspirants! https://t.co/1mcoJ3kWGV —filo #jikookau  𝑅𝑒𝑑 𝑙𝑖𝑔ℎ𝑡 / 𝐺𝑟𝑒𝑒𝑛 𝑙𝑖𝑔ℎ𝑡\n\nwhere JIAN (jm) and CHRIS (jk) are bestfriends since elementary , Jian being a rich spoiled brat and Chris na nag iisang taong kayang makapag patahimik sakanya\n\n\"𝑗𝑖\"  𝑐ℎ𝑟𝑖𝑠 𝑐𝑎𝑙𝑙𝑒𝑑 \n\"𝑓𝑖𝑛𝑒,𝑖𝑙𝑙 𝑠𝑡𝑜𝑝\" https://t.co/8d15hgPU9f SOLDA TÜRK KOMPLEKSİ!\nMerdan Yanardağ \n\nTürkiye solunun açıkça tartışılmayan, daha doğrusu tartışmaktan kaçınılan ciddi bir sorun var; Türk ya da Türklük kompleksi.. Bu kompleks, esas olarak “Türk solu” diyebileceğimiz siyasal ve entelektüel alanda, yakıcı bir sorun haline geldi https://t.co/4shulTIvpy In April 2025, China implemented strict export rules for rare earth elements (REEs) and magnets\n\nIt wasn’t a ban, but it led to substantial delays in global shipments, impacting India’s Auto industry\n\nWhat are rare earth elements, and why are they so important for our future? https://t.co/RvV0n8v8ks در این مینی رشتو دوباره از سناریو تکرار برای #حسین_رونقی و خانواده اش مینویسم\n\nسناریویی که اینقدر رژیم تکرارش کرده که به راحتی میتونیم مراحل بعدی اون رو حدس بزنیم\n\nلطفا برای جلوگیری از ریپورت کوت و کامنت کنید\n\n#KingRezaPahlavi‌\n#MIGA\n\n1 https://t.co/QCsuD5GJ92",
+      "combined_stats": {
+        "views": 1365151,
+        "likes": 21656,
+        "retweets": 2908,
+        "replies": 388,
+        "quotes": 169,
+        "bookmarks": 7550
+      },
+      "all_media": {
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/1962577358663172096/vid/avc1/1890x1080/ntr1wKdpFCC4wIsP.mp4?tag=21",
+            "tweet_number": 1,
+            "tweet_id": "1962578581407604827"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962577628461727744/vid/avc1/1904x1088/xC-w_gX9Vfc6z9MT.mp4?tag=21",
+            "tweet_number": 2,
+            "tweet_id": "1962578584901427298"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962578095036149760/vid/avc1/1890x1080/ZYXq8AqxpBhf9uAV.mp4?tag=21",
+            "tweet_number": 3,
+            "tweet_id": "1962578587871035585"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962578240473530368/vid/avc1/1924x1076/_hbwgGF6bsTsakZj.mp4?tag=21",
+            "tweet_number": 4,
+            "tweet_id": "1962578591205458292"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://pbs.twimg.com/media/Gup_Uo6WYAApk-o.jpg",
+            "tweet_number": 6,
+            "tweet_id": "1939502585557192970"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FxDQ4PTaAAAgJ2G.jpg",
+            "tweet_number": 7,
+            "tweet_id": "1662057932429856768"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FxDQ4PIagAEjHYa.jpg",
+            "tweet_number": 7,
+            "tweet_id": "1662057932429856768"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FxDQ4PIakAEWIjT.jpg",
+            "tweet_number": 7,
+            "tweet_id": "1662057932429856768"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FxDQ4PSaYAEuo4u.jpg",
+            "tweet_number": 7,
+            "tweet_id": "1662057932429856768"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FgopJOPXwAAZe8S.jpg",
+            "tweet_number": 8,
+            "tweet_id": "1588127059930677248"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/Gt4eW7RWoAAUzUs.png",
+            "tweet_number": 9,
+            "tweet_id": "1936050896141795685"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/GuRh0KEWAAAxl6e.jpg",
+            "tweet_number": 10,
+            "tweet_id": "1937781297793106135"
+          }
+        ],
+        "total_count": 12
+      },
+      "author": {
+        "name": "Andres Franco",
+        "username": "theinsiderzclub",
+        "description": "Entrepreneur | AI Educator (100k+) | Curiosity Seeker | Here you get: • Tools to boost your business • Ideas w/o the b.s • Latest breakthroughs",
+        "followers_count": 1098,
+        "verified": true,
+        "profile_url": "https://x.com/theinsiderzclub",
+        "location": "Your Unfair Advantage 👉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951272936213454850/FKrfmp5r_normal.jpg"
+      },
+      "timestamp": "2025-09-01T18:09:31+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-04T01:52:19.641261",
+      "URL_GROUP": "https://x.com/theinsiderzclub",
+      "engagement_score": 462163.3,
+      "post_number": "post_1"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "thread",
+      "id": "1962866980127396042",
+      "type": "thread_with_videos",
+      "url": "https://x.com/theinsiderzclub/status/1962866980127396042",
+      "thread_length": 10,
+      "tweets": [
+        {
+          "tweet_number": 1,
+          "id": "1962866980127396042",
+          "text": "OpenAI’s co-founder Ilya Sutskever, just made a chilling confession about AI\n\nSpeaking to students at the University of Toronto\n\nHe revealed 3 shocking truths about the future of artificial intelligence\n\nand why “we should all be concerned” 👇 https://t.co/7CshZ7pvth",
+          "type": "video",
+          "url": "https://x.com/theinsiderzclub/status/1962866980127396042",
+          "video_url": "https://video.twimg.com/amplify_video/1962863520170536961/vid/avc1/1080x1350/YHwHsHaOEnf3jj-s.mp4?tag=21",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 149,
+            "likes": 2,
+            "retweets": 0,
+            "replies": 3,
+            "quotes": 0,
+            "bookmarks": 1
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-02T13:15:31+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 2,
+          "id": "1962866983403196845",
+          "text": "Warning 1: \"You may not take interest in politics, but politics takes interest in you. So the same applies to AI but many times over.\" https://t.co/1zH67ZI5Jz",
+          "type": "video",
+          "url": "https://x.com/theinsiderzclub/status/1962866983403196845",
+          "video_url": "https://video.twimg.com/amplify_video/1962863643814453249/vid/avc1/480x854/1oYz_05iucGgl4Z0.mp4?tag=21",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 29,
+            "likes": 1,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-02T13:15:31+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 3,
+          "id": "1962866986892816815",
+          "text": "Warning 2: \"The day will come when AI will do all the things we can do!\" https://t.co/2snpLeWrEP",
+          "type": "video",
+          "url": "https://x.com/theinsiderzclub/status/1962866986892816815",
+          "video_url": "https://video.twimg.com/amplify_video/1962865312497598464/vid/avc1/1080x1350/ERay5FGLsPIItVw-.mp4?tag=21",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 24,
+            "likes": 1,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-02T13:15:32+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 4,
+          "id": "1962866990659318076",
+          "text": "General Commentary (+1st warning): \"What's going to happen when computers can do all of our jobs?\" https://t.co/U4TqnHwlDZ",
+          "type": "video",
+          "url": "https://x.com/theinsiderzclub/status/1962866990659318076",
+          "video_url": "https://video.twimg.com/amplify_video/1962865402297384960/vid/avc1/1080x1350/QFpYCxNY8FY17HVt.mp4?tag=21",
+          "image_urls": [],
+          "media_count": 1,
+          "stats": {
+            "views": 51,
+            "likes": 2,
+            "retweets": 0,
+            "replies": 1,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-09-02T13:15:33+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 5,
+          "id": "1962866994690080802",
+          "text": "Want to know more about tools, real use cases, and the future of creative AI?\n\nFollow @theinsiderzclub for real time drops and insights.\n\nhttps://t.co/c7gwfF3BXK",
+          "type": "text",
+          "url": "https://x.com/theinsiderzclub/status/1962866994690080802",
+          "video_url": null,
+          "image_urls": [],
+          "media_count": 0,
+          "stats": {
+            "views": 51,
+            "likes": 2,
+            "retweets": 1,
+            "replies": 0,
+            "quotes": 0,
+            "bookmarks": 0
+          },
+          "hashtags": [],
+          "urls": [
+            "https://x.com/theinsiderzclub/status/1962578581407604827"
+          ],
+          "timestamp": "2025-09-02T13:15:34+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 6,
+          "id": "1939502585557192970",
+          "text": "The biggest secret to crack competitive exams...\n\nIn this thread we will know how even today Bhagwan Hayagreev helps Millions of aspirants! https://t.co/1mcoJ3kWGV",
+          "type": "image",
+          "url": "https://x.com/ranvijayT90/status/1939502585557192970",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/Gup_Uo6WYAApk-o.jpg"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 777904,
+            "likes": 15875,
+            "retweets": 1823,
+            "replies": 112,
+            "quotes": 23,
+            "bookmarks": 6239
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-06-30T01:53:45+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 7,
+          "id": "1662057932429856768",
+          "text": "—filo #jikookau  𝑅𝑒𝑑 𝑙𝑖𝑔ℎ𝑡 / 𝐺𝑟𝑒𝑒𝑛 𝑙𝑖𝑔ℎ𝑡\n\nwhere JIAN (jm) and CHRIS (jk) are bestfriends since elementary , Jian being a rich spoiled brat and Chris na nag iisang taong kayang makapag patahimik sakanya\n\n\"𝑗𝑖\"  𝑐ℎ𝑟𝑖𝑠 𝑐𝑎𝑙𝑙𝑒𝑑 \n\"𝑓𝑖𝑛𝑒,𝑖𝑙𝑙 𝑠𝑡𝑜𝑝\" https://t.co/8d15hgPU9f",
+          "type": "image",
+          "url": "https://x.com/helikapen/status/1662057932429856768",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/FxDQ4PTaAAAgJ2G.jpg",
+            "https://pbs.twimg.com/media/FxDQ4PIagAEjHYa.jpg",
+            "https://pbs.twimg.com/media/FxDQ4PIakAEWIjT.jpg",
+            "https://pbs.twimg.com/media/FxDQ4PSaYAEuo4u.jpg"
+          ],
+          "media_count": 4,
+          "stats": {
+            "views": 128835,
+            "likes": 479,
+            "retweets": 122,
+            "replies": 3,
+            "quotes": 76,
+            "bookmarks": 472
+          },
+          "hashtags": [
+            "jikookau"
+          ],
+          "urls": [],
+          "timestamp": "2023-05-26T11:27:45+00:00",
+          "language": "tl"
+        },
+        {
+          "tweet_number": 8,
+          "id": "1588127059930677248",
+          "text": "SOLDA TÜRK KOMPLEKSİ!\nMerdan Yanardağ \n\nTürkiye solunun açıkça tartışılmayan, daha doğrusu tartışmaktan kaçınılan ciddi bir sorun var; Türk ya da Türklük kompleksi.. Bu kompleks, esas olarak “Türk solu” diyebileceğimiz siyasal ve entelektüel alanda, yakıcı bir sorun haline geldi https://t.co/4shulTIvpy",
+          "type": "image",
+          "url": "https://x.com/Saka_larr/status/1588127059930677248",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/FgopJOPXwAAZe8S.jpg"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 0,
+            "likes": 1279,
+            "retweets": 505,
+            "replies": 70,
+            "quotes": 44,
+            "bookmarks": 143
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2022-11-03T11:12:51+00:00",
+          "language": "tr"
+        },
+        {
+          "tweet_number": 9,
+          "id": "1936050896141795685",
+          "text": "In April 2025, China implemented strict export rules for rare earth elements (REEs) and magnets\n\nIt wasn’t a ban, but it led to substantial delays in global shipments, impacting India’s Auto industry\n\nWhat are rare earth elements, and why are they so important for our future? https://t.co/RvV0n8v8ks",
+          "type": "image",
+          "url": "https://x.com/aditya_kondawar/status/1936050896141795685",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/Gt4eW7RWoAAUzUs.png"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 7868,
+            "likes": 35,
+            "retweets": 7,
+            "replies": 11,
+            "quotes": 1,
+            "bookmarks": 20
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-06-20T13:17:58+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 10,
+          "id": "1937781297793106135",
+          "text": "در این مینی رشتو دوباره از سناریو تکرار برای #حسین_رونقی و خانواده اش مینویسم\n\nسناریویی که اینقدر رژیم تکرارش کرده که به راحتی میتونیم مراحل بعدی اون رو حدس بزنیم\n\nلطفا برای جلوگیری از ریپورت کوت و کامنت کنید\n\n#KingRezaPahlavi‌\n#MIGA\n\n1 https://t.co/QCsuD5GJ92",
+          "type": "image",
+          "url": "https://x.com/navidii49/status/1937781297793106135",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/GuRh0KEWAAAxl6e.jpg"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 450180,
+            "likes": 3978,
+            "retweets": 451,
+            "replies": 184,
+            "quotes": 24,
+            "bookmarks": 672
+          },
+          "hashtags": [
+            "حسین_رونقی",
+            "KingRezaPahlavi‌",
+            "MIGA"
+          ],
+          "urls": [],
+          "timestamp": "2025-06-25T07:53:58+00:00",
+          "language": "fa"
+        }
+      ],
+      "combined_text": "OpenAI’s co-founder Ilya Sutskever, just made a chilling confession about AI\n\nSpeaking to students at the University of Toronto\n\nHe revealed 3 shocking truths about the future of artificial intelligence\n\nand why “we should all be concerned” 👇 https://t.co/7CshZ7pvth Warning 1: \"You may not take interest in politics, but politics takes interest in you. So the same applies to AI but many times over.\" https://t.co/1zH67ZI5Jz Warning 2: \"The day will come when AI will do all the things we can do!\" https://t.co/2snpLeWrEP General Commentary (+1st warning): \"What's going to happen when computers can do all of our jobs?\" https://t.co/U4TqnHwlDZ Want to know more about tools, real use cases, and the future of creative AI?\n\nFollow @theinsiderzclub for real time drops and insights.\n\nhttps://t.co/c7gwfF3BXK The biggest secret to crack competitive exams...\n\nIn this thread we will know how even today Bhagwan Hayagreev helps Millions of aspirants! https://t.co/1mcoJ3kWGV —filo #jikookau  𝑅𝑒𝑑 𝑙𝑖𝑔ℎ𝑡 / 𝐺𝑟𝑒𝑒𝑛 𝑙𝑖𝑔ℎ𝑡\n\nwhere JIAN (jm) and CHRIS (jk) are bestfriends since elementary , Jian being a rich spoiled brat and Chris na nag iisang taong kayang makapag patahimik sakanya\n\n\"𝑗𝑖\"  𝑐ℎ𝑟𝑖𝑠 𝑐𝑎𝑙𝑙𝑒𝑑 \n\"𝑓𝑖𝑛𝑒,𝑖𝑙𝑙 𝑠𝑡𝑜𝑝\" https://t.co/8d15hgPU9f SOLDA TÜRK KOMPLEKSİ!\nMerdan Yanardağ \n\nTürkiye solunun açıkça tartışılmayan, daha doğrusu tartışmaktan kaçınılan ciddi bir sorun var; Türk ya da Türklük kompleksi.. Bu kompleks, esas olarak “Türk solu” diyebileceğimiz siyasal ve entelektüel alanda, yakıcı bir sorun haline geldi https://t.co/4shulTIvpy In April 2025, China implemented strict export rules for rare earth elements (REEs) and magnets\n\nIt wasn’t a ban, but it led to substantial delays in global shipments, impacting India’s Auto industry\n\nWhat are rare earth elements, and why are they so important for our future? https://t.co/RvV0n8v8ks در این مینی رشتو دوباره از سناریو تکرار برای #حسین_رونقی و خانواده اش مینویسم\n\nسناریویی که اینقدر رژیم تکرارش کرده که به راحتی میتونیم مراحل بعدی اون رو حدس بزنیم\n\nلطفا برای جلوگیری از ریپورت کوت و کامنت کنید\n\n#KingRezaPahlavi‌\n#MIGA\n\n1 https://t.co/QCsuD5GJ92",
+      "combined_stats": {
+        "views": 1365091,
+        "likes": 21654,
+        "retweets": 2909,
+        "replies": 386,
+        "quotes": 168,
+        "bookmarks": 7547
+      },
+      "all_media": {
+        "videos": [
+          {
+            "url": "https://video.twimg.com/amplify_video/1962863520170536961/vid/avc1/1080x1350/YHwHsHaOEnf3jj-s.mp4?tag=21",
+            "tweet_number": 1,
+            "tweet_id": "1962866980127396042"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962863643814453249/vid/avc1/480x854/1oYz_05iucGgl4Z0.mp4?tag=21",
+            "tweet_number": 2,
+            "tweet_id": "1962866983403196845"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962865312497598464/vid/avc1/1080x1350/ERay5FGLsPIItVw-.mp4?tag=21",
+            "tweet_number": 3,
+            "tweet_id": "1962866986892816815"
+          },
+          {
+            "url": "https://video.twimg.com/amplify_video/1962865402297384960/vid/avc1/1080x1350/QFpYCxNY8FY17HVt.mp4?tag=21",
+            "tweet_number": 4,
+            "tweet_id": "1962866990659318076"
+          }
+        ],
+        "images": [
+          {
+            "url": "https://pbs.twimg.com/media/Gup_Uo6WYAApk-o.jpg",
+            "tweet_number": 6,
+            "tweet_id": "1939502585557192970"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FxDQ4PTaAAAgJ2G.jpg",
+            "tweet_number": 7,
+            "tweet_id": "1662057932429856768"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FxDQ4PIagAEjHYa.jpg",
+            "tweet_number": 7,
+            "tweet_id": "1662057932429856768"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FxDQ4PIakAEWIjT.jpg",
+            "tweet_number": 7,
+            "tweet_id": "1662057932429856768"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FxDQ4PSaYAEuo4u.jpg",
+            "tweet_number": 7,
+            "tweet_id": "1662057932429856768"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FgopJOPXwAAZe8S.jpg",
+            "tweet_number": 8,
+            "tweet_id": "1588127059930677248"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/Gt4eW7RWoAAUzUs.png",
+            "tweet_number": 9,
+            "tweet_id": "1936050896141795685"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/GuRh0KEWAAAxl6e.jpg",
+            "tweet_number": 10,
+            "tweet_id": "1937781297793106135"
+          }
+        ],
+        "total_count": 12
+      },
+      "author": {
+        "name": "Andres Franco",
+        "username": "theinsiderzclub",
+        "description": "Entrepreneur | AI Educator (100k+) | Curiosity Seeker | Here you get: • Tools to boost your business • Ideas w/o the b.s • Latest breakthroughs",
+        "followers_count": 1098,
+        "verified": true,
+        "profile_url": "https://x.com/theinsiderzclub",
+        "location": "Your Unfair Advantage 👉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951272936213454850/FKrfmp5r_normal.jpg"
+      },
+      "timestamp": "2025-09-02T13:15:31+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-04T01:52:11.732485",
+      "URL_GROUP": "https://x.com/theinsiderzclub",
+      "engagement_score": 462141.3,
+      "post_number": "post_2"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "thread",
+      "id": "1962148005957517423",
+      "type": "thread_with_images",
+      "url": "https://x.com/ranvijayT90/status/1939502585557192970",
+      "thread_length": 5,
+      "tweets": [
+        {
+          "tweet_number": 1,
+          "id": "1939502585557192970",
+          "text": "The biggest secret to crack competitive exams...\n\nIn this thread we will know how even today Bhagwan Hayagreev helps Millions of aspirants! https://t.co/1mcoJ3kWGV",
+          "type": "image",
+          "url": "https://x.com/ranvijayT90/status/1939502585557192970",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/Gup_Uo6WYAApk-o.jpg"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 777904,
+            "likes": 15875,
+            "retweets": 1823,
+            "replies": 112,
+            "quotes": 23,
+            "bookmarks": 6239
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-06-30T01:53:45+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 2,
+          "id": "1662057932429856768",
+          "text": "—filo #jikookau  𝑅𝑒𝑑 𝑙𝑖𝑔ℎ𝑡 / 𝐺𝑟𝑒𝑒𝑛 𝑙𝑖𝑔ℎ𝑡\n\nwhere JIAN (jm) and CHRIS (jk) are bestfriends since elementary , Jian being a rich spoiled brat and Chris na nag iisang taong kayang makapag patahimik sakanya\n\n\"𝑗𝑖\"  𝑐ℎ𝑟𝑖𝑠 𝑐𝑎𝑙𝑙𝑒𝑑 \n\"𝑓𝑖𝑛𝑒,𝑖𝑙𝑙 𝑠𝑡𝑜𝑝\" https://t.co/8d15hgPU9f",
+          "type": "image",
+          "url": "https://x.com/helikapen/status/1662057932429856768",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/FxDQ4PTaAAAgJ2G.jpg",
+            "https://pbs.twimg.com/media/FxDQ4PIagAEjHYa.jpg",
+            "https://pbs.twimg.com/media/FxDQ4PIakAEWIjT.jpg",
+            "https://pbs.twimg.com/media/FxDQ4PSaYAEuo4u.jpg"
+          ],
+          "media_count": 4,
+          "stats": {
+            "views": 128835,
+            "likes": 479,
+            "retweets": 122,
+            "replies": 3,
+            "quotes": 76,
+            "bookmarks": 472
+          },
+          "hashtags": [
+            "jikookau"
+          ],
+          "urls": [],
+          "timestamp": "2023-05-26T11:27:45+00:00",
+          "language": "tl"
+        },
+        {
+          "tweet_number": 3,
+          "id": "1588127059930677248",
+          "text": "SOLDA TÜRK KOMPLEKSİ!\nMerdan Yanardağ \n\nTürkiye solunun açıkça tartışılmayan, daha doğrusu tartışmaktan kaçınılan ciddi bir sorun var; Türk ya da Türklük kompleksi.. Bu kompleks, esas olarak “Türk solu” diyebileceğimiz siyasal ve entelektüel alanda, yakıcı bir sorun haline geldi https://t.co/4shulTIvpy",
+          "type": "image",
+          "url": "https://x.com/Saka_larr/status/1588127059930677248",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/FgopJOPXwAAZe8S.jpg"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 0,
+            "likes": 1279,
+            "retweets": 505,
+            "replies": 70,
+            "quotes": 44,
+            "bookmarks": 143
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2022-11-03T11:12:51+00:00",
+          "language": "tr"
+        },
+        {
+          "tweet_number": 4,
+          "id": "1936050896141795685",
+          "text": "In April 2025, China implemented strict export rules for rare earth elements (REEs) and magnets\n\nIt wasn’t a ban, but it led to substantial delays in global shipments, impacting India’s Auto industry\n\nWhat are rare earth elements, and why are they so important for our future? https://t.co/RvV0n8v8ks",
+          "type": "image",
+          "url": "https://x.com/aditya_kondawar/status/1936050896141795685",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/Gt4eW7RWoAAUzUs.png"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 7868,
+            "likes": 35,
+            "retweets": 7,
+            "replies": 11,
+            "quotes": 1,
+            "bookmarks": 20
+          },
+          "hashtags": [],
+          "urls": [],
+          "timestamp": "2025-06-20T13:17:58+00:00",
+          "language": "en"
+        },
+        {
+          "tweet_number": 5,
+          "id": "1937781297793106135",
+          "text": "در این مینی رشتو دوباره از سناریو تکرار برای #حسین_رونقی و خانواده اش مینویسم\n\nسناریویی که اینقدر رژیم تکرارش کرده که به راحتی میتونیم مراحل بعدی اون رو حدس بزنیم\n\nلطفا برای جلوگیری از ریپورت کوت و کامنت کنید\n\n#KingRezaPahlavi‌\n#MIGA\n\n1 https://t.co/QCsuD5GJ92",
+          "type": "image",
+          "url": "https://x.com/navidii49/status/1937781297793106135",
+          "video_url": null,
+          "image_urls": [
+            "https://pbs.twimg.com/media/GuRh0KEWAAAxl6e.jpg"
+          ],
+          "media_count": 1,
+          "stats": {
+            "views": 450180,
+            "likes": 3978,
+            "retweets": 451,
+            "replies": 184,
+            "quotes": 24,
+            "bookmarks": 672
+          },
+          "hashtags": [
+            "حسین_رونقی",
+            "KingRezaPahlavi‌",
+            "MIGA"
+          ],
+          "urls": [],
+          "timestamp": "2025-06-25T07:53:58+00:00",
+          "language": "fa"
+        }
+      ],
+      "combined_text": "The biggest secret to crack competitive exams...\n\nIn this thread we will know how even today Bhagwan Hayagreev helps Millions of aspirants! https://t.co/1mcoJ3kWGV —filo #jikookau  𝑅𝑒𝑑 𝑙𝑖𝑔ℎ𝑡 / 𝐺𝑟𝑒𝑒𝑛 𝑙𝑖𝑔ℎ𝑡\n\nwhere JIAN (jm) and CHRIS (jk) are bestfriends since elementary , Jian being a rich spoiled brat and Chris na nag iisang taong kayang makapag patahimik sakanya\n\n\"𝑗𝑖\"  𝑐ℎ𝑟𝑖𝑠 𝑐𝑎𝑙𝑙𝑒𝑑 \n\"𝑓𝑖𝑛𝑒,𝑖𝑙𝑙 𝑠𝑡𝑜𝑝\" https://t.co/8d15hgPU9f SOLDA TÜRK KOMPLEKSİ!\nMerdan Yanardağ \n\nTürkiye solunun açıkça tartışılmayan, daha doğrusu tartışmaktan kaçınılan ciddi bir sorun var; Türk ya da Türklük kompleksi.. Bu kompleks, esas olarak “Türk solu” diyebileceğimiz siyasal ve entelektüel alanda, yakıcı bir sorun haline geldi https://t.co/4shulTIvpy In April 2025, China implemented strict export rules for rare earth elements (REEs) and magnets\n\nIt wasn’t a ban, but it led to substantial delays in global shipments, impacting India’s Auto industry\n\nWhat are rare earth elements, and why are they so important for our future? https://t.co/RvV0n8v8ks در این مینی رشتو دوباره از سناریو تکرار برای #حسین_رونقی و خانواده اش مینویسم\n\nسناریویی که اینقدر رژیم تکرارش کرده که به راحتی میتونیم مراحل بعدی اون رو حدس بزنیم\n\nلطفا برای جلوگیری از ریپورت کوت و کامنت کنید\n\n#KingRezaPahlavi‌\n#MIGA\n\n1 https://t.co/QCsuD5GJ92",
+      "combined_stats": {
+        "views": 1364787,
+        "likes": 21646,
+        "retweets": 2908,
+        "replies": 380,
+        "quotes": 168,
+        "bookmarks": 7546
+      },
+      "all_media": {
+        "videos": [],
+        "images": [
+          {
+            "url": "https://pbs.twimg.com/media/Gup_Uo6WYAApk-o.jpg",
+            "tweet_number": 1,
+            "tweet_id": "1939502585557192970"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FxDQ4PTaAAAgJ2G.jpg",
+            "tweet_number": 2,
+            "tweet_id": "1662057932429856768"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FxDQ4PIagAEjHYa.jpg",
+            "tweet_number": 2,
+            "tweet_id": "1662057932429856768"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FxDQ4PIakAEWIjT.jpg",
+            "tweet_number": 2,
+            "tweet_id": "1662057932429856768"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FxDQ4PSaYAEuo4u.jpg",
+            "tweet_number": 2,
+            "tweet_id": "1662057932429856768"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/FgopJOPXwAAZe8S.jpg",
+            "tweet_number": 3,
+            "tweet_id": "1588127059930677248"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/Gt4eW7RWoAAUzUs.png",
+            "tweet_number": 4,
+            "tweet_id": "1936050896141795685"
+          },
+          {
+            "url": "https://pbs.twimg.com/media/GuRh0KEWAAAxl6e.jpg",
+            "tweet_number": 5,
+            "tweet_id": "1937781297793106135"
+          }
+        ],
+        "total_count": 8
+      },
+      "author": {
+        "name": "Ranvijay Singh",
+        "username": "ranvijayT90",
+        "description": "।। श्री जानकी वल्लभो विजयते।।",
+        "followers_count": 37739,
+        "verified": true,
+        "profile_url": "https://x.com/ranvijayT90",
+        "location": "India ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850359659997044736/1Rhc3Lgu_normal.jpg"
+      },
+      "timestamp": "2025-06-30T01:53:45+00:00",
+      "language": "en",
+      "scraped_at": "2025-09-04T01:52:27.254358",
+      "URL_GROUP": "https://x.com/theinsiderzclub",
+      "engagement_score": 462022.1,
+      "post_number": "post_3"
+    },
+    {
+      "platform": "linkedin",
+      "content_type": "post",
+      "id": "urn:li:activity:7367638919565242368",
+      "type": "video",
+      "url": "https://www.linkedin.com/posts/williamhgates_some-people-think-wisdom-only-comes-with-activity-7367638919565242368-gzTA?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAADwSus0B57qMlm4Ca5R4UfGjGZiTnTKRwfs",
+      "text": "Some people think wisdom only comes with age, but Warren Buffett had more of it than the rest of us decades ago. Happy 95th birthday to a friend for the ages.",
+      "video_url": "https://dms.licdn.com/playlist/vid/v2/D5605AQHvar3xOSCT7A/mp4-720p-30fp-crf28/B56Zj8cXCuG4B4-/0/1756581997727?e=1757538000&v=beta&t=7XhVSC6TyYiSJOicWMTsuIZz694rkFmnTa5RvlH6SaY",
+      "image_urls": [],
+      "media_count": 1,
+      "stats": {
+        "likes": 14725,
+        "comments": 912,
+        "shares": 574,
+        "views": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "Bill Gates",
+        "username": "williamhgates",
+        "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+        "profile_url": "https://www.linkedin.com/in/williamhgates?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+      },
+      "timestamp": "2025-08-30T19:26:42.536Z",
+      "is_activity": false,
+      "activity_description": null,
+      "scraped_at": null,
+      "URL_GROUP": "https://www.linkedin.com/in/williamhgates/",
+      "engagement_score": 19285,
+      "post_number": "post_4"
+    },
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3709388940110685035",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN6ZZZ9D2Nr/",
+      "text": "F*** paying $125 for VEO3\n\nsomeone just leaked its open-source twin for FREE.\n\n- No restrictions. No filters. No “content police.”\n\n- Run it completely offline, right on your own computer.\n\n- Or test it online, zero cost.\n\nWant in before it disappears? Drop “Wan” below and I’ll hook you up.\n\n#OpenSourceAI #Veo3Hack #AIRevolution #VideoAI #OpenSourceTools #AIVideo #CreatorHacks #UncensoredAI #FreeAIVideo #AIForCreators #AIHack #FilmIndustryAI #NextGenEditing #AIVideoTools #ContentCreationAI #AIShift",
+      "video_url": "https://scontent-atl3-2.cdninstagram.com/o1/v/t16/f2/m86/AQOnvi-uTXxEcxsRXNn2Z2AKixGMsJMR6F1TCcHyRCpp2RmVNgxzmhm2GLHN0u4oVTohvYayo22SU00LlzYEVsIrKpryFoE7M5j_fNM.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=102&vs=2497194987322599_2169989446&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81OTQ4MkIyNTkxMzdFNTgxMUEwRDNBOTZCRDFGRDg4RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ1NfSXlEVGlvVGRwTmdIQURrTTgyc2JENEZYYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJo7K9uSzjNY%2FFQIoAkMzLBdAQ2AAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=12de54c256&ccb=9-4&oh=00_AfZ4E_dNECOpkV79Ab0JcfJJV3hznrHTQ8lKHyn9EDj1bQ&oe=68BA9029&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-hou1-1.cdninstagram.com/v/t51.2885-15/539523376_18029434625707431_3452802669165835297_n.jpg?stp=dst-jpg_e35_p828x828_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QG2nr65XXbvEtXVfcJYWeP67fPh4BJoxfjYm3dQsEAeeEoaZKmKmAoP5iffPUZL9-8&_nc_ohc=qrK-wSIsnaoQ7kNvwH63IIH&_nc_gid=MHycpotf4lRCV4aOm84p6g&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcwOTM4ODk0MDExMDY4NTAzNTE4MDI5NDM0NjIyNzA3NDMx.3-ccb7-5&oh=00_AfaggzrtLaRaRii5t5aSEOjKYPIo33kqe82I51liUnzX5A&oe=68BE616E&_nc_sid=c024bc",
+        "https://scontent-hou1-1.cdninstagram.com/v/t51.2885-15/539523376_18029434625707431_3452802669165835297_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QG2nr65XXbvEtXVfcJYWeP67fPh4BJoxfjYm3dQsEAeeEoaZKmKmAoP5iffPUZL9-8&_nc_ohc=qrK-wSIsnaoQ7kNvwH63IIH&_nc_gid=MHycpotf4lRCV4aOm84p6g&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcwOTM4ODk0MDExMDY4NTAzNTE4MDI5NDM0NjIyNzA3NDMx.3-ccb7-5&oh=00_AfYTc7Y-XuakvaKxzdjB-ot76Nkx3I0i2NArXrFFBA-d3A&oe=68BE616E&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 38365,
+        "likes": 2463,
+        "comments": 8761,
+        "shares": null
+      },
+      "hashtags": [
+        "OpenSourceAI",
+        "Veo3Hack",
+        "AIRevolution",
+        "VideoAI",
+        "OpenSourceTools",
+        "AIVideo",
+        "CreatorHacks",
+        "UncensoredAI",
+        "FreeAIVideo",
+        "AIForCreators",
+        "AIHack",
+        "FilmIndustryAI",
+        "NextGenEditing",
+        "AIVideoTools",
+        "ContentCreationAI",
+        "AIShift"
+      ],
+      "author": {
+        "name": "Andres Franco",
+        "username": "theinsiders_club",
+        "profile_url": "https://instagram.com/theinsiders_club"
+      },
+      "timestamp": "2025-08-28T20:45:25.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/theinsiders_club/",
+      "engagement_score": 19182.5,
+      "post_number": "post_5"
+    },
+    {
+      "platform": "youtube",
+      "content_type": "video",
+      "id": null,
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=SvL1FbDsZM4",
+      "text": "The New Rules of Marketing for Entrepreneurs — LIVE Q&A Show! | Tea with GaryVee #82",
+      "description": "",
+      "video_url": "https://www.youtube.com/watch?v=SvL1FbDsZM4",
+      "image_urls": [
+        "https://i.ytimg.com/vi/SvL1FbDsZM4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAURcBeXXTecpntQ9_N6duW0_or3A"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 35217,
+        "likes": 0,
+        "comments": 0,
+        "shares": null
+      },
+      "hashtags": [
+        "82"
+      ],
+      "author": {
+        "name": "GaryVee",
+        "username": null,
+        "profile_url": "https://www.youtube.com/channel/UCctXZhXmG-kf3tlIXgVZUlw",
+        "subscribers_count": 0
+      },
+      "timestamp": null,
+      "duration": "44:21",
+      "thumbnail_url": "https://i.ytimg.com/vi/SvL1FbDsZM4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAURcBeXXTecpntQ9_N6duW0_or3A",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.youtube.com/@garyvee/",
+      "engagement_score": 3521.7000000000003,
+      "post_number": "post_6"
+    }
+  ],
+  "error": null,
+  "completed_at": "2025-09-04T01:53:58.944017",
+  "successful_scrapers": [
+    "youtube:https://www.youtube.com/@garyvee/",
+    "twitter:https://x.com/theinsiderzclub",
+    "instagram:https://www.instagram.com/theinsiders_club/",
+    "linkedin:https://www.linkedin.com/in/williamhgates/"
+  ],
+  "failed_scrapers": [
+    "tiktok:https://www.tiktok.com/@jennaezarik"
+  ]
+}

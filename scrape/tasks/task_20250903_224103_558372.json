@@ -1,0 +1,34 @@
+{
+  "status": "error",
+  "started_at": "2025-09-03T22:41:03.560368",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://x.com/codewithimanshu",
+      "platform": "twitter",
+      "username": "codewithimanshu",
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "url": "https://x.com/Drew_code0",
+      "platform": "twitter",
+      "username": "Drew_code0",
+      "status": "pending"
+    },
+    {
+      "index": 3,
+      "url": "https://x.com/aitrendz_xyz",
+      "platform": "twitter",
+      "username": "aitrendz_xyz",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "twitter"
+  ],
+  "total_urls": 3,
+  "result_data": null,
+  "error": "Failed to run results.py content selection",
+  "completed_at": "2025-09-03T22:41:39.619393"
+}

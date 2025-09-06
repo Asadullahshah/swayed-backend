@@ -1,0 +1,41 @@
+{
+  "status": "error",
+  "started_at": "2025-09-03T22:13:50.377562",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://x.com/aitrendz_xyz",
+      "platform": "twitter",
+      "username": "aitrendz_xyz",
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "url": "https://x.com/TedCruz1072676",
+      "platform": "twitter",
+      "username": "TedCruz1072676",
+      "status": "pending"
+    },
+    {
+      "index": 3,
+      "url": "https://x.com/Drew_code0",
+      "platform": "twitter",
+      "username": "Drew_code0",
+      "status": "pending"
+    },
+    {
+      "index": 4,
+      "url": "https://x.com/codewithimanshu",
+      "platform": "twitter",
+      "username": "codewithimanshu",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "twitter"
+  ],
+  "total_urls": 4,
+  "result_data": null,
+  "error": "Failed to run retrieve.py data processing",
+  "completed_at": "2025-09-03T22:16:27.432182"
+}

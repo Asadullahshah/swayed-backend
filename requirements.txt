@@ -1,0 +1,23 @@
+# Core FastAPI and web framework dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# HTTP client libraries
+requests==2.31.0
+
+# Environment and configuration
+python-dotenv==1.0.0
+
+# Apify integration for web scraping
+apify-client==1.7.1
+
+# OpenAI for content remixing (LLM functionality)
+openai==1.105.0
+
+# Fetch YouTube video transcripts (captions)
+youtube-transcript-api==1.2.2
+
+# Production server
+gunicorn==21.2.0

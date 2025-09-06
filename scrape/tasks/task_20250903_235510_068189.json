@@ -1,0 +1,324 @@
+{
+  "status": "completed",
+  "started_at": "2025-09-03T23:55:10.071189",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://www.instagram.com/natgeo/",
+      "platform": "instagram",
+      "username": "natgeo",
+      "status": "pending"
+    },
+    {
+      "index": 2,
+      "url": "https://x.com/AndrewBolis",
+      "platform": "twitter",
+      "username": "AndrewBolis",
+      "status": "pending"
+    },
+    {
+      "index": 3,
+      "url": "https://www.youtube.com/@NatGeo/",
+      "platform": "youtube",
+      "username": "NatGeo",
+      "status": "pending"
+    },
+    {
+      "index": 4,
+      "url": "https://www.tiktok.com/@natgeo",
+      "platform": "tiktok",
+      "username": "natgeo",
+      "status": "pending"
+    },
+    {
+      "index": 5,
+      "url": "https://www.linkedin.com/in/andrewyng",
+      "platform": "linkedin",
+      "username": "andrewyng",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "youtube",
+    "twitter",
+    "linkedin",
+    "tiktok",
+    "instagram"
+  ],
+  "total_urls": 5,
+  "result_data": [
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3709338736305202338",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN6N-2BEWSi/",
+      "text": "Facing obstacles, overcoming low points, and choosing to live better has been a journey!! And it reminds me a little of someone else’s journey 🔨 ⚡️ \n\n#limitlesswithchrishemsworth is now streaming on @disneyplus and @hulu",
+      "video_url": "https://scontent-ord5-3.cdninstagram.com/o1/v/t16/f2/m86/AQPIV5YQhYqz92ZFmt3Lou3KhTqOUYjQUQMRMub-WYiqZg5eYbQrU1SP3vZ6n6i0suN573DCgcwEtKsitdB9qXNzKryCkIcd4SDDnuc.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=106&vs=793642626552608_3415855073&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85RDRENjFEODU5MUMwRjdEQjlCRTU5MDVDMkYwMjFCQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS0FsUHlBc0RYTTFDWmdFQUllazJnV2c3SDQyYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJriHhpqgntY%2FFQIoAkMzLBdAVpqfvnbItBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=7b0942eda1&ccb=9-4&oh=00_AfZTsm5WCNBczSMNUTlpS96o_0oP_ZAqkmE4WdkAQLcnWg&oe=68BA6654&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-15/539639570_4021295934754083_5225779204210470148_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QEdXyjxz_AyABa6ts66_eOc7FWKucyxjKi2LsHIReG5Sh9tYkmXrgv4gEKGiZsPLwc&_nc_ohc=S3LHBtp3s6wQ7kNvwE6Jq_j&_nc_gid=PEWGGLT18z9RXFNCrlugBg&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcwOTMzODczNjMwNTIwMjMzOA%3D%3D.3-ccb7-5&oh=00_AfZCHPmIqop28znQL-6osV7FiFgH-n51iB2VfpsucwmF5w&oe=68BE4799&_nc_sid=c024bc",
+        "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-15/539639570_4021295934754083_5225779204210470148_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi42NDB4MTEzNi5zZHIuZjcxODc4LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QEdXyjxz_AyABa6ts66_eOc7FWKucyxjKi2LsHIReG5Sh9tYkmXrgv4gEKGiZsPLwc&_nc_ohc=S3LHBtp3s6wQ7kNvwE6Jq_j&_nc_gid=PEWGGLT18z9RXFNCrlugBg&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcwOTMzODczNjMwNTIwMjMzOA%3D%3D.3-ccb7-5&oh=00_Afb9j467a8m8j-395ouQFRUnRol0fHU5BJ78j8hn7LbO7Q&oe=68BE4799&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 1316703,
+        "likes": 124269,
+        "comments": 808,
+        "shares": null
+      },
+      "hashtags": [
+        "limitlesswithchrishemsworth"
+      ],
+      "author": {
+        "name": "Chris Hemsworth",
+        "username": "chrishemsworth",
+        "profile_url": "https://instagram.com/chrishemsworth"
+      },
+      "timestamp": "2025-08-28T19:00:00.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/natgeo/",
+      "engagement_score": 658351.5,
+      "post_number": "post_1"
+    },
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3710123559831313927",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DN9Abh4jZ4H/",
+      "text": "They saved people from their flooded homes, one boatload at a time.\n\nHurricane Katrina: Race Against Time is now streaming on @DisneyPlus and @hulu.",
+      "video_url": "https://scontent-mia5-1.cdninstagram.com/o1/v/t16/f2/m86/AQNNMan4AQKrXR13lToFp8X9ZrCtyjwjbyjkKaI9rP16EoOPgvqDtDQNltwBEI9Y-Aw8KIczUmXhTIzPggUMHHuvIKjIxEQFHrow-_s.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=101&vs=1117687527226693_1804717600&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83MzRGMzU4QjlBMzVDRkYyRjk3QjRCMTJEQTAyM0RBQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRnExSXlCUXYwZG9DLXhZQUVsYVRzamx1a2hqYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJpbp6%2Bfe6dU%2FFQIoAkMzLBdAWKD1wo9cKRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=f2a7b9d21b&ccb=9-4&oh=00_AfZhSZEg2idVzTDyUE869jcRseqrtNlv40hNeuLiC15J0g&oe=68BA7498&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-ord5-3.cdninstagram.com/v/t51.2885-15/540991586_18593193229019133_1552661749751172533_n.jpg?stp=dst-jpg_e35_p828x828_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QEdXyjxz_AyABa6ts66_eOc7FWKucyxjKi2LsHIReG5Sh9tYkmXrgv4gEKGiZsPLwc&_nc_ohc=BgJN0k3t1LYQ7kNvwGVvBGK&_nc_gid=PEWGGLT18z9RXFNCrlugBg&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDEyMzU1OTgzMTMxMzkyNzE4NTkzMTkzMjIzMDE5MTMz.3-ccb7-5&oh=00_AfbCEw5csAYIBrNqbJCLD-kNLQJ04iaAa4B3IrTJSIqyTw&oe=68BE600E&_nc_sid=c024bc",
+        "https://scontent-ord5-3.cdninstagram.com/v/t51.2885-15/540991586_18593193229019133_1552661749751172533_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyLmY4Mjc4Ny5kZWZhdWx0X2NvdmVyX2ZyYW1lLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QEdXyjxz_AyABa6ts66_eOc7FWKucyxjKi2LsHIReG5Sh9tYkmXrgv4gEKGiZsPLwc&_nc_ohc=BgJN0k3t1LYQ7kNvwGVvBGK&_nc_gid=PEWGGLT18z9RXFNCrlugBg&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMDEyMzU1OTgzMTMxMzkyNzE4NTkzMTkzMjIzMDE5MTMz.3-ccb7-5&oh=00_AfbXDlcTXkdOpz6yIQtAZ3bHyZwTjpa0lFhgoy0ONV1yPw&oe=68BE600E&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 683415,
+        "likes": 14195,
+        "comments": 79,
+        "shares": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "National Geographic",
+        "username": "natgeo",
+        "profile_url": "https://instagram.com/natgeo"
+      },
+      "timestamp": "2025-08-29T21:00:47.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/natgeo/",
+      "engagement_score": 341707.5,
+      "post_number": "post_2"
+    },
+    {
+      "platform": "instagram",
+      "content_type": "post",
+      "id": "3711580376431390061",
+      "type": "video",
+      "url": "https://www.instagram.com/p/DOCLrAEgO1t/",
+      "text": "Sometimes the best families are the ones you make for yourself—this elephant has formed a herd of her own with a group of buffalo who have learned to understand her. 🐘\n\n#SecretsOfTheElephants is now streaming on @DisneyPlus and @hulu.",
+      "video_url": "https://instagram.fhio2-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQPY_0KxrCMWb8J7uqccIuc9FbDzlm2kD1h6UsrtHwzoGLPEVJPOnDscC3KWAEtOpxRWTCY3xDWQxqGcUdAjmjxTKRrVewSFWfeRiVs.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=102&vs=24278284061843353_2733028144&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wMDRDOEVCOTg5MUUxQjQ3Mjk4QTQ5NjExM0VCQkM4QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQkNVUnlBZDNQUzlwSFlDQUE1aHhhUDUzMXNtYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJpaNjKL%2B99U%2FFQIoAkMzLBdAO3wo9cKPXBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=0622d50eb4&ccb=9-4&oh=00_AfYsNMKIKIEAUMhPg7EccI8yNBEUtTK_dHFDe06H2NFyWg&oe=68BA564E&_nc_sid=10d13b",
+      "image_urls": [
+        "https://scontent-ord5-3.cdninstagram.com/v/t51.2885-15/539774118_18593573572019133_5672923132715601094_n.jpg?stp=dst-jpg_e15_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjgyNzg3LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QEdXyjxz_AyABa6ts66_eOc7FWKucyxjKi2LsHIReG5Sh9tYkmXrgv4gEKGiZsPLwc&_nc_ohc=QWJVZ02X6-gQ7kNvwHQoEqH&_nc_gid=PEWGGLT18z9RXFNCrlugBg&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMTU4MDM3NjQzMTM5MDA2MQ%3D%3D.3-ccb7-5&oh=00_AfZDq22HXhPpnS7xNkIi2V3Fzufv5wWC18hG8KqNxOp0OQ&oe=68BE52A9&_nc_sid=c024bc",
+        "https://scontent-ord5-3.cdninstagram.com/v/t51.2885-15/539774118_18593573572019133_5672923132715601094_n.jpg?stp=dst-jpg_e15_p320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLmltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjgyNzg3LmRlZmF1bHRfY292ZXJfZnJhbWUuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QEdXyjxz_AyABa6ts66_eOc7FWKucyxjKi2LsHIReG5Sh9tYkmXrgv4gEKGiZsPLwc&_nc_ohc=QWJVZ02X6-gQ7kNvwHQoEqH&_nc_gid=PEWGGLT18z9RXFNCrlugBg&edm=ACHbZRIBAAAA&ccb=7-5&ig_cache_key=MzcxMTU4MDM3NjQzMTM5MDA2MQ%3D%3D.3-ccb7-5&oh=00_AfZ4Qw_F4R4q-uXzha-fQMPaqZOf3d2i3EbNGEx2sz77TA&oe=68BE52A9&_nc_sid=c024bc"
+      ],
+      "media_count": 3,
+      "stats": {
+        "views": 636156,
+        "likes": 102671,
+        "comments": 503,
+        "shares": null
+      },
+      "hashtags": [
+        "SecretsOfTheElephants"
+      ],
+      "author": {
+        "name": "National Geographic",
+        "username": "natgeo",
+        "profile_url": "https://instagram.com/natgeo"
+      },
+      "timestamp": "2025-08-31T21:15:02.000Z",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.instagram.com/natgeo/",
+      "engagement_score": 318078.0,
+      "post_number": "post_3"
+    },
+    {
+      "platform": "youtube",
+      "content_type": "video",
+      "id": null,
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=HCHJsKnu3Ic",
+      "text": "To Catch a Smuggler: Drugs Across America | Season 5 MEGA EPISODE | National Geographic",
+      "description": "",
+      "video_url": "https://www.youtube.com/watch?v=HCHJsKnu3Ic",
+      "image_urls": [
+        "https://i.ytimg.com/vi/HCHJsKnu3Ic/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCjst5JQXbI9TFATAiATI0QGdr7Eg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 167912,
+        "likes": 0,
+        "comments": 0,
+        "shares": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "National Geographic",
+        "username": null,
+        "profile_url": "https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A",
+        "subscribers_count": 0
+      },
+      "timestamp": null,
+      "duration": "4:24:52",
+      "thumbnail_url": "https://i.ytimg.com/vi/HCHJsKnu3Ic/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCjst5JQXbI9TFATAiATI0QGdr7Eg",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.youtube.com/@NatGeo/",
+      "engagement_score": 16791.2,
+      "post_number": "post_4"
+    },
+    {
+      "platform": "youtube",
+      "content_type": "video",
+      "id": null,
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=tEBnTpVh95g",
+      "text": "Lost in the Jungle | Official Trailer | National Geographic Documentary Films",
+      "description": "",
+      "video_url": "https://www.youtube.com/watch?v=tEBnTpVh95g",
+      "image_urls": [
+        "https://i.ytimg.com/vi/tEBnTpVh95g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCMXMLLz3VSUYMnZzudLxbZVYcQlw"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 151479,
+        "likes": 0,
+        "comments": 0,
+        "shares": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "National Geographic",
+        "username": null,
+        "profile_url": "https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A",
+        "subscribers_count": 0
+      },
+      "timestamp": null,
+      "duration": "2:34",
+      "thumbnail_url": "https://i.ytimg.com/vi/tEBnTpVh95g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCMXMLLz3VSUYMnZzudLxbZVYcQlw",
+      "scraped_at": null,
+      "URL_GROUP": "https://www.youtube.com/@NatGeo/",
+      "engagement_score": 15147.900000000001,
+      "post_number": "post_5"
+    },
+    {
+      "platform": "tiktok",
+      "content_type": "video",
+      "id": "7545109343159520526",
+      "type": "video",
+      "url": "https://www.tiktok.com/@natgeo/video/7545109343159520526",
+      "text": "American pikas are more than just adorable furballs—they're voracious scavengers that make sure to look out for one another. #AmericasNationalParks is now streaming on @Disney+ and @hulu",
+      "video_url": "https://www.tiktok.com/@natgeo/video/7545109343159520526",
+      "image_urls": [],
+      "media_count": 1,
+      "stats": {
+        "views": 50700,
+        "likes": 6508,
+        "comments": 60,
+        "shares": 676,
+        "collects": 268
+      },
+      "hashtags": [
+        "americasnationalparks"
+      ],
+      "author": {
+        "name": "National Geographic",
+        "username": "natgeo",
+        "profile_url": "https://www.tiktok.com/@natgeo",
+        "followers_count": 9200000,
+        "verified": true
+      },
+      "timestamp": "2025-09-01T13:18:36.000Z",
+      "duration": null,
+      "scraped_at": null,
+      "URL_GROUP": "https://www.tiktok.com/@natgeo",
+      "engagement_score": 10140.0,
+      "post_number": "post_6"
+    },
+    {
+      "platform": "tiktok",
+      "content_type": "video",
+      "id": "7544023483819330830",
+      "type": "video",
+      "url": "https://www.tiktok.com/@natgeo/video/7544023483819330830",
+      "text": "Paid content for Blua, digital health by @bupa. Staying calm in high stakes situations is something we all battle with every day. For Dr. Romain Pizzi, a wildlife veterinary surgeon, he spent so much time worrying about all the things that could go wrong as he performed critical surgery in difficult locations with some of the world’s most dangerous and traumatized animals. Visualization and calmly thinking through all the possible outcomes has helped him operate without limits. Learn more about living without limits at the link in bio.",
+      "video_url": "https://www.tiktok.com/@natgeo/video/7544023483819330830",
+      "image_urls": [],
+      "media_count": 1,
+      "stats": {
+        "views": 48900,
+        "likes": 841,
+        "comments": 14,
+        "shares": 8,
+        "collects": 30
+      },
+      "hashtags": [],
+      "author": {
+        "name": "National Geographic",
+        "username": "natgeo",
+        "profile_url": "https://www.tiktok.com/@natgeo",
+        "followers_count": 9200000,
+        "verified": true
+      },
+      "timestamp": "2025-08-29T15:04:21.000Z",
+      "duration": null,
+      "scraped_at": null,
+      "URL_GROUP": "https://www.tiktok.com/@natgeo",
+      "engagement_score": 9780.0,
+      "post_number": "post_7"
+    },
+    {
+      "platform": "linkedin",
+      "content_type": "post",
+      "id": "urn:li:activity:7366883733846548480",
+      "type": "text",
+      "url": "https://www.linkedin.com/posts/andrewyng_ai-powered-phones-get-proactive-robot-antelope-activity-7366883733846548480-p0mp?utm_source=combined_share_message&utm_medium=member_desktop&rcm=ACoAAETfp90Bp8z87J9S2JZUOFkUrgejl3ypNlg",
+      "text": "Parallel agents are emerging as an important new direction for scaling up AI. AI capabilities have scaled with more training data, training-time compute, and test-time compute. Having multiple agents run in parallel is growing as a technique to further scale and improve performance.\n\nWe know from work at Baidu by my former team, and later OpenAI, that AI models’ performance scales predictably with the amount of data and training computation. Performance rises further with test-time compute such as in agentic workflows and in reasoning models that think, reflect, and iterate on an answer. But these methods take longer to produce output. Agents working in parallel offer another path to improve results, without making users wait.\n\nReasoning models generate tokens sequentially and can take a long time to run. Similarly, most agentic workflows are initially implemented in a sequential way. But as LLM prices per token continue to fall — thus making these techniques practical — and product teams want to deliver results to users faster, more and more agentic workflows are being parallelized.\n\nSome examples:\n- Many research agents now fetch multiple web pages and examine their texts in parallel to try to synthesize deeply thoughtful research reports more quickly.\n- Some agentic coding frameworks allow users to orchestrate many agents working simultaneously on different parts of a code base. Our short course on Claude Code shows how to do this using git worktrees.\n- A rapidly growing design pattern for agentic workflows is to have a compute-heavy agent work for minutes or longer to accomplish a task, while another agent monitors the first and gives brief updates to the user to keep them informed. From here, it’s a short hop to parallel agents that work in the background while the UI agent keeps users informed and perhaps also routes asynchronous user feedback to the other agents.\n\nIt is difficult for a human manager to take a complex task (like building a complex software application) and break it down into smaller tasks for human engineers to work on in parallel; scaling to huge numbers of engineers is especially challenging. Similarly, it is also challenging to decompose tasks for parallel agents to carry out. But the falling cost of LLM inference makes it worthwhile to use a lot more tokens, and using them in parallel allows this to be done without significantly increasing the user’s waiting time.\n\nI am also encouraged by the growing body of research on parallel agents. For example, I enjoyed reading “CodeMonkeys: Scaling Test-Time Compute for Software Engineering” by Ryan Ehrlich and others, which shows how parallel code generation helps you to explore the solution space. The mixture-of-agents architecture by Junlin Wang is a surprisingly simple way to organize parallel agents.\n\n[Truncated for length. Full text, with links: https://lnkd.in/gQ98HMci ]",
+      "video_url": null,
+      "image_urls": [],
+      "media_count": 0,
+      "stats": {
+        "likes": 1841,
+        "comments": 133,
+        "shares": 137,
+        "views": null
+      },
+      "hashtags": [],
+      "author": {
+        "name": "Andrew Ng",
+        "username": "andrewyng",
+        "headline": "Founder of DeepLearning.AI; Managing General Partner of AI Fund; Exec Chairman of LandingAI",
+        "profile_url": "https://www.linkedin.com/in/andrewyng?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAqBL5gBXJ8MGhQh-qHYyxAOW-DYlHM3VLg"
+      },
+      "timestamp": "2025-08-28T17:25:52.230Z",
+      "is_activity": false,
+      "activity_description": null,
+      "scraped_at": null,
+      "URL_GROUP": "https://www.linkedin.com/in/andrewyng",
+      "engagement_score": 2506,
+      "post_number": "post_8"
+    }
+  ],
+  "error": null,
+  "completed_at": "2025-09-04T00:02:27.624305",
+  "successful_scrapers": [
+    "instagram:https://www.instagram.com/natgeo/",
+    "youtube:https://www.youtube.com/@NatGeo/",
+    "tiktok:https://www.tiktok.com/@natgeo",
+    "linkedin:https://www.linkedin.com/in/andrewyng"
+  ],
+  "failed_scrapers": [
+    "twitter:https://x.com/AndrewBolis"
+  ]
+}

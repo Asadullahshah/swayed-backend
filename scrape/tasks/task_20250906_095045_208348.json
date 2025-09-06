@@ -1,0 +1,290 @@
+{
+  "status": "completed",
+  "started_at": "2025-09-06T09:50:45.208792",
+  "urls_processed": [
+    {
+      "index": 1,
+      "url": "https://x.com/elonmusk",
+      "platform": "twitter",
+      "username": "elonmusk",
+      "status": "pending"
+    }
+  ],
+  "platforms_needed": [
+    "twitter"
+  ],
+  "total_urls": 1,
+  "result_data": [
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "text",
+      "url": "https://x.com/elonmusk/status/1963889837389271464",
+      "text": "🇦🇹",
+      "media_count": 0,
+      "stats": {
+        "views": 9011144,
+        "likes": 62352,
+        "retweets": 7194,
+        "replies": 3330,
+        "quotes": 243,
+        "bookmarks": 930
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225292292,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1963889837389271464",
+      "timestamp": "2025-09-05T08:59:59+00:00",
+      "language": "art",
+      "engagement_score": 2854624.1999999997,
+      "post_number": "post_1"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "text",
+      "url": "https://x.com/elonmusk/status/1963960077024379139",
+      "text": "Cool feature",
+      "media_count": 0,
+      "stats": {
+        "views": 8600727,
+        "likes": 13308,
+        "retweets": 1980,
+        "replies": 1482,
+        "quotes": 46,
+        "bookmarks": 505
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225292292,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1963960077024379139",
+      "timestamp": "2025-09-05T13:39:05+00:00",
+      "language": "en",
+      "engagement_score": 2614997.1,
+      "post_number": "post_2"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "image",
+      "url": "https://x.com/elonmusk/status/1964029014357725512",
+      "text": "Maybe this is the problem 😂 https://t.co/lJyohb1wK7",
+      "image_urls": [
+        "https://pbs.twimg.com/media/G0Gh9mXbUAAy17w.jpg"
+      ],
+      "media_count": 1,
+      "stats": {
+        "views": 7640667,
+        "likes": 60651,
+        "retweets": 5843,
+        "replies": 4335,
+        "quotes": 470,
+        "bookmarks": 2921
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225292292,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1964029014357725512",
+      "timestamp": "2025-09-05T18:13:01+00:00",
+      "language": "en",
+      "engagement_score": 2437533.6,
+      "post_number": "post_3"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "text",
+      "url": "https://x.com/elonmusk/status/1963963885352104329",
+      "text": "Congrats SpaceX team on 500 orbital rocket launch &amp; landings!",
+      "media_count": 0,
+      "stats": {
+        "views": 7522473,
+        "likes": 52746,
+        "retweets": 7385,
+        "replies": 2769,
+        "quotes": 220,
+        "bookmarks": 641
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225292292,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1963963885352104329",
+      "timestamp": "2025-09-05T13:54:13+00:00",
+      "language": "en",
+      "engagement_score": 2388542.4,
+      "post_number": "post_4"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "text",
+      "url": "https://x.com/elonmusk/status/1964048895300030806",
+      "text": "Cool",
+      "media_count": 0,
+      "stats": {
+        "views": 4202093,
+        "likes": 32813,
+        "retweets": 5722,
+        "replies": 4627,
+        "quotes": 297,
+        "bookmarks": 962
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225292292,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1964048895300030806",
+      "timestamp": "2025-09-05T19:32:01+00:00",
+      "language": "en",
+      "engagement_score": 1350360.4,
+      "post_number": "post_5"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "text",
+      "url": "https://x.com/elonmusk/status/1964050689707167839",
+      "text": "Download the Grok App and try it out!",
+      "media_count": 0,
+      "stats": {
+        "views": 4113099,
+        "likes": 11102,
+        "retweets": 2167,
+        "replies": 1699,
+        "quotes": 79,
+        "bookmarks": 471
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225292292,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1964050689707167839",
+      "timestamp": "2025-09-05T19:39:09+00:00",
+      "language": "en",
+      "engagement_score": 1265183.2,
+      "post_number": "post_6"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "video",
+      "url": "https://x.com/elonmusk/status/1964072906549579938",
+      "text": "Died in PoE2 hardcore (again) https://t.co/vFw8E8ktgj",
+      "video_url": "https://video.twimg.com/amplify_video/1964072852686323712/vid/avc1/480x640/8HAM-dUGfVXfMvtf.mp4?tag=23",
+      "media_count": 1,
+      "stats": {
+        "views": 4010660,
+        "likes": 20930,
+        "retweets": 2047,
+        "replies": 3461,
+        "quotes": 194,
+        "bookmarks": 1014
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225292292,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1964072906549579938",
+      "timestamp": "2025-09-05T21:07:26+00:00",
+      "language": "en",
+      "engagement_score": 1256390.5,
+      "post_number": "post_7"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "text",
+      "url": "https://x.com/elonmusk/status/1964034134009139376",
+      "text": "Grok videos can now talk. \n\nMajor upgrade to image &amp; video generation in a few weeks. \n\nThis is still early beta.",
+      "media_count": 0,
+      "stats": {
+        "views": 3709159,
+        "likes": 16353,
+        "retweets": 2480,
+        "replies": 3337,
+        "quotes": 250,
+        "bookmarks": 1190
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225292292,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1964034134009139376",
+      "timestamp": "2025-09-05T18:33:22+00:00",
+      "language": "en",
+      "engagement_score": 1157899.2,
+      "post_number": "post_8"
+    },
+    {
+      "platform": "twitter",
+      "content_type": "tweet",
+      "type": "text",
+      "url": "https://x.com/elonmusk/status/1963971034484531390",
+      "text": "One tap to create a video",
+      "media_count": 0,
+      "stats": {
+        "views": 3438947,
+        "likes": 12416,
+        "retweets": 3085,
+        "replies": 2192,
+        "quotes": 119,
+        "bookmarks": 519
+      },
+      "author": {
+        "username": "elonmusk",
+        "name": "Elon Musk",
+        "followers_count": 225292292,
+        "profile_url": "https://x.com/elonmusk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg"
+      },
+      "URL_GROUP": "https://x.com/elonmusk",
+      "id": "1963971034484531390",
+      "timestamp": "2025-09-05T14:22:38+00:00",
+      "language": "en",
+      "engagement_score": 1069059.1,
+      "post_number": "post_9"
+    }
+  ],
+  "error": null,
+  "completed_at": "2025-09-06T09:51:46.587753",
+  "successful_scrapers": [
+    "twitter:https://x.com/elonmusk"
+  ],
+  "failed_scrapers": []
+}
