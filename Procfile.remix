@@ -1,0 +1,2 @@
+# Railway deployment configuration for Remix service  
+web: uvicorn remix.main:app --host 0.0.0.0 --port $PORT
