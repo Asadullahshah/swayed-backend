@@ -3,7 +3,7 @@ import json
 
 # Load the test data
 test_data = {
-    "remix_type": "hook",
+    "remix_type": "script",
     "platform": "youtube",
     "content_type": "video",
     "type": "video",
